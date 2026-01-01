@@ -463,9 +463,9 @@ Kungulleshkave të njoma u hiqet cipa duke i kruar me thikë, shpëlahen dhe pri
 
 ### 21. Sallatë me patëllxhanë
 
-Patëllxhanëve u hiqet bishti dge maja, lahen dhe priten në feta me trashsi 0,5 cm. Në qofte se patëllxhanët janë të trashë priten rrumbullak, ndërsa kur janë të hollë priten pjerrët.
+Patëllxhanëve u hiqet bishti dhe maja, lahen dhe priten në feta me trashsi 0,5 cm. Në qofte se patëllxhanët janë të trashë priten rrumbullak, ndërsa kur janë të hollë priten pjerrët.
 
-të holla (5 mm trashë), shpëlahen dhe u hiqet farëza. Pasi të jenë larë dhe kullohen, priten pjerrët. Kullohen, pastaj u hidhet kripë dhe lihen rreth 30 minuta. Pas kësaj, shpëlahen dhe lyhen me miell dhe skuqen. Përgatiten njëlloj si kungulleshkat, me hudhra të shtypura, me vaj e uthull ose me kos.
+Patëllxhanët e prerë futen në ujë me krip dhe lihen 30 minuta që t'u dalë hidhërimi. Pastaj shpëlahen, kullohen, hidhet piper e kripë, kalohen në mjiell dhe skuqen. Përgatiten njëlloj si kungulleshkat, me hudra të shtypura, me vaj e uthull ose me kos.
 
 **Për 1 kg patëllxhanë duhen:**
 
@@ -515,7 +515,7 @@ Vaji duhet të jetë i ftohtë, ndërsa vezët e ruajtura në frigorifer duhet t
 
 ### 23. Sallatë me qepë të thata.
 
-Qepët e thata grihen hollë në formë gjysmërrethi dhe vendosen në enë porcelani ose plastmasi. Mbi to hidhet ujë i nxehtë, lihen 5-10 minuta dhe pastaj hiqen. Rregullohen me vaj, uthull, kripë dhe piper të zi
+Qepët e thata grihen hollë në formë gjysmërrethi dhe vendosen në enë porcelani ose plastmasi. Mbi to hidhet ujë i nxehtë, lihen 5-10 minuta dhe pastaj hiqen. Rregullohen me vaj, uthull, kripë dhe piper të zi.
 
 **Për 2 kokrra qepë mesatare duhen:**
 
@@ -526,7 +526,7 @@ Qepët e thata grihen hollë në formë gjysmërrethi dhe vendosen në enë porc
 
 ### 24. Sallatë shëndeti.
 
-Kastraveca të freskët, karota dhe mollë, priten në formë fijesh, ndërsa gjethet e sallatës jeshile priten në 3-4 pjesë. Të gjitha përzihen bashkë duke i shtuar lëng limoni, salcë kosi dhe kripë. Sipër sallata zbukurohet me feta domatesh dhe majdanoz të grirë imët
+Kastraveca të freskët, karota dhe mollë, priten në formë fijesh, ndërsa gjethet e sallatës jeshile priten në 3-4 pjesë. Të gjitha përzihen bashkë duke i shtuar lëng limoni, salcë kosi dhe kripë. Sipër sallata zbukurohet me feta domatesh dhe majdanoz të grirë imët.
 
 **Për 4-5 persona duhen:**
 
@@ -541,7 +541,7 @@ Kastraveca të freskët, karota dhe mollë, priten në formë fijesh, ndërsa gj
 
 ### 25. Sallatë me karota të freskëta.
 
-Karotat e pastruara e të lara grihen në rende me vrima të mëdha, u hidhet pak kripë e piper i zi, shtohen hudhra të shtypura, përzihen duke i hedhur vaj e uthull ose më mirë salcë majoneze
+Karotat e pastruara e të lara grihen në rende me vrima të mëdha, u hidhet pak kripë e piper i zi, shtohen hudhra të shtypura, përzihen duke i hedhur vaj e uthull ose më mirë salcë majoneze.
 
 **Për 500 gr karota duhen:**
 
@@ -553,7 +553,7 @@ Karotat e pastruara e të lara grihen në rende me vrima të mëdha, u hidhet pa
 
 ### 26. Sallatë perimesh me fruta.
 
-Karotat e qëruara e të lara grihen në rende me vrima të mëdha, lakra dhe mollët grihen hollë në formë fijesh, ndërsa sallata jeshile pritet në copa gjithashtu të mëdha. Produktet e përgatitura përzihen së bashku, rregullohen me vaj, uthull e kripë dhe vendosen në vend të freskët për 30 minuta
+Karotat e qëruara e të lara grihen në rende me vrima të mëdha, lakra dhe mollët grihen hollë në formë fijesh, ndërsa sallata jeshile pritet në copa gjithashtu të mëdha. Produktet e përgatitura përzihen së bashku, rregullohen me vaj, uthull e kripë dhe vendosen në vend të freskët për 30 minuta.
 
 **Për 4-5 persona duhen:**
 
@@ -654,7 +654,7 @@ Në një tas hidhen kastraveca të grirë hollë (mundësisht në rende me vrima
 
 ### 34. Peshk i zier me majonezë e sallatë
 
-Peshku, që nuk ka shumë hala si p.sh. qefulli, jevreku, korani, koceja me peshë jo më pak se 500 gr pastrohet nga luspat e të brendshmet, lahet dhe vihet për t'u zier. I hidhet ujë derisa të mbulohet dhe kur të marrë valë shtohen qepë (të pjekura mbi sobë), karota, rrënjë selino, majdanoz, disa kokrra piper dhe kripë. Lihet të ziejë rreth 20-25 minuta dhe pastaj ftohet në lëngun e vet. Peshku i ftohur hiqet me kujdes, ndahet koka dhe bishti kurse pjesës tjetër i hiqet shtylla kurrizore dhe lëkura, duke patur kujdes që tuli (filetoja) të mos thërmohet. Në një pjatancë vendoset sallatë perimesh e përzier, e rregulluar me majonezë, nga të dyja anët e sallatës ose mbi të, vendosen filetat e peshkut. Peshku mbulohet me salcë majoneze dhe zbukurohet me karota, me speca gogozhare, me feta limoni, ullinj, vezë të ziera, me gjethe sallate jeshile dhe majdanoz. Mënyrat e zbukurimit janë të ndryshme dhe varen nga dëshira e çdo amvise
+Peshku, që nuk ka shumë hala si p.sh. qefulli, jevreku, korani, koceja me peshë jo më pak se 500 gr pastrohet nga luspat e të brendshmet, lahet dhe vihet për t'u zier. I hidhet ujë derisa të mbulohet dhe kur të marrë valë shtohen qepë (të pjekura mbi sobë), karota, rrënjë selino, majdanoz, disa kokrra piper dhe kripë. Lihet të ziejë rreth 20-25 minuta dhe pastaj ftohet në lëngun e vet. Peshku i ftohur hiqet me kujdes, ndahet koka dhe bishti kurse pjesës tjetër i hiqet shtylla kurrizore dhe lëkura, duke patur kujdes që tuli (filetoja) të mos thërmohet. Në një pjatancë vendoset sallatë perimesh e përzier, e rregulluar me majonezë, nga të dyja anët e sallatës ose mbi të, vendosen filetat e peshkut. Peshku mbulohet me salcë majoneze dhe zbukurohet me karota, me speca gogozhare, me feta limoni, ullinj, vezë të ziera, me gjethe sallate jeshile dhe majdanoz. Mënyrat e zbukurimit janë të ndryshme dhe varen nga dëshira e çdo amvise.
 
 **Për 1 peshk 800-900 gr duhen:**
 
