@@ -1,0 +1,9 @@
+[book]
+title = "Si Të Gatuajmë"
+authors = ["Evgjeni Harizi"]
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+
