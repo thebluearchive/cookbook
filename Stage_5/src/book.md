@@ -14,17 +14,19 @@ Proteinat janë lëndë kryesore për trupin e njeriut; ato gjenden në mish, ve
 
 Yndyrnat janë burim i rëndësishëm energjie për organizmin e njeriut; 1 gr. yndyrë jep 9,3 kkalori. Yndyrnat si gjalpi e vajrat përvetësohen më lehtë nga organizmi, sea dhjami i lopës dhe i sashit, i cili tretet në një temperaturë më të lartë nga ajo e trupit të njeriut.
 
-Karbohidratet shërbejnë si burim energjie. Një karbohidrat jep 41 kkalori. Karbohidratet përmbajnë thuajse të gjitha prodhimet vegjetale, si drithërat, perimet, frutat, etj.
+Karbohidratet shërbejnë si burim energjie. Një karbohidrat jep 4,1 kkalori. Karbohidratet përmbajnë thuajse të gjitha prodhimet vegjetale, si drithërat, perimet, frutat, etj.
 
-Kripërat minerale janë përbërës ushqimorë thelbësorë. Këto kanë rëndësi për organizmin, sepse marrin pjesë në të gjitha proceset biokimike që ndodhin në të. Kështu p.sh., kripërat e kalciumit dhe të fosforit janë pjesë përbërëse e kockave, hekuri merr pjesë në përbërjen e gjakut, natriumi dhe klori nevojiten për krijimin e acideve të stomakut.
+Në përbërjen e produkteve ushqimore hyjnë edhe kripërat minerale siç janë kripërat e hekurit, të kalciumit, klorit, natriumit etj. Këto kanë rëndësi të madhe për organizmin, sepse marrin pjesë në të gjitha proceset fizilogjike që ndodhin në të. Kështu p.sh. kripërat e kalciumit dhe të fosforit janë pjesë përbërëse kryesore e kockave, hekuri merr pjesë në përbërjen e gjakut, natriumi dhe klori nevojiten për krijimin e acideve të stomakut etj.
 
-Vitamina A gjendet në perimet si karota, patatja, speca etj. Vitamina B gjendet në bukë dhe në pjesë të mishit si veshka, mëlçia e zezë etj. Vitamina C gjendet kryesisht në produktet vegjetale d.m.th. në fruta e perime, ajo është më pak e qëndrueshme sesa vitaminat e tjera, ndaj të nxehtit dhe shkatërrohet gjatë përgatitjes së ushqimeve në temperaturë të lartë, si dhe në ndikimin e oksigjenit të ajrit, prandaj gjatë përgatitjes së gjellëve me perime është e domosdoshme të respektohen kushtet që do të përmenden më poshtë.
+Vitaminat janë lëndë të veçanta, të cilat bëjnë pjesë në produktet ushqimore dhe nevojiten për ta mbajtur organizmin në gjendje normale.
+
+Vitamina A gjendet në vaj peshku, gjalpë të freskët, vezë, qumësht, dhe në perimet si karota, domatja, speci etj. Vitamina B gjendet në bukë dhe në pjesë të mishit si veshka, mëlçia e zezë etj. Vitamina C gjendet kryesisht në produktet vegjetale dmth në fruta e perime, ajo është më pak e qëndrueshme, sesa vitaminat e tjera, ndaj të nxehtit dhe shkatërrohet gjatë përgatitjes së ushqimeve në temperaturë të lartë, si dhe në ndikimin e oksigjenit të ajrit, prandaj gjatë përgatitjes së gjellëve me perime është e domosdoshme të respektohen kushtet që do të përmenden më poshtë.
 
 Vitamina D gjendet në prodhimet e qumështit, në të verdhën e vezës, në vajin e peshkut si dhe në mëlçitë e kafshëve.
 
-Të gjitha vitaminat e forcojnë organizmin dhe e bëjnë atë qëndrueshëm ndaj sëmundjeve të ndryshme duke përfshirë edhe sëmendjet nghitëse.
+Të gjitha vitaminat e forcojnë organizmin dhe e bëjnë atë më të qëndrueshëm ndaj sëmundjeve të ndryshme duke përfshirë edhe sëmundjet ngjitëse.
 
-Sasia e vitaminave që janë të nevojshme për organizmin e nejriut është shumë e vogël në krahasim me lëndët e tejra ushqimore (proteinat, yndyrnat, karbohidratet) dhe shprehet në miligram. Megjithëkëtë rëndësia biologjike e vitaminave është shumë e madhe. Ato ndikojnë në rritjen e organizmit, këmbimin e ushqimeve (metabolizmin), marrin pjesë në rregullimin e të gjitha proceseve të jetës.
+Sasia e vitaminave që janë të nevojshme për organizmin e njeriut është shumë e vogël në krahasim me lëndët e tjera ushqimore (proteinat, yndyrnat, karbohidratet) dhe shprehet në miligram. Megjithëkëtë rëndësia biologjike e vitaminave është shumë e madhe. Ato ndikojnë në rritjen e organizmit, këmbimin e ushqimeve (metabolizmin), marrin pjesë në rregullimin e të gjitha proceseve të jetës.
 
 # Mënyrat kryesore të përgatitjes së ushqimit
 
@@ -52,17 +54,23 @@ Që të mos harxhohet shumë kohë për gatim duhet që më parë të zgjidhen p
 
 Domatet, specat, patëllxhanët me madhësi mesatare dhe me formë të rregullt, përdoren për mbushje; domatet e pjekura mirë dhe të forta përdoren për sallatë, ndërsa domatet e pjekura tepër dhe të buta përdoren për gjellë dhe salcë.
 
-Përpunimi i nxehtë, është një proces përfundimtar i përgatitjes së gjellëve. Gjatë përpunimit të nxehtë produkti zbutet, fiton shije e aromë të mirë dhe përvetësohet më mirë nga organizmi i njeriut. Përveç këtyre përpunimi i nxehtë zhduk mikroorganizmat e ndryshëm që shpeshherë ndodhen në produkte. Metoda më e sigurtë e përpunimit të nxehtë është zierja, gjatë së cilës zhduken edhe vezët e askarideve e të krimbave të ndryshëm që ndodhen në to.
+**Përpunimi i nxehtë**, është një proces përfundimtar i përgatitjes së gjellëve. Gjatë përpunimit të nxehtë produkti zbutet, fiton shije e aromë të mirë dhe përvetësohet më mirë nga organizmi i njeriut. Përveç këtyre përpunimi i nxehtë zhduk mikroorganizmat e ndryshëm që shpeshherë ndodhen në produkte. Metoda më e sigurtë e përpunimit të nxehtë është zierja, gjatë së cilës zhduken edhe vezët e askarideve e të krimbave të ndryshëm që ndodhen në to.
 
 Disa produkte përmbajnë lëndë të dëmshme për organizmin e njeriut si fazeolinë (te fasulja), salaninë (te patatja) etj. Këto shkatërrohen gjatë përpunimit të nxehtë ose kalojnë në lëng (kështu shpjegohet derdhja e ujit të parë te fasulet).
 
-Gjatë përgatitjes së gjellëve përdoren disa lloje të përpunimit të nxehtë si zierja, skuqja ose përpunim i kombinuar (skuqje dhe pastaj zierje). Zierja e produkteve mund të bëhet me sasi të madhe uji, me sasi të vogël, me lëngun e vet dhe me avull. Në disa raste zierja bëhet në temperaturë më të ulët se 100°C në banjo me ujë të nxehtë ("banjo mari"). Në këtë rast ena ku gatuhet gjella vendoset në një enë më të madhe të mbushur me ujë të vluar. Skuqja e produkteve bëhet me sasi të vogël yndyre (mënyra kryesore), në friturë (ku produkti zhytet plotësisht me yndyrë), në zjarr të hapur (mbi prush) dhe në furrë, kurse pjekja bëhet vetëm në furrë.
+Gjatë përgatitjes së gjellëve përdoren disa lloje të përpunimit të nxehtë si zierja, skuqja ose përpunim i kombinuar (skuqje dhe pastaj zierje).
+
+Zierja e produkteve mund të bëhet me sasi të madhe uji, me sasi të vogël, me lëngun e vet dhe me avull. Në disa raste zierja bëhet në temperaturë më të ulët se 100°C në banjo me ujë të nxehtë ("banjo mari"). Në këtë rast ena ku gatuhet gjella vendoset në një enë më të madhe të mbushur me ujë të vluar.
+
+Skuqja e produkteve bëhet me sasi të vogël yndyre (mënyra kryesore), në friturë (ku produkti zhytet plotësisht me yndyrë), në zjarr të hapur (mbi prush) dhe në furrë, kurse pjekja bëhet vetëm në furrë.
 
 Një nga kushtet e domosdoshme që duhet të respektohet gjatë përpunimit të nxehtë është se ai nuk duhet të zgjasë më tepër nga sa i duhet produktit për t'u bërë gati. Në qoftë se përpunimi i nxehtë vazhdon për një kohë të gjatë, nën ndikimin e temperaturës së lartë, produktet ushqimore pësojnë një sërë ndryshimesh, të cilat ndikojnë keq në përvetësimin e tyre nga organizmi i njeriut. Ato humbasin një pjesë të vitaminave, të kripërave minerale dhe lëndëve aromatike. Aroma dhe shije e produktit gjithashtu ndryshon mjaft. Prandaj zierja e gjellës për një kohë të gjatë nuk është e këshillueshme. Po kështu edhe ringrohja e gjellës për një kohë të gjatë (1-2 orë) sipër sobës nuk duhet të bëhet, pasi shkatërrohet një pjesë e mirë e vlerave ushqimore dhe produktet në këtë rast shpërbëhen e mund të shkaktojnë sëmundje në zorrë. Prandaj këshillohet që ushqimi të hahet i porsa-përgatitur (sigurisht brenda mundësive).
 
-Nga të gjitha mënyrat e përpunimit të nxehtë, zierja është ajo që përdoret më shumë. Zierja e produkteve zakonisht bëhet në dy mënyra:
-- Për të marrë produkt të shijshëm, të ngopur me lëng.
-- Për të marrë lëng sa më të shijshëm.
+Nga të gjitha mënyrat e përpunimit të nxehtë, zierja është ajo që përdoret më shumë.
+
+Zierja e produkteve zakonisht bëhet në dy mënyra:
+1. për të marrë produkt të shijshëm, të ngopur me lëng;
+2. për të marrë lëng sa më të shijshëm.
 
 Për rastin e parë produktet vendosen në copa të mëdha në ujë të kripur, të vluar, vihen në zjarr të fortë derisa të marrin valë, pastaj hiqen nga zjarri i fortë dhe lihen të ziejnë në zjarr të javashëm derisa produkti të bëhet gati.
 
@@ -70,21 +78,19 @@ Për të marrë lëng sa më të shijshëm dhe më të pasur me lëndë ekstrakt
 
 Jeshillëqet si spinaqi, pazia, lëpjeta, hithra, bizelja jeshile, bishtaja etj.: që të ruajnë ngjyrën jeshile gjatë përpunimit të nxehtë, duhet të vendosen në ujë të vluar të bollshëm, të mbulohen me kapak dhe të ngrohen në zjarr shumë të fortë deri në vlim. Pastaj i hiqet kapaku, vlohen derisa të bëhen gati dhe kullohen. Zierja e tyre nuk duhet të zgjasë asnjë minutë më tepër nga sa nevojitet. Zakonisht gjatë zierjes (me përjashtim të bizelave) u hidhet kripë për të mos humbur kripërat minerale.
 
-Duke patur parasysh se lëngu i marrë nga zierja e perimeve është i pasur me vlera ushqimore e vitamina, ai nuk duhet të derdhet, por të përdoret për përgatitjen e supave dhe gjellëve të tjera.
+Duke patur parasysh se lëngu i marrë nga zierja e perimeve është i pasur me vlera ushqimore e vitamina, ai nuk duhet të derdhet, por të përdoret për përgatitjen e supave dhe gjellëve të tjera. Përveç zierjes në lëng, produktet mund të zihen dhe në avull. Në këtë rast ato pothuajse i ruajnë plotësisht vlerat ushqimore të tyre.
 
-Përveç zierjes në lëng, produktet mund të zihen dhe në avull. Në këtë rast ato pothuajse i ruajnë plotësisht vlerat ushqimore të tyre. Perimet, sidomos jeshillëqet, nuk duhet të zihen në enë të pakallajisura ose në enë të emaluara të ciflosura.
+Perimet, sidomos jeshillëqet, nuk duhet të zihen në enë të pakallajisura ose në enë të emaluara të ciflosura.
 
-Gjatë skuqjes produkti ngrohet me yndyrë pa i shtuar lëng. Yndyra e ruan atë nga djegia, siguron ngrohje të barabartë nga të gjitha anët, përmirëson shijen e gjellës dhe shton përmbajtjen e kalorive të saj.
-
-Rëndësi të madhe gjatë skuqjes ka qëndrueshmëria e yndyrës ndaj temperaturës së lartë, pasi të gjitha yndyrnat nuk kanë temperaturë të njëjtë të krijimit të tymit. Tymi krijohet atëherë kur yndyra zbërthehet dhe si rezultat humbet vlerat ushqimore dhe shijen. Prandaj gjatë skuqjes yndyrnat nuk duhet të nxehen shumë, në mënyrë që të mos krijohet tym (shpërbërje).
-
-Yndyrnat më të përshtatshme për skuqje janë dhjami i derrit që e ka temperaturën e shpërbërjes 210°C, vaji i kikirikut dhe i lule diellit 195°C, kurse vaji i ullirit i cili e ka temperaturën e shpërbërjes 170°C nuk është i përshtatshëm për skuqje.
+Gjatë skuqjes produkti ngrohet me yndyrë pa i shtuar lëng. Yndyra e ruan atë nga djegia, siguron ngrohje të barabartë nga të gjitha anët, përmirëson shijen e gjellës dhe shton përmbajtjen e kalorive të saj. Rëndësi të madhe gjatë skuqjes ka qëndrueshmëria e yndyrës ndaj temperaturës së lartë, pasi të gjitha yndyrnat nuk kanë temperaturë të njëjtë të krijimit të tymit. Tymi krijohet atëherë kur yndyra zbërthehet dhe si rezultat humbet vlerat ushqimore dhe shijen. Prandaj gjatë skuqjes yndyrnat nuk duhet të nxehen shumë, në mënyrë që të mos krijohet tym (shpërbërje). Yndyrnat më të përshtatshme për skuqje janë dhjami i derrit që e ka temperaturën e shpërbërjes 210°C, vaji i kikirikut dhe i lule diellit 195°C, kurse vaji i ullirit i cili e ka temperaturën e shpërbërjes 170°C nuk është i përshtatshëm për skuqje.
 
 Në kushtet shtëpiake më tepër përdoret skuqja në tigan me sasi të vogël yndyre (5-10% të peshës së produktit). Zakonisht kripa hidhet kur produktet bëhen gati për t'u skuqur, kurse peshku mund të kripet 5-10 minuta përpara skuqjes. Skuqja bëhet gjithnjë në yndyrë të nxehtë, në këtë rast proteinat që ndodhen në sipërfaqe të produktit koagulohen (mpiksen shpejt). Kjo pengon daljen e lëngut nga produkti, kurse në rast se skuqja do të bëhet në yndyrë jo shumë të nxehtë, koha e skuqjes do të zgjatet, produkti do të humbasë shumë lëng, do të bëhet i thatë dhe jo shumë i shijshëm. Gjatë skuqjes këshillohet që kthimi i produkteve të bëhet me kujdes nga të dyja anët, ato nuk duhet të shpohen sepse u del lëngu. Është mirë që produktet e skuqura të vendosen në furrë ose në tigan të mbuluar me kapak dhe të vihen në zjarr të javashëm për disa minuta.
 
-Zakonisht për skuqje, në kushtet shtëpiake përdoret një përzierje e yndyrës: shkrihet dhjami në vaj dhe aty, për të përmirësuar shijen, shtohet pak gjalpë (p.sh. disa vaj vegjetal me 1 kg dhjamë derri ngrohen së bashku, duke shtuar 100 gr. gjalpë). Kjo përzierje ftohet dhe ruhet në vend të freskët e të errët ku nuk hyjnë rrezet e diellit.
+Zakonisht për skuqje, në kushtet shtëpiake përdoret një përzierje e yndyrës: shkrihet dhjami në vaj dhe aty, për të përmirësuar shijen, shtohet pak gjalpë (p.sh. 1 liter vaj vegjetal me 1 kg dhjamë derri ngrohen së bashku, duke shtuar 100 gr. gjalpë). Kjo përzierje ftohet dhe ruhet në vend të freskët e të errët ku nuk hyjnë rrezet e diellit.
 
-Produktet e skuqura në shumë yndyrë, nga tigani kullohen nga yndyra dhe para se të spërkaten me pak gjalpë të freskët të shkrirë, në mënyrë që të marrin aromë të këndshme. Produkti i skuqur mirë ka shije dhe aromë të këndshme, kurse ai i skuqur më tepër nga sa duhet ka shije të keqe dhe përvetësohet me vështirësi nga organizmi.
+Produktet e skuqura në shumë yndyrë, nga tigani kullohen nga yndyra dhe para se të spërkaten me pak gjalpë të freskët të shkrirë, në mënyrë që të marrin aromë të këndshme.
+
+Produkti i skuqur mirë ka shije dhe aromë të këndshme, kurse ai i skuqur më tepër nga sa duhet ka shije të keqe dhe përvetësohet me vështirësi nga organizmi.
 
 Gjatë pjekjes së produkteve në furrë duhet të respektohen po ato rregulla si edhe gjatë skuqjes së zakonshme. Temperatura e furrës duhet të jetë e lartë, rreth 250°C, në mënyrë që sipërfaqja e produktit brenda një kohe të shkurtër të mbulohet me një cipë të kuqërremtë. Mishi gjatë pjekjes në furrë duhet të spërkatet herë pas here me lëngun dhe yndyrën që mblidhet në fund të enës. Në qoftë se lëngu është avulluar ose ka mbetur pak dhe mishi nuk është akoma gati, duhet të shtohet pak ujë i nxehtë. Në fund të pjekjes, i gjithë lëngu duhet të avullohet.
 
@@ -94,9 +100,9 @@ Gjatë stufimit të produkteve dhe perimeve që përmbajnë sasi të madhe uji n
 
 ## Përpunimi i ftohtë i produkteve dhe ruajtja e tyre në kushtet shtëpiake
 
-Produktet më të përdorshme në kushtet shtëpiake janë: perimet, mishi, peshku, qumështi dhe produktet e tij, mielli, orizi, makaronat, fasulet, frutat e ndryshme etj. Përpunimit të ftohtë zakonisht i nënshtrohen perimet, frutat, mishi, peshku dhe shpendët. Mënyrat e përpunimit të ftohtë të produkteve të ndryshme do të jepen në kapitujt e mëposhtëm ku do të flitet për gatimin e tyre.
+Produktet më të përdorshme në kushtet shtëpiake janë: perimet, mishi, peshku, qumështi dhe produktet e tij, mielli, orizi, makaronat, fasulet, frutat e ndryshme etj. Përpunimit të ftohtë zakonisht i nënshtrohen perimet, frutat, mishi, peshku dhe shpendët.
 
-Në kushtet shtëpiake produktet që prishen shpejt janë: mishi, peshku, shpendët, qumështi etj, kurse mielli, makaronat, orizi, sheqeri, kripa, ruhen nëpër vazo qelqi, porcelani ose plastmasi, ose në pakot e veta, të vendosura në vende të thata si në dollap etj.
+Mënyrat e përpunimit të ftohtë të produkteve të ndryshme do të jepen në kapitujt e mëposhtëm ku do të flitet për gatimin e tyre. Në kushtet shtëpiake produktet që prishen shpejt janë: mishi, peshku, shpendët, qumështi etj, kurse mielli, makaronat, orizi, sheqeri, kripa, ruhen nëpër vazo qelqi, porcelani ose plastmasi, ose në pakot e veta, të vendosura në vende të thata si në dollap etj.
 
 Në kuzhinën e çdo familjeje duhet të gjenden të gjitha sendet pikante që i japin shije dhe aromë gjellës si p.sh. piperi i zi, spec i kuq, kanella, karafili, vanilja, limontozi, soda e bukës, fletët e dafinës, rigoni, nenexhiku dhe uthulla. Gjithashtu mirë është të mbahen në shtëpi edhe erëzat e freskëta si: majdanoz, kopër, selino, të cilat mund të ruhen për 2-3 ditë në enë me ujë, ose në qoftë se kemi frigorifer i lajmë dhe ashtu të lagura i vendosim në qeskë plastmasi të mbyllura mirë që të mos avullohet uji.
 
@@ -106,11 +112,7 @@ Qepët dhe hudhrat e thata mund të ruhen për një kohë më të gjatë sidomos
 
 Patatet mund të ruhen në vende të freskëta dhe të errëta për një kohë më të gjatë se perimet e tjera.
 
-Frutat gjithashtu ruhen më mirë në vende të freskëta. Në kushte të zakonshme ato mund të ruhen 2-3 ditë.
-
-Fasulet dhe thjerrëzat mund të ruhen për një kohë të gjatë, pasi nuk prishen, por duhet të mbahen në vende të freskëta dhe të ajrosura. Arrat duhet të ruhen në vende të thata dhe të ajrosura.
-
-Kafeja është mirë të bluhet kokërr, sepse e bluar e humbet shpejt aromën.
+Frutat gjithashtu ruhen më mirë në vende të freskëta. Në kushte të zakonshme ato mund të ruhen 2-3 ditë. Fasulet dhe thjerrëzat mund të ruhen për një kohë të gjatë, pasi nuk prishen, por duhet të mbahen në vende të freskëta dhe të ajrosura. Arrat duhet të ruhen në vende të thata dhe të ajrosura. Kafeja është mirë të bluhet kokërr, sepse e bluar e humbet shpejt aromën.
 
 ## Regjimi i të ushqyerit dhe mënyra e shtrimit të tavolinës
 
@@ -124,12 +126,15 @@ Një rol të madh luan regjimi i ushqimit tek njerëzit me punë mendore, sepse 
 
 Duhet të kemi parasysh se njerëzit që merren me punë fizike të rëndë duhet të marrin gjatë ditës rreth 4500-5000 kalori, me punë fizike mesatare 3000-3500 kalori, ndërsa ata me punë mendore jo shumë intensive si nxënësit dhe studentët 2000-3000 kalori.
 
-Zakonisht ushqimi ditor duhet të ndahet afërsisht në këtë mënyrë: në mëngjes duhet të merret rreth 25% e ushqimit ditor, në drekë 45% dhe në darkë 30%. Për të llogaritur sesa kalori përmban një gjellë ose produkt ushqimor duhet të dihet përbërja kimike e tij. Kështu p.sh. qumështi mesatarisht përmban yndyrë 40%, proteina 50%, karbohidrate 30%. Duke ditur se 1 gr yndyrë jep 9,3 kkalori dhe 1 gr proteinë ose karbohidrat secila nga 4,1 kkalori, (këtu janë marrë parasysh kaloritë e mëdha), mund të llogarisim sesa kalori përmban 1 litër qumësht dhe konkretisht: 1 litër qumësht përmban 40 gr yndyrë, 50 gr proteina dhe 30 gr karbohidrate. Duke i shumëzuar këto me përmbajtjen kalorike do të kemi:
+Zakonisht ushqimi ditor duhet të ndahet afërsisht në këtë mënyrë: në mëngjes duhet të merret rreth 25% e ushqimit ditor, në drekë 45% dhe në darkë 30%.
 
-40 X 9,3 = 372
-50 X 4,1 = 205
-30 X 4,1 = 123
-700 kkalori
+Për të llogaritur sesa kalori përmban një gjellë ose produkt ushqimor duhet të dihet përbërja kimike e tij. Kështu p.sh. qumështi mesatarisht përmban yndyrë 4%, proteina 5%, karbohidrate 3%. Duke ditur se 1 gr yndyrë jep 9,3 kkalori dhe 1 gr proteinë ose karbohidrat secila nga 4,1 kkalori, (këtu janë marrë parasysh kaloritë e mëdha), mund të llogarisim sesa kalori përmban 1 litër qumësht dhe konkretisht: 1 litër qumësht përmban 40 gr yndyrë, 50 gr proteina dhe 30 gr karbohidrate. Duke i shumëzuar këto me përmbajtjen kalorike do të kemi:
+
+    40 X 9,3 = 372
+    50 X 4,1 = 205
+    30 X 4,1 = 123
+    ______________
+           700 kkalori
 
 Pra 1 litër qumësht ka afërsisht 700 kkalori (themi afërsisht sepse përbërja kimike e qumështit ndryshon shumë sipas stinës, moshës, llojit dhe kohës së mjeljes).
 
@@ -138,6 +143,8 @@ Dihet se paraqitja e bukur e tavolinës dhe e gjellës ndikon shumë në hapjen 
 Kur nxirren ëmbëlsirat dhe frutat, tavolina duhet të jetë e pastruar nga pjatat dhe mbeturinat e ngrënjes. Ëmbëlsira nxirret në pjatë të veçantë (të vogël) dhe me pirunj e thika të vogla...
 
 Çdo amvisë për ndarjen e gjellës duhet të sigurojë mjetet si lugë (qepshe) për ndarjen e supës, lugë në formë lopate me vrima dhe pa vrima për gjellët e dyta. Është mirë që supa të vendoset në tavolinë në një supierë prej porcelani dhe prej andej të ndahet pastaj në pjata të veçanta.
+
+Gjellët e dyta po ashtu vendosen në tavolinë, në pjatanca të posaçme, pasi të mbarohet supa. Është mirë që gjella të hahet e ngrohtë sepse kështu është më e shijshme.
 
 Shpërndarja racionale e produkteve dhe zgjedhja e gjellëve gjatë ditës, është një kërkesë e rëndësishme për një ushqim sa më të rregullt. Gjatë përgatitjes së ushqimit për mëngjes, drekë e darkë duhet të kihet parasysh lloji dhe sasia që nevojitet për çdo pjesëtar të familjes duke u nisur nga mosha dhe profesioni.
 
@@ -155,8 +162,8 @@ Pesha e produkteve në gram
 | 1   | Ujë                    | 250                   | 200                      | 18                      | 5                      |
 | 2   | Reçel                  | 330                   | 270                      | 50                      | 17                     |
 | 3   | Rush i thatë           | 190                   | 155                      | 25                      | 7                      |
-| 4   | Kakao                  | —                     | —                        | 23                      | 9                      |
-| 5   | Limontoz               | —                     | —                        | 23                      | 8                      |
+| 4   | Kakao                  | —                     | —                        | 25                      | 9                      |
+| 5   | Limontoz               | 6                     | —                        | 25                      | 8                      |
 | 6   | Kanellë e bluar        | —                     | —                        | 20                      | 8                      |
 | 7   | Kafe e bluar           | —                     | —                        | 20                      | 7                      |
 | 8   | Likerna                | —                     | —                        | 20                      | 7                      |
