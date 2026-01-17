@@ -445,7 +445,7 @@ Fasulet e pastruara lahen dhe vihen të ziejnë. Pas 10-15 minutash vlimi u kull
 
 ### 19. Sallatë me pure fasulesh
 
-Fasulet e ziera si më sipër shtypen në kullë. Pureja e përgatitur përzihet me vaj, kripë e piper dhe kjo masë vendoset në pjatë duke i dhënë formë të bukur. Sipër spërkatet me vaj e uthull.
+Fasulet e ziera si më sipër shtypen në kullesë dhe pureja e përgatitur përzihet me vaj, kripë e piper të zi. Kjo masë vendoset në pjatë duke i dhënë formë të bukur; sipër spërkatet me vaj e uthull.
 
 **Për 1 filxhan fasule duhen:**
 
@@ -457,7 +457,7 @@ Fasulet e ziera si më sipër shtypen në kullë. Pureja e përgatitur përzihet
 
 ### 20. Sallatë me kungull
 
-Kungulleshkave të njoma u hiqet cipa duke i kruar me thikë, shpëlahen dhe priten në feta. Pastaj shtohet kripë e piper, lyhen me miell nga të dyja anët dhe skuqen. Kungulleshkat e skuqura vendosen në pjatë dhe u hidhet hudhra të shtypura me vaj ulliri e uthull.
+Kungulleshkave të njoma u hiqet cipa duke i kruar me thikë, shpëlahen dhe priten në feta. Pastaj shtohet kripë e piper, lyhen me miell nga të dyja anët dhe skuqen. Kungulleshkat e skuqura vendosen në pjatë dhe u hidhet hudhra të shtypura me vaj ulliri e uthull. Kjo sallatë mund të shoqërohet dhe me kos.
 
 **Për 1 kg kungulleshka duhen:**
 
@@ -488,11 +488,11 @@ Patëllxhanët e prerë futen në ujë me krip dhe lihen 30 minuta që t'u dalë
 
 Karotat pastrohen, lahen dhe zihen në ujë të vluar pa kripë. I hidhet aq ujë sa të mbulohen, ziejnë 30-40 minuta derisa të bëhen gati. Patatet e një madhësie (zakonisht merren më të voglat) lahen mirë dhe zihen të paqëruara në ujë të vluar me kripë 25-30 minuta. Pastaj ndërrohet uji dhe shpëlahen me ujë të ftohtë që të mos hapen. Fasulet zihen si për sallatë fasulesh; në vend të fasuleve mund të përdoren edhe bizele të njoma. Perimet e ziera priten në copa kubike të vogla afërsisht në madhësi të barabarta, vendosen në enë prej porcelani, shtohen tranguj turshi (mundësisht të kavanozëve) të prerë po në formë kubike, kripë, pak uthull, majdanoz i grirë dhe përzihen me kujdes me dy lugë ose pirun që të mos prishet forma e perimeve. Në këtë përzierje shtohet gjysma e salcës majoneze dhe përzihet përsëri me kujdes.
 
-Sallata e përgatitur vendoset në pjatë, i jepet forma ovale dhe mbulohet me pjesën tjetër të majonezës. Majoneza hapet në gjithë sipërfaqen e sallatës me lugë ose shpatull.
+Sallata e përgatitur vendoset në pjatë, i jepet forma ovale dhe mbulohet me pjesën tjetër të majonezës. Majoneza hapet në gjithë sipërfaqen e sallatës me lugë ose thikë.
 
 Sipër dhe anash sallata zbukurohet me feta panxhari të zier, me gogozhare të prera në formë fijesh, vezë të ziera dhe të prera në feta etj. Rreth e qark ose vende-vende vendosen gjethe sallate jeshile ose majdanoz.
 
-Në këtë sallatë mund të përdoret dhe mish viçi i zier, shpendë të zier ose peshk. Kur këto mishra priten në feta të mëdha, vihen për të zbukuruar sallatën nga jashtë, kurse kur priten në copa të vogla - përzihen bashkë me të. Sallata në këto raste merr emrin sipas produktit që përdoret, p.sh. sallatë ruse me mish, sallatë ruse me peshk ose me shpend.
+Në këtë sallatë mund të përdoret dhe mish viçi i zier, shpendë të zier ose peshk. Kur këto mishra priten në feta të mëdha, vihen për të zbukuruar sallatën nga jashtë, kurse kur priten në copa të vogla përzihen bashkë me të. Sallata në këto raste merr emrin sipas produktit që përdoret, p.sh. sallatë ruse me mish, sallatë ruse me peshk ose me shpend.
 
 Majoneza që përdoret për këtë sallatë përgatitet në këtë mënyrë: në një enë porcelani hidhen të verdhat e vezëve të ndara me kujdes nga të bardhat, shtohet lëng limoni ose limontoz i shkrirë me ujë, kripë e imët dhe punohet me tel vezësh ose pirun. Pastaj duke i rrahur vazhdimisht i shtohet vaj ulliri pak e nga pak, dhe më vonë, kur salca lidhet, sasia e vajit mund të shtohet.
 
@@ -576,7 +576,7 @@ Karotat e qëruara e të lara grihen në rende me vrima të mëdha, lakra dhe mo
 
 Domate mesatare të pjekura mirë dhe të forta priten në formë shporte, u hiqet tuli dhe u hidhet nga brenda kripë. Veçan përgatitet sallata ruse me majonezë me të cilën mbushen domatet.
 
-Çdo domate mbulohet nga sipër me majonezë dhe majdanoz të grirë hollë. Në një pjatancë shtrohen disa gjethe sallatë jeshile dhe mbi to vihen domatet e mbushura
+Çdo domate mbulohet nga sipër me majonezë dhe majdanoz të grirë hollë. Në një pjatancë shtrohen disa gjethe sallatë jeshile dhe mbi to vihen domatet e mbushura.
 
 **Për 1 kg domate (6-7 kokrra) duhen:**
 
@@ -633,7 +633,9 @@ Finoku i pastruar vihet të ziejë në ujë të vluar me kripë për 5 minuta, k
 
 ### 32. Sallatë me salcë kosi (liptao).
 
-Kosi i kulluar përzihet me kastraveca turshi të grirë shumë hollë dhe hudhra të shtypura në havan. Shtohet kripë, vaj ulliri dhe sipas dëshirës spec djegës. Në vend të kastravecave turshi mund të hidhen gogozhare. Gjatë servirjes përsëri hidhet pak vaj ulliri. Kjo sallatë mund të përgatitet edhe me gjizë jo shumë të kripur ose djathë, të cilat shtypen mirë që të bëhen në formë pureje.
+Kosi i kulluar përzihet me kastraveca turshi të grirë shumë hollë dhe hudhra të shtypura në havan. Shtohet kripë, vaj ulliri dhe sipas dëshirës spec djegës. Në vend të kastravecave turshi mund të hidhen gogozhare. Gjatë servirjes përsëri hidhet pak vaj ulliri.
+
+Kjo sallatë mund të përgatitet edhe me gjizë jo shumë të kripur ose djathë, të cilat shtypen mirë që të bëhen në formë pureje.
 
 **Për 500 gr salcë kosi duhen:**
 
@@ -661,7 +663,9 @@ Në një tas hidhen kastraveca të grirë hollë (mundësisht në rende me vrima
 
 ### 34. Peshk i zier me majonezë e sallatë
 
-Peshku, që nuk ka shumë hala si p.sh. qefulli, jevreku, korani, koceja me peshë jo më pak se 500 gr pastrohet nga luspat e të brendshmet, lahet dhe vihet për t'u zier. I hidhet ujë derisa të mbulohet dhe kur të marrë valë shtohen qepë (të pjekura mbi sobë), karota, rrënjë selino, majdanoz, disa kokrra piper dhe kripë. Lihet të ziejë rreth 20-25 minuta dhe pastaj ftohet në lëngun e vet. Peshku i ftohur hiqet me kujdes, ndahet koka dhe bishti kurse pjesës tjetër i hiqet shtylla kurrizore dhe lëkura, duke patur kujdes që tuli (filetoja) të mos thërmohet. Në një pjatancë vendoset sallatë perimesh e përzier, e rregulluar me majonezë, nga të dyja anët e sallatës ose mbi të, vendosen filetat e peshkut. Peshku mbulohet me salcë majoneze dhe zbukurohet me karota, me speca gogozhare, me feta limoni, ullinj, vezë të ziera, me gjethe sallate jeshile dhe majdanoz. Mënyrat e zbukurimit janë të ndryshme dhe varen nga dëshira e çdo amvise.
+Peshku, që nuk ka shumë hala si p.sh. qefulli, jevreku, korani, koceja me peshë jo më pak se 500 gr pastrohet nga luspat e të brendshmet, lahet dhe vihet për t'u zier. I hidhet ujë derisa të mbulohet dhe kur të marrë valë shtohen qepë (të pjekura mbi sobë), karota, rrënjë selino, majdanoz, disa kokrra piper dhe kripë. Lihet të ziejë rreth 20-25 minuta dhe pastaj ftohet në lëngun e vet.
+
+Peshku i ftohur hiqet me kujdes, ndahet koka dhe bishti kurse pjesës tjetër i hiqet shtylla kurrizore dhe lëkura, duke patur kujdes që tuli (filetoja) të mos thërmohet. Në një pjatancë vendoset sallatë perimesh e përzier, e rregulluar me majonezë, nga të dyja anët e sallatës ose mbi të, vendosen filetat e peshkut. Peshku mbulohet me salcë majoneze dhe zbukurohet me karota, me speca gogozhare, me feta limoni, ullinj, vezë të ziera, me gjethe sallate jeshile dhe majdanoz. Mënyrat e zbukurimit janë të ndryshme dhe varen nga dëshira e çdo amvise.
 
 **Për 1 peshk 800-900 gr duhen:**
 
@@ -690,7 +694,9 @@ me ullinj, kastraveca turshi, me domate të prera në feta, me rrepka të kuqe, 
 
 ### 36. Turli mishi e ftohtë
 
-Për përgatitjen e kësaj gjelle merren 3-4 lloje mishra p.sh. rosto, sallam, proshutë dhe ndonjë copë pulë (zakonisht pjesa e bardhë). Në një pjatancë vendosen në rreshta copat e mishit dhe si garniturë jepen sallata të stinës si kastraveca, domate ose turshi. Gjella shoqërohet me salcë majoneze, ose mustardë.
+Për përgatitjen e kësaj gjelle merren 3-4 lloje mishra p.sh. rosto, sallam, proshutë dhe ndonjë copë pulë (zakonisht pjesa e bardhë).
+
+Në një pjatancë vendosen në rreshta copat e mishit dhe si garniturë jepen sallata të stinës si kastraveca, domate ose turshi. Gjella shoqërohet me salcë majoneze, ose mustardë.
 
 **Për 500 gr mishra të ndryshëm duhen:**
 
@@ -709,7 +715,7 @@ Trutë vihen në ujë të ftohtë rreth 30 minuta që t'i bymehet cipa dhe t'i h
 * Karota: 5-6 copë
 * Bizele të njoma
 
-### 38. Patë me mëlçi
+### 38. Paté me mëlçi
 
 Mëlçitë shpëlahen, pastrohen nga cipa dhe damarët kryesorë, priten në copa dhe vendosen në tigan me yndyrë të nxehtë. Skuqen 2-3 minuta, pastaj shtohen 4-5 lugë ujë, mbulohen me kapak dhe lihen për 5 minuta. Në një enë tjetër skuqet qepa derisa të zverdhet, pastaj mëlçitë bashkë me qepët kalohen në makinën e mishit. Në purenë e formuar shtohet gjalpë i freskët, kaçkavall i grirë në rende, kripë, piper dhe të gjitha së bashku punohen mirë me lugë druri. Në qoftë se pureja është shumë e trashë hollohet me lëng mishi. Për këtë patë mund të përdoren dhe mëlçi derri, të cilat kanë vlerë ushqimore të njëllojtë me mëlçitë e tjera.
 
@@ -721,6 +727,7 @@ Mëlçitë shpëlahen, pastrohen nga cipa dhe damarët kryesorë, priten në cop
 * Kačkavall: 50 gr
 * Kripë
 * Piper
+
 
 # KAPITULLI III
 
