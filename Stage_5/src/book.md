@@ -4,7 +4,7 @@ Autor: Evgjeni Harizi
 Tiranë, 1978
 
 
-# Kapitulli I
+# KAPITULLI I
 
 # I. Ushqimi racional. Njohuri kryesore mbi produktet ushqimore.
 Një nga faktorët kryesorë që ndikon në ruajtjen e shëndetit të njeriut dhe të aftësive të tij për punë është ushqimi. Ushqimi është baza e jetës, burim energjie pa të cilin jeta nuk do të ishte e mundur. Organizmi i njeriut edhe në gjendje qetësie harxhon energji për punën e organeve dhe për mbajtjen e temperaturës së trupit konstant. Kur njeriu kryen punë fizike ose mendore, sasia e energjisë që harxhon organizmi i tij bëhet më e madhe. Si rrjedhim një ushqim jo i plotë, i çrregullt, dobëson organizmin, ul rezistencën e tij ndaj sëmundjeve dhe rrezikon shëndetin e njeriut.
@@ -741,27 +741,36 @@ Si përgatitet një lëng mishi ose kockash i zakonshëm.
 
 Lëngu i mishit del më i shijshëm nga mishi ose kockat e lopës dhe të viçit, bile është më i shijshëm dhe më aromatik kur përgatitet nga pjesa e gjoksit. Kockat copëtohen nëpër kyçe, shpëlahen dhe vendosen në fund të tenxheres, mbulohen me ujë të ftohtë dhe vihen në zjarr të fortë derisa të marrin valë. Hiqet shkuma dhe lihet të ziejë në zjarr të javashëm. Në mes të zierjes shtohen lëndë aromatike si: qepë mundësisht të pjekura mbi sobë, karota, rrënjë selino, fletë dafine, piper i zi dhe pak kripë. Lihen të ziejnë rreth 2-3 orë në zjarr shumë të javashëm. Në rast se lëngu vlohet në zjarr të fortë ai turbullohet dhe humbet shijen. Për të shkurtuar kohën e zierjes së kockave mund të përdoret tenxherja me presion. Ndërsa në tenxhere të zakonshme mishi zien për 2-3 orë, për atë me presion në zjarr të javashëm zien për 30 minuta. Lëngu i përgatitur nga zierja e kockave, kullohet dhe përdoret për supë. Në rast se së bashku me kockat ka dhe copa mishi, atëherë mishi hidhet në tenxhere në gjysmën e kohës së zierjes së kockave, pasi do më pak kohë për t'u zier. Për të provuar nëse mishi është zier shpohet me pirun: në rast se piruni hyn e del lirisht atëherë mishi është gati.
 
-Lëngu i shpendëve zien njëlloj si ai i mishit, por me afat kohe më të shkurtër. Nganjëherë në supat përdoret edhe lëngu i peshkut, i cili mund të përgatitet nga peshq që nuk kanë erë të rëndë, si qefulli, levreku, kocja, etj., ndërsa krapi, kubla, ngjala, nuk këshillohen. Gjithashtu lëngu i peshkut merret dhe nga pjesët si koka, bishti, fletët, etj. Në tenxhere vendosen mbeturinat e peshkut, kurse sipër copat e tij të pastruara, qepë të pjekura mbi sobë, karota, rrënjë majdanozi, selino, fletë dafine, piper kokërr dhe ujë. Tenxherja vendoset në zjarr të fortë derisa të marrë valë. Në fillim ajo duhet të mbulohet me kapak i cili hiqet pasi të ketë marrë valë. Lëngu pastrohet nga shkuma dhe lihet të ziejë në zjarr të javashëm për 20-30 minuta: kullohet dhe përdoret për supë.
+Lëngu i shpendëve zien njëlloj si ai i mishit, por me afat kohe më të shkurtër.
+
+Nganjëherë në supat përdoret edhe lëngu i peshkut, i cili mund të përgatitet nga peshq që nuk kanë erë të rëndë, si qefulli, levreku, kocja, etj., ndërsa krapi, kubla, ngjala, nuk këshillohen. Gjithashtu lëngu i peshkut merret dhe nga pjesët si koka, bishti, fletët, etj. Në tenxhere vendosen mbeturinat e peshkut, kurse sipër copat e tij të pastruara, qepë të pjekura mbi sobë, karota, rrënjë majdanozi, selino, fletë dafine, piper kokërr dhe ujë. Tenxherja vendoset në zjarr të fortë derisa të marrë valë. Në fillim ajo duhet të mbulohet me kapak i cili hiqet pasi të ketë marrë valë. Lëngu pastrohet nga shkuma dhe lihet të ziejë në zjarr të javashëm për 20-30 minuta: kullohet dhe përdoret për supë.
 
 ## a) SUPA TË ZIERA ME GARNITURË
-Kjo lloj supe përgatitet me lëng mishi, kockash, lëng perimesh, makaronash, peshku etj. Në lëngun e vluar hidhen produktet. Në mes të zierjes disa supa rregullohen me salcë, me perime të kaurdisura ose miell të kaurdisur, disa të tjera në fund të zierjes priten me vezë e limon. Zarzavatet për këto lloj supash, zakonisht priten në formë kubike. Gjatë hedhjes së zarzavateve duhet të kihet parasysh koha e zierjes së tyre, që ato të bëhen gati në një kohë. Produktet e ziera më tepër ose më pak e keqësojnë shijen e supës. Më poshtë po japim një tabelë e cila do të shërbejë si orientim për radhën e hedhjes së produkteve gjatë gatimit (duke u nisur nga koha e zierjes së tyre).
-- Lulelakër 12-25 minuta
-- Patate kokërr 20-30 minuta
-- Patate të prera 12-15 minuta
-- Perime të kaurdisura 10-12 minuta
-- Spinaq 9-8 minuta
-- Lakër e bardhë 25-30 minuta
-- Bishtajë jeshile 12-15 minuta
-- Bizele jeshile 8-10 minuta
-- Makarona fidhe 2-7 minuta
-- Makarona të imëta 8-12 minuta (elbare)
-- Makarona spageti 25-30 minuta
-Gjatë ndarjes në pjata në shumicën e supave hidhet majdanoz ose kopër e grirë imët. Jeshillëqet jo vetëm që zbukurojnë pamjen e supës, por dhe e pasurojnë atë me aromë dhe vitamina. Në këtë grup hyjnë: supa me oriz, makarona, perime, fasule dhe shumë të tjera.
+Kjo lloj supe përgatitet me lëng mishi, kockash, lëng perimesh, makaronash, peshku etj. Në lëngun e vluar hidhen produktet. Në mes të zierjes disa supa rregullohen me salcë, me perime të kaurdisura ose miell të kaurdisur, disa të tjera në fund të zierjes priten me vezë e limon. Zarzavatet për këto lloj supash, zakonisht priten në formë kubike. Gjatë hedhjes së zarzavateve duhet të kihet parasysh koha e zierjes së tyre, që ato të bëhen gati në një kohë.
+
+Produktet e ziera më tepër ose më pak e keqësojnë shijen e supës. Më poshtë po japim një tabelë e cila do të shërbejë si orientim për radhën e hedhjes së produkteve gjatë gatimit (duke u nisur nga koha e zierjes së tyre).
+
+| Përbërësi | Koha e gatimit (minuta) |
+| --- | --- |
+| Lulelakër | 12-25 |
+| Patate kokërr | 20-30 |
+| Patate të prera | 12-15 |
+| Perime të kaurdisura | 10-12 |
+| Spinaq | 8-9 |
+| Lakër e bardhë | 25-30 |
+| Bishtajë jeshile | 12-15 |
+| Bizele jeshile | 8-10 |
+| Makarona fidhe | 2-7 |
+| Makarona të imëta (elbare) | 8-12 |
+| Makarona spageti | 25-30 |
+
+Gjatë ndarjes në pjata në shumicën e supave hidhet majdanoz ose kopër e grirë imët. Jeshillëqet jo vetëm që zbukurojnë pamjen e supës, por dhe e pasurojnë atë me aromë dhe vitamina.
+
+Në këtë grup hyjnë: supa me oriz, makarona, perime, fasule dhe shumë të tjera.
 
 ### 39. Supë orizi me vezë dhe limon
 
-Në lëngun e mishit ose në ujë të vluar hidhet orizi i larë e i pastruar, kripa, dhe lihen të ziejnë në zjarr të javashëm rreth 30 minuta. Në fund supës i shtohet pak lëkurë limoni e grirë me rende: i jepet një valë, hiqet nga zjarri dhe pas 5-6 minutash rregullohet me të verdhën
-e vezëve. Për këtë, në një enë porcelani hidhet e verdhë e vezës, rrihet mirë, dhe duke e rrahur i shtohet lëng limoni, ose limontozi tretur në ujë dhe pak e nga pak lëng supe. Në fund rregullohet me majdanoz të grirë hollë dhe piper të zi, sipas dëshirës.
+Në lëngun e mishit ose në ujë të vluar hidhet orizi i larë e i pastruar, kripa, dhe lihen të ziejnë në zjarr të javashëm rreth 30 minuta. Në fund supës i shtohet pak lëkurë limoni e grirë me rende: i jepet një valë, hiqet nga zjarri dhe pas 5-6 minutash rregullohet me të verdhën e vezëve. Për këtë, në një enë porcelani hidhet e verdhë e vezës, rrihet mirë, dhe duke e rrahur i shtohet lëng limoni, ose limontozi tretur në ujë dhe pak e nga pak lëng supe. Në fund rregullohet me majdanoz të grirë hollë dhe piper të zi, sipas dëshirës.
 
 **Për 4-5 persona duhen:**
 
@@ -791,7 +800,9 @@ Në lëngun e mishit ose në ujë të vluar hidhet orizi i pastruar e i larë. P
 
 ### 41. Supë orizi me domate ose salcë
 
-Në një tigan me gjalpë kaurdisen qepë të grira hollë derisa të zverdhen pak, pastaj hidhen domate të grira (të cilave u është hequr cipa) ose salcë domatesh, kaurdisen dhe 2-3 minuta të tjera dhe hiqen nga zjarri. Në lëngun e mishit ose në ujë të vluar hidhet orizi i larë e i pastruar dhe pas 10 minutash vlimi hidhet kripa, perimet e kaurdisura dhe lihen në zjarr të javashëm për 15-12 minuta të tjera derisa supa të jetë gati. Në fund ajo rregullohet me majdanoz të grirë imët dhe piper të zi.
+Në një tigan me gjalpë kaurdisen qepë të grira hollë derisa të zverdhen pak, pastaj hidhen domate të grira (të cilave u është hequr cipa) ose salcë domatesh, kaurdisen dhe 2-3 minuta të tjera dhe hiqen nga zjarri.
+
+Në lëngun e mishit ose në ujë të vluar hidhet orizi i larë e i pastruar dhe pas 10 minutash vlimi hidhet kripa, perimet e kaurdisura dhe lihen në zjarr të javashëm për 15-12 minuta të tjera derisa supa të jetë gati. Në fund ajo rregullohet me majdanoz të grirë imët dhe piper të zi.
 
 **Për 4-5 persona duhen:**
 
@@ -872,8 +883,11 @@ Karotat, majdanozi, selinoja dhe pjesa e bardhë e preshit kaurdisen me yndyrë,
 
 ### 46. Supë me petë dore (makarona të shtëpisë)
 
-Zakonisht kjo supë përgatitet me lëng pule. Mishi i pulës pas zierjes copëtohet dhe hidhet në supë. Karotat e pastruara dhe qepa e grirë hollë kaurdisen me gjalpë ose me dhjamë pule dhe hidhen në lëngun e vluar ku shtohen petët e dorës të cilat janë përgatitur që më përpara, hidhet kripë, piper, fletë dafine dhe lihen të vlojnë 15-20 minuta. Para ndarjes në pjata supës i hidhet majdanozi i grirë hollë.
-Petët e dorës përgatiten kështu: mielli i situr vendoset në tavolinë, në mes hapet një gropë ku hidhen vezë dhe pak ujë i ftohtë (për 1 vezë - 1/4 gotë ujë). Pastaj shtohet kripë dhe zihet një brumë i fortë. Brumi duhet të punohet mirë sa të mos duket asnjë vrimë gjatë prerjes. Brumi duhet të hapet pas 15-20 minutash në peta me trashësi 2-3 mm, të cilat lyhen me miell dhe priten në shirita me gjerësi 5-6 cm. Shiritat vendosen njëri mbi tjetrin 5-6 shtresa dhe priten në fije të holla të cilat thahen pak dhe hidhen në supë
+Zakonisht kjo supë përgatitet me lëng pule. Mishi i pulës pas zierjes copëtohet dhe hidhet në supë.
+
+Karotat e pastruara dhe qepa e grirë hollë kaurdisen me gjalpë ose me dhjamë pule dhe hidhen në lëngun e vluar ku shtohen petët e dorës të cilat janë përgatitur që më përpara, hidhet kripë, piper, fletë dafine dhe lihen të vlojnë 15-20 minuta. Para ndarjes në pjata supës i hidhet majdanozi i grirë hollë.
+
+Petët e dorës përgatiten kështu: mielli i situr vendoset në tavolinë, në mes hapet një gropë ku hidhen vezë dhe pak ujë i ftohtë (për 1 vezë - 1/4 gotë ujë). Pastaj shtohet kripë dhe zihet një brumë i fortë. Brumi duhet të punohet mirë sa të mos duket asnjë vrimë gjatë prerjes. Brumi duhet të hapet pas 15-20 minutash në peta me trashësi 2-3 mm, të cilat lyhen me miell dhe priten në shirita me gjerësi 5-6 cm. Shiritat vendosen njëri mbi tjetrin 5-6 shtresa dhe priten në fije të holla të cilat thahen pak dhe hidhen në supë.
 
 **Për 4-5 persona duhen:**
 
@@ -891,7 +905,11 @@ Petët e dorës përgatiten kështu: mielli i situr vendoset në tavolinë, në 
 
 ### 47. Supë patatesh
 
-Supë patatesh mund të përgatitet me lëng mishi, peshku ose me ujë. Kjo supë përgatitet vetëm me patate por mund t'i shtohen fasule ose bizele. Qepët, karotat, selinoja dhe majdanozi grihen hollë, kaurdisen me gjalpë ose me yndyrë. Në fund të kaurdisjes shtohet salcë ose domate të freskëta të qëruara nga cipa. Patatet pastrohen, lahen dhe priten në kubikë të vegjël. Në lëngun e vluar hidhen perimet e kaurdisura dhe pasi marrin valë shtohen patatet dhe zihen 15-20 minuta. Në fund të zierjes shtohet kripë, majdanozi grirë imët dhe piper i zi.
+Supë patatesh mund të përgatitet me lëng mishi, peshku ose me ujë. Kjo supë përgatitet vetëm me patate por mund t'i shtohen fasule ose bizele.
+
+Qepët, karotat, selinoja dhe majdanozi grihen hollë, kaurdisen me gjalpë ose me yndyrë. Në fund të kaurdisjes shtohet salcë ose domate të freskëta të qëruara nga cipa.
+
+Patatet pastrohen, lahen dhe priten në kubikë të vegjël. Në lëngun e vluar hidhen perimet e kaurdisura dhe pasi marrin valë shtohen patatet dhe zihen 15-20 minuta. Në fund të zierjes shtohet kripë, majdanozi grirë imët dhe piper i zi.
 
 **Për 4-5 persona duhen:**
 
@@ -909,6 +927,7 @@ Supë patatesh mund të përgatitet me lëng mishi, peshku ose me ujë. Kjo sup�
 ### 48. Supë patatesh me frikadele
 
 Kjo supë përgatitet si ajo e mësipërmja, por kur hidhen patatet hidhen edhe frikadelet (qofte të vogla sa një kokërr ulli).
+
 Për qoftet: mishi i viçit grihet në makinë 2 herë së bashku me qepët. Shtohet kripë, piper i bluar dhe të bardha vezësh; përzihen mirë dhe ndahen në copa të vogla.
 
 **Për 4-5 persona duhen:**
@@ -980,7 +999,9 @@ Fasulet e pastruara e të lara vendosen për t'u zier. Pas 30 minuta zierjes i d
 
 ### 52. Supë fasulesh me salcë
 
-Fasulet e pastruara, lahen dhe zihen rreth 30 minuta. Derdhet uji dhe hidhet lëng mishi ose ujë i nxehtë, shtohet pak vaj dhe një pjesë e perimeve: karota, selino të prera në copa kubike, kaurdisen me yndyrë. Në fund të kaurdisjes shtohen domate të freskëta të cilave u është hequr cipa ose salcë. Këto i hidhen fasuleve në fund të zierjes. Supa rregullohet me kripë, piper, majdanoz dhe spec të kuq djegës, sipas dëshirës.
+Fasulet e pastruara, lahen dhe zihen rreth 30 minuta. Derdhet uji dhe hidhet lëng mishi ose ujë i nxehtë, shtohet pak vaj dhe një pjesë e perimeve: karota, selino të prera në copa kubike, kaurdisen me yndyrë. Në fund të kaurdisjes shtohen domate të freskëta të cilave u është hequr cipa ose salcë. Këto i hidhen fasuleve në fund të zierjes.
+
+Supa rregullohet me kripë, piper, majdanoz dhe spec të kuq djegës, sipas dëshirës.
 
 **Për 4-5 persona duhen:**
 
@@ -997,7 +1018,9 @@ Fasulet e pastruara, lahen dhe zihen rreth 30 minuta. Derdhet uji dhe hidhet lë
 
 ### 53. Supë orizi me fasule
 
-Fasulet e thata pastrohen, lahen dhe vihen të ziejnë. Në një tenxhere tjetër me yndyrë, kaurdisen qepët e grira hollë, shtohen domate të prera në kubikë të vegjël ose pak salcë domatesh dhe kaurdisen 2-3 minuta të tjera. Pastaj shtohet lëng mishi ose ujë dhe sa të marrë valë hidhet orizi ose makaronat e copëtuara, rregullohet me kripë, shtohen fasulet e ziera dhe vazhdon zierja, derisa supa të jetë gati. Në fund supa rregullohet me piper të zi e majdanoz të grirë hollë.
+Fasulet e thata pastrohen, lahen dhe vihen të ziejnë. Në një tenxhere tjetër me yndyrë, kaurdisen qepët e grira hollë, shtohen domate të prera në kubikë të vegjël ose pak salcë domatesh dhe kaurdisen 2-3 minuta të tjera.
+
+Pastaj shtohet lëng mishi ose ujë dhe sa të marrë valë hidhet orizi ose makaronat e copëtuara, rregullohet me kripë, shtohen fasulet e ziera dhe vazhdon zierja, derisa supa të jetë gati. Në fund supa rregullohet me piper të zi e majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -1011,7 +1034,7 @@ Fasulet e thata pastrohen, lahen dhe vihen të ziejnë. Në një tenxhere tjetë
 
 ### 54. Supë perimesh me makarona ose oriz
 
-Në lëngun e mishit ose në ujë të vluar me kripë hidhen makarona ose oriz. Pas 15 minutash shtohen patate të prera në kubikë të vegjël; mashurka, bizele të njoma dhe perime të kaurdisura (qepë, karota, selino, domate të freskëta). Të gjitha këto ziejnë së bashku për 10-15 minuta në zjarr të ngadalshëm, rregullohen me kripë, piper e majdanoz të grirë hollë
+Lëngun e mishit ose në ujë të vluar me kripë hidhen makarona ose oriz; pas 15 minutash shtohen patate të prera në kubikë të vegjël; mashurka, bizele të njoma dhe perime të kaurdisura (qepë, karota, selino, domate të freskëta). Të gjitha këto ziejnë së bashku për 10-15 minuta në zjarr të ngadalshëm, rregullohen me kripë, piper e majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -1054,6 +1077,8 @@ Pastaj supa hiqet nga zjarri, përzihet me panxharin e stufuar, shtohet uthull t
 * Majdanoz
 * 1 fletë dafine
 
+**Shënim:** Në supën borsh mund të shtohen fasule të ziera, copa mishi të ziera dhe dhjamë derri të skuqur duke hedhur në fund të zierjes dhe hudhra.
+
 ### 56. Supë me lakër të freskët
 
 Lakra e bardhë pritet në fije të holla ose në copë katrore. Zarzavatet e tjera priten në formë fijesh. Në rreth 5 minutash vlimi shtohen patatet. Në tigan me yndyrë kaurdisen qepët, karotat, selinoja e grirë hollë, dhe pak miell. Pas kaurdisjes shtohen domatet ose salca dhe sëbashku hidhen në supë. Zarzavatet e kaurdisura hidhen 10 minuta para përfundimit të zierjes së supës. Në fund shtohet kripë, piper i zi, dafinë dhe majdanoz i grirë hollë. Kjo lloj supe është më e shijshme kur rri 4-5 orë (por jo në zjarr).
@@ -1076,7 +1101,9 @@ Lakra e bardhë pritet në fije të holla ose në copë katrore. Zarzavatet e tj
 
 ### 57. Supë me lakër - turshi
 
-Lakra turshi seleksionohet, lahet dhe po të jetë shumë e thartë mbahet 1-2 orë në ujë të ftohtë, shtrydhet dhe grihet hollë. Pastaj vendoset në një tenxhere të vogël, shtohet pak lëng mishi ose ujë, pak yndyrë, mbulohet me kapak dhe lihet të ziejë. Në një tenxhere tjetër kaurdisen qepët, karotat, selinoja, i shtohen domatet ose pak salcë, lëngu i mishit sa të marrë valë, patatet e prera në kubikë të vegjël dhe pas 10 minutash zierje hidhet lakra e stufuar. Duhet të kihet parasysh se patatet nuk ziejnë në lëngun e lakrës turshi, prandaj duhet të ziejnë veç. Në rast se supa zihet pa patate, atëherë zarzavatet e kaurdisura hidhen drejtpërdrejt në lakër së bashku me sasinë e lëngut të mishit ose të ujit të nevojshëm për supë. Në fund të zierjes supa rregullohet me kripë, piper, fletë dafine dhe majdanoz e kopër të grirë hollë.
+Lakra turshi seleksionohet, lahet dhe po të jetë shumë e thartë mbahet 1-2 orë në ujë të ftohtë, shtrydhet dhe grihet hollë. Pastaj vendoset në një tenxhere të vogël, shtohet pak lëng mishi ose ujë, pak yndyrë, mbulohet me kapak dhe lihet të ziejë. Në një tenxhere tjetër kaurdisen qepët, karotat, selinoja, i shtohen domatet ose pak salcë, lëngu i mishit sa të marrë valë, patatet e prera në kubikë të vegjël dhe pas 10 minutash zierje hidhet lakra e stufuar.
+
+Duhet të kihet parasysh se patatet nuk ziejnë në lëngun e lakrës turshi, prandaj duhet të ziejnë veç. Në rast se supa zihet pa patate, atëherë zarzavatet e kaurdisura hidhen drejtpërdrejt në lakër së bashku me sasinë e lëngut të mishit ose të ujit të nevojshëm për supë. Në fund të zierjes supa rregullohet me kripë, piper, fletë dafine dhe majdanoz e kopër të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -1093,7 +1120,9 @@ Lakra turshi seleksionohet, lahet dhe po të jetë shumë e thartë mbahet 1-2 o
 
 ### 58. Supë me perime
 
-Patatet, karotat, kungulleshkat, selinoja dhe mashurkat e njoma, pastrohen e priten në copa kubike mesatare: veç pastrohen bizelet e njoma kokërr. Në tenxhere me yndyrë kaurdiset qepa, shtohen karotat, kungulleshkat, selinoja. Pas kaurdisjes shtohen domatet e freskëta të grira hollë ose pak salcë. Në perimet e kaurdisura hidhet lëng mishi ose uji i vluar dhe sa të marrin valën shtohen zarzavatet e tjera sipas kohës së zierjes. Në fillim mashurkat e bizelet, pastaj patatet. Supa lihet të ziejë 15-20 minuta, rregullohet me kripë, piper, fletë dafine dhe majdanoz të grirë hollë. Në rast se bizelet e mashurkat nuk janë shumë të njoma, ato, më parë duhet të ziejnë në ujë të vluar për disa minuta dhe pastaj t'i hidhen supës.
+Patatet, karotat, kungulleshkat, selinoja dhe mashurkat e njoma, pastrohen e priten në copa kubike mesatare: veç pastrohen bizelet e njoma kokërr.
+
+Në tenxhere me yndyrë kaurdiset qepa, shtohen karotat, kungulleshkat, selinoja. Pas kaurdisjes shtohen domatet e freskëta të grira hollë ose pak salcë. Në perimet e kaurdisura hidhet lëng mishi ose uji i vluar dhe sa të marrin valën shtohen zarzavatet e tjera sipas kohës së zierjes. Në fillim mashurkat e bizelet, pastaj patatet. Supa lihet të ziejë 15-20 minuta, rregullohet me kripë, piper, fletë dafine dhe majdanoz të grirë hollë. Në rast se bizelet e mashurkat nuk janë shumë të njoma, ato, më parë duhet të ziejnë në ujë të vluar për disa minuta dhe pastaj t'i hidhen supës.
 
 **Për 4-5 persona duhen:**
 
@@ -1239,7 +1268,9 @@ Këmbët pastrohen, thyhen me hanxhar (sidomos kyçet) dhe vendosen në ujë të
 
 ### 66. Paçe plënci, me vezë e limon
 
-Plënci lahet me ujë të ftohtë, përvëlohet me ujë të vluar për 30 sekonda, pastrohet nga shtresa e brendshme derisa të zbardhet, lahet mirë dhe vendoset në ujë të ftohtë për t'u zier. Gjatë zierjes, hidhen perime aromatike, qepë të pjekura mbi sobë, karota, rrënjë selino, kripë dhe piper. Pasi këto të kenë zier, plënci pritet në copa të vogla dhe përgatitet paçja. Për këtë, në një tenxhere hidhet yndyrë dhe pasi ajo të jetë nxehur shtohet miell, kaurdiset derisa të zverdhet pak dhe pastaj shtohen plëncat e zier. Kaurdisen përsëri së bashku dhe hidhet lëng i kulluar nga zierja e plëncave. Lihen të ziejnë në zjarr të javashëm për 10-15 minuta. Në fund rregullohen me vezë e limon. Në një enë porcelani rrihen vezët, hollohen pak e nga pak me lëngun e paçes, shtohet limon ose limontoz i tretur në ujë dhe hidhen te paçja. Gjatë vendosjes nëpër pjata paçes mund t'i hidhet sipas dëshirës.
+Plënci lahet me ujë të ftohtë, përvëlohet me ujë të vluar për 30 sekonda, pastrohet nga shtresa e brendshme derisa të zbardhet, lahet mirë dhe vendoset në ujë të ftohtë për t'u zier. Gjatë zierjes, hidhen perime aromatike, qepë të pjekura mbi sobë, karota, rrënjë selino, kripë dhe piper.
+
+Pasi këto të kenë zier, plënci pritet në copa të vogla dhe përgatitet paçja. Për këtë, në një tenxhere hidhet yndyrë dhe pasi ajo të jetë nxehur shtohet miell, kaurdiset derisa të zverdhet pak dhe pastaj shtohen plëncat e zier. Kaurdisen përsëri së bashku dhe hidhet lëng i kulluar nga zierja e plëncave. Lihen të ziejnë në zjarr të javashëm për 10-15 minuta. Në fund rregullohen me vezë e limon. Në një enë porcelani rrihen vezët, hollohen pak e nga pak me lëngun e paçes, shtohet limon ose limontoz i tretur në ujë dhe hidhen te paçja. Gjatë vendosjes nëpër pjata paçes mund t'i hidhet sipas dëshirës piper i zi.
 
 **Për 4-5 persona duhen:**
 
@@ -1342,7 +1373,7 @@ Karotat, qepët, rrënjët e selinosë priten hollë dhe kaurdisen me gjalpë, s
 
 ### 71. Supë krem-perime
 
-Patatet e qëruara të prera, bizelet dhe mashurkat e njoma të copëtuara i hedhim në lëng mishi dhe i ziejmë. Pas 10 minutash hedhim perime të kaurdisura si qepë, karota, selino. Pasi të jenë zier të gjitha kalohen në sitë ose në kullesë duke i shtypur me lugë druri. Veçan përgatitet salca e bardhë me miell të kaurdisur dhe e përzier me qumësht e lëng mishi. Përzihen me supën dhe lihen të ziejnë 5 minuta. Supa hiqet nga zjarri dhe rregullohet me të verdhat e vezëve, gjalpë të freskët e piper të zi. Gjatë vendosjes në pjata hidhet edhe bukë e thekur (kruton).
+Patatet e qëruara të prera, bizelet dhe mashurkat e njoma të copëtuara i hedhim në lëng mishi dhe i ziejmë. Pas 10 minutash hedhim perime të kaurdisura si qepë, karota, selino. Pasi të jenë zier të gjitha kalohen në sitë ose në kullesë duke i shtypur me lugë druri. Veçan përgatitet salca e bardhë me miell të kaurdisur dhe e përzier me qumësht e lëng mishi. Përzihen me supën dhe lihen të ziejnë 5 minuta. Supa hiqet nga zjarri dhe rregullohet me të verdhat e vezëve, gjalpë të freskët e piper të zi. Gjatë vendosjes në pjata hidhet edhe bukë e thekur-kruton.
 
 **Për 4-5 persona duhen:**
 
@@ -1405,7 +1436,9 @@ Makaronat kullohen, shpëlahen, kullohen përsëri mirë dhe hidhen në tavë, s
 
 ### 81. Pastiço me kimë
 
-Makaronat ziejnë një lloj si për pastiço me djathë, kullohen, shpëlahen, kullohen përsëri mirë dhe hidhen në tavë, përzihen me kimë, shtrohen në tavë të lyer me yndyrë, rrafshohen dhe mbulohen me salcë të bardhë e përgatitur me miell të kaurdisur me gjalpë dhe qumësht. Sipër spërkatet me gjalpë dhe sipas dëshirës me djathë të bardhë ose kaçkavall. Piqet në furrë për 25-30 minuta dhe ndahet në copa. Kima përgatitet si për byrek me petë të ziera.
+Makaronat ziejnë një lloj si për pastiço me djathë, kullohen, shpëlahen, kullohen përsëri mirë dhe hidhen në tavë, përzihen me kimë, shtrohen në tavë të lyer me yndyrë, rrafshohen dhe mbulohen me salcë të bardhë e përgatitur me miell të kaurdisur me gjalpë dhe qumësht. Sipër spërkatet me gjalpë dhe sipas dëshirës me djathë të bardhë ose kaçkavall. Piqet në furrë për 25-30 minuta dhe ndahet në copa.
+
+Kima përgatitet si për byrek me petë të ziera.
 
 **Për 4-5 persona duhen:**
 
@@ -1456,7 +1489,9 @@ Pilafi bëhet si më sipër por gjatë vendosjes në pjatë, hidhen dhe fasule t
 
 ### 84. Petë tigani me kimë
 
-Në një enë porcelani rrihen vezët, shtohet qumësht ose ujë dhe pak sheqer, hidhet miell i situr i përzier me pak sodë, dhe zihet një brumë i hollë që të derdhet lehtë nga luga. Në tigan të nxehtë lyer me yndyrë, hidhet pak brumë, duke luajtur tiganin brumi hapet në gjithë sipërfaqen e tij me trashësi 3-4 mm, piqet nga njëra anë dhe kthehet nga ana tjetër. Petët e pjekura vendosen njëra mbi tjetrën në një pjatë të cekët. Ndër kohë përgatitet kima për mbushje. Në tigan me yndyrë të nxehtë kaurdiset qepa e prerë në formë kubike të vogla: pas kaurdisjes shtohet mishi i grirë, përzihet duke e mbajtur në zjarr për 10 minuta derisa të avullojë lëngu dhe të mbetet me yndyrën e vet. Shtohen domatet e qëruara e të grira ose salcë. Përzihen së bashku, hidhet kripë, piper, dafinë, pak ujë dhe lihen në zjarr të javashëm për 10-15 minuta, derisa të avullojë lëngu. Në mes të petës vendosen 1-2 lugë kime, mblidhet në formë roleje duke futur anët brenda, dhe vihet në tavë me korent. Spërkaten me gjalpë e djathë kaçkavall dhe piqen 10-15 minuta. Në mungesë të furrës ose tavës me korent, këto mund të skuqen lehtë nga të dyja anët. Vendosen në pjatë dhe spërkaten me gjalpë. Kima për mbushje mund të bëhet edhe pa salcë.
+Në një enë porcelani rrihen vezët, shtohet qumësht ose ujë dhe pak sheqer, hidhet miell i situr i përzier me pak sodë, dhe zihet një brumë i hollë që të derdhet lehtë nga luga. Në tigan të nxehtë lyer me yndyrë, hidhet pak brumë, duke luajtur tiganin brumi hapet në gjithë sipërfaqen e tij me trashësi 3-4 mm, piqet nga njëra anë dhe kthehet nga ana tjetër. Petët e pjekura vendosen njëra mbi tjetrën në një pjatë të cekët.
+
+Ndër kohë përgatitet kima për mbushje. Në tigan me yndyrë të nxehtë kaurdiset qepa e prerë në formë kubike të vogla: pas kaurdisjes shtohet mishi i grirë, përzihet duke e mbajtur në zjarr për 10 minuta derisa të avullojë lëngu dhe të mbetet me yndyrën e vet. Shtohen domatet e qëruara e të grira ose salcë. Përzihen së bashku, hidhet kripë, piper, dafinë, pak ujë dhe lihen në zjarr të javashëm për 10-15 minuta, derisa të avullojë lëngu. Në mes të petës vendosen 1-2 lugë kime, mblidhet në formë roleje duke futur anët brenda, dhe vihet në tavë me korent. Spërkaten me gjalpë e djathë kaçkavall dhe piqen 10-15 minuta. Në mungesë të furrës ose tavës me korent, këto mund të skuqen lehtë nga të dyja anët. Vendosen në pjatë dhe spërkaten me gjalpë. Kima për mbushje mund të bëhet edhe pa salcë.
 
 **Për 4-5 persona duhen:**
 
@@ -1502,11 +1537,13 @@ Spinaqi pastrohet nga gjethet e dëmtuara, lahet disa herë në ujë të bollsh�
 
 ### 86. Petka të mbushura me mish
 
-Në mes të miellit të situr hidhen vezët, kripë e pak ujë dhe zihet brumi njëlloj si për petët me dorë, mbulohet me pecetë të lagur dhe lihet 15-20 minuta. Ndërkohë përgatitet mbushja: mishi i lopës dhe i derrit të përzier së bashku, pritet në copa të vogla, grihet 2-3 herë në makinën e mishit së bashku me qepët, shtohet kripë e piper i zi i bluar; në qoftë se mishi nuk është shumë i dhjamur, shtohet pak gjalpë i freskët, ujë dhe përzihen mirë.
+Në mes të miellit të situr hidhen vezët, kripë e pak ujë dhe zihet brumi njëlloj si për petët me dorë, mbulohet me pecetë të lagur dhe lihet 15-20 minuta.
 
-Nga brumi i përgatitur hapen petët. Mishi i përgatitur ndahet në toptha të vegjël me madhësi sa një kokërr ulliri dhe vendosen në fillim të petës me 2,5 cm largësi njëra kokërr nga tjetra. Topthat duhet të vendosen në një rresht dhe të mbulohen me petë; ndërmjet topthave peta shtypet pak me gisht dhe me një gotë uji të vogël pritet në formë gjysmëhënëze. Çdo copë ngjitet edhe njëherë mirë me gishta që të mos hapet gjatë zierjes. Peta e mbetur drejtohet me thikë dhe vendoset përsëri një rresht tjetër me toptha mishi.
+Ndërkohë përgatitet mbushja: mishi i lopës dhe i derrit të përzier së bashku, pritet në copa të vogla, grihet 2-3 herë në makinën e mishit së bashku me qepët, shtohet kripë e piper i zi i bluar; në qoftë se mishi nuk është shumë i dhjamur, shtohet pak gjalpë i freskët, ujë dhe përzihen mirë. Nga brumi i përgatitur hapen petët me trashësi 2-3 mm.
 
-Kështu vazhdohet derisa mbarohen petët. Këto mund të bëhen dhe në mënyrë tjetër: petët e hapura priten me një gotë vere në copa të rrumbullakëta me diametër rreth 4 cm. Në mes të çdo cope vendosen topthat e mishit të pregatitur, mbulohet mishi duke e palosur petën përgjysmë në mënyrë që të krijohet gjysmëhënëze; shtypen me gisht që petët të mos hapen gjatë zierjes. Petkat e mbushura hidhen në ujë të vluar me kripë dhe zihen 10-15 minuta, kullohen, vendosen në pjatë dhe sipër u hidhet gjalpë i shkrirë. Sipas dëshirës, veçan mund të jepet edhe pak uthull që gjatë ngrënies secila kokërr mund të njomet me të. Në rast se petkat janë zier më përpara dhe janë ftohur, ato ringrohen në tigan me gjalpë. Petkat e mbushura mund të bëhen dhe me salcë domatesh si makaronat.
+Mishi i përgatitur ndahet në toptha të vegjël me madhësi sa një kokërr ulliri dhe vendosen në fillim të petës me 2,5 cm largësi njëra kokërr nga tjetra. Topthat duhet të vendosen në një rresht dhe të mbulohen me petë; ndërmjet topthave peta shtypet pak me gisht dhe me një gotë uji të vogël pritet në formë gjysmëhënëze. Çdo copë ngjitet edhe njëherë mirë me gishta që të mos hapet gjatë zierjes. Peta e mbetur drejtohet me thikë dhe vendoset përsëri një rresht tjetër me toptha mishi. Kështu vazhdohet derisa mbarohen petët. Këto mund të bëhen dhe në mënyrë tjetër: petët e hapura priten me një gotë vere në copa të rrumbullakëta me diametër rreth 4 cm. Në mes të çdo cope vendosen topthat e mishit të pregatitur, mbulohet mishi duke e palosur petën përgjysmë në mënyrë që të krijohet gjysmëhënëze; shtypen me gisht që petët të mos hapen gjatë zierjes. Petkat e mbushura hidhen në ujë të vluar me kripë dhe zihen 10-15 minuta, kullohen, vendosen në pjatë dhe sipër u hidhet gjalpë i shkrirë. Sipas dëshirës, veçan mund të jepet edhe pak uthull që gjatë ngrënies secila kokërr mund të njomet me të. Në rast se petkat janë zier më përpara dhe janë ftohur, ato ringrohen në tigan me gjalpë.
+
+Petkat e mbushura mund të bëhen dhe me salcë domatesh si makaronat.
 
 **Për 1 kg petka të mbushura:**
 
@@ -1546,7 +1583,9 @@ Mielli i situr përzihet me sodë, në mes të tij hapet një gropë ku hedhim v
 
 Në tigan me yndyrë të nxehtë vendosen petullat njëra pranë tjetrës; dhe pasi skuqen nga njëra anë kthehen nga ana tjetër. Petullat e skuqura vendosen në tas dhe mbulohen me pecetë të palosur në trish ose katërsh me qëllim që të zbuten pak.
 
-Mbushja e këtyre petullave mund të bëhet me marmalatë, me mollë të grira dhe të përziera me sheqer e pak kanellë, me mish të grirë të skuqur bashkë me qepë, kripë e piper, ose me qepë e vezë të ziera. Për këto të fundit qepët e njoma grihen hollë dhe skuqen të mbuluara me kapak derisa zbuten, hiqen nga zjarri dhe përzihen me vezë të ziera të grira hollë, kripë, piper e kopër.
+Mbushja e këtyre petullave mund të bëhet me marmalatë, me mollë të grira dhe të përziera me sheqer e pak kanellë, me mish të grirë të skuqur bashkë me qepë, kripë e piper, ose me qepë e vezë të ziera.
+
+Për këto të fundit qepët e njoma grihen hollë dhe skuqen të mbuluara me kapak derisa zbuten, hiqen nga zjarri dhe përzihen me vezë të ziera të grira hollë, kripë, piper e kopër.
 
 **Për 4-5 persona duhen:**
 
@@ -1652,7 +1691,7 @@ Lakrat e egra, në mungesë të tyre spinaqi, pastrohen, lahen, grihen hollë dh
 * kripë
 
 ### 94. Lakror me miell misri
-Mielli i misrit i situr hidhet në tenxhere me ujë të vluar me pak kripë dhe përzihet derisa të bëhet një llapë e trashë. Hiqet nga zjarri dhe shtrohet në tavë të lyer me yndyrë. Mbi këtë shtrohet mbushja e përgatitur si për byrek me spinaq: sipër hidhet një shtresë e hollë miell misri, spërkatet me ujë e yndyrë dhe piqet
+Mielli i misrit i situr hidhet në tenxhere me ujë të vluar me pak kripë dhe përzihet derisa të bëhet një llapë e trashë. Hiqet nga zjarri dhe shtrohet në tavë të lyer me yndyrë. Mbi këtë shtrohet mbushja e përgatitur si për byrek me spinaq: sipër hidhet një shtresë e hollë miell misri, spërkatet me ujë e yndyrë dhe piqet.
 
 **Për 4-5 persona duhen:**
 - miell misri 2 gota uji
@@ -1664,7 +1703,7 @@ Mielli i misrit i situr hidhet në tenxhere me ujë të vluar me pak kripë dhe 
 - vaj 2-3 lugë gjelle
 
 ### 95. Supë krem me miell misri
-Në një enë me yndyrë (mundësisht gjalpë) kaurdiset mielli i misrit i situr (por të mos marrë ngjyrë), e shuajmë me lëng mishi duke e përzier shpejt dhe e lemë të ziejë derisa të trashet. E heqim nga zjarri dhe veçan, rrahim të verdhat e vezëve me qumësht dhe duke i përzier ia hedhim supës. Pastaj supën e rregullojmë me kripë e piper të zi dhe në fund i hedhim copa buke të prera në kubikë të vegjël, të skuqura me gjalpë (kruton)
+Në një enë me yndyrë (mundësisht gjalpë) kaurdiset mielli i misrit i situr (por të mos marrë ngjyrë), e shuajmë me lëng mishi duke e përzier shpejt dhe e lemë të ziejë derisa të trashet. E heqim nga zjarri dhe veçan, rrahim të verdhat e vezëve me qumësht dhe duke i përzier ia hedhim supës. Pastaj supën e rregullojmë me kripë e piper të zi dhe në fund i hedhim copa buke të prera në kubikë të vegjël, të skuqura me gjalpë (kruton).
 
 **Për 4-5 persona duhen:**
 - miell misri një filxhan çaji
@@ -1686,7 +1725,9 @@ Në ujë të vluar me yndyrë shtojmë një pjesë të yndyrës dhe pasi të mar
 * djathë i thërmuar 2 filxhanë çaji
 
 ### 97. Polenta me pak mish
-Mishi i derrit pritet në copa të vogla dhe kaurdiset me yndyrë, qepë, shtohet salcë domatesh, kripë, piper, dafinë, pak ujë dhe lihet në zjarr të javashëm të ziejë derisa të jetë gati. Në një enë me ujë e kripë pasi uji të marrë valë, hidhet dhjamë derri dhe duke e përzier me lugë druri shtohet miell misri i situr dhe lihet të ziejë derisa masa të trashet. Kjo masë shtrohet në tepsi të lyer me yndyrë dhe sipër hidhet mishi i përgatitur. Piqet në furrë për 15-20 minuta.
+Mishi i derrit pritet në copa të vogla dhe kaurdiset me yndyrë, qepë, shtohet salcë domatesh, kripë, piper, dafinë, pak ujë dhe lihet në zjarr të javashëm të ziejë derisa të jetë gati.
+
+Në një enë me ujë e kripë pasi uji të marrë valë, hidhet dhjamë derri dhe duke e përzier me lugë druri shtohet miell misri i situr dhe lihet të ziejë derisa masa të trashet. Kjo masë shtrohet në tepsi të lyer me yndyrë dhe sipër hidhet mishi i përgatitur. Piqet në furrë për 15-20 minuta.
 
 **Për 4-5 persona duhen:**
 
@@ -1697,7 +1738,9 @@ Mishi i derrit pritet në copa të vogla dhe kaurdiset me yndyrë, qepë, shtohe
 * miell misri 3 filxhanë çaji
 
 ### 98. Dhallanik me miell misri
-Në një enë me ujë të vakët, yndyrë, kripë e miell misri të situr zëmë një brumë me trashësi mesatare dhe e hapim në tepsi të lyer me yndyrë. Në tenxhere me yndyrë kaurdiset miell misri i situr, shuhet me dhallë ose kos të holluar dhe lihet të marrë valë, hiqet nga zjarri dhe si të ftohet pak hidhen vezët, kripë, djathë i thërmuar dhe derdhet në tepsi ku kemi shtruar brumin. Spërkatet me yndyrë dhe piqet në furrë.
+Në një enë me ujë të vakët, yndyrë, kripë e miell misri të situr zëmë një brumë me trashësi mesatare dhe e hapim në tepsi të lyer me yndyrë.
+
+Në tenxhere me yndyrë kaurdiset miell misri i situr, shuhet me dhallë ose kos të holluar dhe lihet të marrë valë, hiqet nga zjarri dhe si të ftohet pak hidhen vezët, kripë, djathë i thërmuar dhe derdhet në tepsi ku kemi shtruar brumin. Spërkatet me yndyrë dhe piqet në furrë.
 
 **Për 4-5 persona duhen:**
 
@@ -1720,7 +1763,7 @@ Në një enë me gjalpë, djathi skuqet pak, hidhet qumësht dhe pasi merr valë
 * kripë
 
 ### 100. Fërgesë me miell misri
-Skuqet mielli me yndyrë, shuhet me shëllirë djathi ose me ujë, përzihet që të mos krijohen kokrriza dhe zihet derisa të bëhet një masë me trashësi mesatare. Gjatë zierjes hidhet spec djegës e kripë. Në fund hiqet nga zjarri dhe rregullohet me hudhra të shtypura
+Skuqet mielli me yndyrë, shuhet me shëllirë djathi ose me ujë, përzihet që të mos krijohen kokrriza dhe zihet derisa të bëhet një masë me trashësi mesatare. Gjatë zierjes hidhet spec djegës e kripë. Në fund hiqet nga zjarri dhe rregullohet me hudhra të shtypura.
 
 **Për 4-5 persona duhen:**
 
@@ -1757,9 +1800,7 @@ Në një tenxhere rrahim vezët, shtojmë qumësht, ujë të vakët, kripë, hed
 - djathë të grirë 1 filxhan kafeje
 
 ### 103. Qofte me miell misri e presh
-Preshët e pastruar e të larë grihen hollë, kaurdisen me yndyrë në enë të mbuluar me kapak në mënyrë që të zbuten, pastaj i heqim nga zjarri dhe i shtojmë gjizë ose djathë të thërmuar, kripë, piper, vezë, majdanoz të grirë hollë dhe e lëmë në një anë. Në një tenxhere tjetër.
-
-— me ujë të vluar e kripë hedhim miellin e misrit në raportin: një miell, 2 ujë, e përziejmë që të mos krijohen kokrriza, e ziejmë sa të bëhet një brumë i ngjeshur. Pastaj e heqim nga zjarri, e përziejmë me preshët e përgatitur, e ndajmë në copa i japim formën e rrumbullakët, e lyejmë me miell gruri dhe i skuqim me yndyrë. Qoftet shërbehen të ngrohta.
+Preshët e pastruar e të larë grihen hollë, kaurdisen me yndyrë në enë të mbuluar me kapak në mënyrë që të zbuten, pastaj i heqim nga zjarri dhe i shtojmë gjizë ose djathë të thërmuar, kripë, piper, vezë, majdanoz të grirë hollë dhe e lëmë në një anë. Në një tenxhere tjetër me ujë të vluar e kripë hedhim miellin e misrit në raportin: një miell, 2 ujë, e përziejmë që të mos krijohen kokrriza, e ziejmë sa të bëhet një brumë i ngjeshur. Pastaj e heqim nga zjarri, e përziejmë me preshët e përgatitur, e ndajmë në copa i japim formën e rrumbullakët, e lyejmë me miell gruri dhe i skuqim me yndyrë. Qoftet shërbehen të ngrohta.
 
 **Shënim**: Po në këtë mënyrë mund të përgatiten qoftet dhe me qepë të njoma ose të thata. Në qoftë se përgatiten me spinaq, ai më parë duhet të përvëlohet në ujë të vluar me kripë, dhe pastaj të përzihet me gjizë, vezë, erëza etj.
 
