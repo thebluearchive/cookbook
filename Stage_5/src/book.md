@@ -252,7 +252,7 @@ Sallata jeshile e grirë hollë vendoset në mes të pjatës, Rreth e përqark s
 * Piper
 * Majdanoz: sipas dëshirës
 
-**Shënim**: Po në këtë mënyrë mund të përgatiten dhe shumë meze të tjera të përziera, duke vendosur në mes ndonjë sallatë të stinës, si tranguj, ullinj, turshi të ndryshme etj. Rreth e qark vendosen produktet e lartpërmendura duke zëvendësuar njëri-tjetrin sipas mundësisë.
+> **Shënim**: Po në këtë mënyrë mund të përgatiten dhe shumë meze të tjera të përziera, duke vendosur në mes ndonjë sallatë të stinës, si tranguj, ullinj, turshi të ndryshme etj. Rreth e qark vendosen produktet e lartpërmendura duke zëvendësuar njëri-tjetrin sipas mundësisë.
 
 ### 4. Sallatë jeshile
 
@@ -368,7 +368,7 @@ Patatet e qëruara priten në formë rrethi dhe vendosen bukur në pjatë. Këty
 
 Kjo sallatë përdoret më tepër në stinën e dimrit sepse atëherë rrepat janë më të shijshme dhe më të lëngshme. Pasi u hiqet lëkura dhe lahen mirë, ato grihen në rende, u kullohet lëngu duke i shtrydhur lehtë, vendosen në pjatë dhe hidhet vaj, uthull, kripë e majdanoz i grirë hollë. 
 
-**Shënim**: Në këtë sallatë është mirë të hidhet dhe pak salcë kosi e përzier me hudhra të shtypura.
+> **Shënim**: Në këtë sallatë është mirë të hidhet dhe pak salcë kosi e përzier me hudhra të shtypura.
 
 **Për 500 gr rrepa duhen:**
 
@@ -1077,7 +1077,7 @@ Pastaj supa hiqet nga zjarri, përzihet me panxharin e stufuar, shtohet uthull t
 * Majdanoz
 * 1 fletë dafine
 
-**Shënim:** Në supën borsh mund të shtohen fasule të ziera, copa mishi të ziera dhe dhjamë derri të skuqur duke hedhur në fund të zierjes dhe hudhra.
+> **Shënim**: Në supën borsh mund të shtohen fasule të ziera, copa mishi të ziera dhe dhjamë derri të skuqur duke hedhur në fund të zierjes dhe hudhra.
 
 ### 56. Supë me lakër të freskët
 
@@ -1686,7 +1686,7 @@ Për këto të fundit qepët e njoma grihen hollë dhe skuqen të mbuluara me ka
 *   vaj për të skuqur 4-5 lugë gjelle
 *   kripë, piper, kopër
 
-**Shënim**: Petullat e mbushura, ashtu si petullat e zakonshme, është mirë të bëhen me maja birre. Në mungesë të saj brumi përgatitet dhe me kos e sodë dhe petullat fërgohen afërsisht si me maja.
+> **Shënim**: Petullat e mbushura, ashtu si petullat e zakonshme, është mirë të bëhen me maja birre. Në mungesë të saj brumi përgatitet dhe me kos e sodë dhe petullat fërgohen afërsisht si me maja.
 
 ### 89. Petulla të mbushura me lakër
 
@@ -1884,7 +1884,7 @@ Në një tenxhere rrahim vezët, shtojmë qumësht, ujë të vakët, kripë, hed
 ### 103. Qofte me miell misri e presh
 Preshët e pastruar e të larë grihen hollë, kaurdisen me yndyrë në enë të mbuluar me kapak në mënyrë që të zbuten, pastaj i heqim nga zjarri dhe i shtojmë gjizë ose djathë të thërmuar, kripë, piper, vezë, majdanoz të grirë hollë dhe e lëmë në një anë. Në një tenxhere tjetër me ujë të vluar e kripë hedhim miellin e misrit në raportin: një miell, 2 ujë, e përziejmë që të mos krijohen kokrriza, e ziejmë sa të bëhet një brumë i ngjeshur. Pastaj e heqim nga zjarri, e përziejmë me preshët e përgatitur, e ndajmë në copa i japim formën e rrumbullakët, e lyejmë me miell gruri dhe i skuqim me yndyrë. Qoftet shërbehen të ngrohta.
 
-**Shënim**: Po në këtë mënyrë mund të përgatiten qoftet dhe me qepë të njoma ose të thata. Në qoftë se përgatiten me spinaq, ai më parë duhet të përvëlohet në ujë të vluar me kripë, dhe pastaj të përzihet me gjizë, vezë, erëza etj.
+> **Shënim**: Po në këtë mënyrë mund të përgatiten qoftet dhe me qepë të njoma ose të thata. Në qoftë se përgatiten me spinaq, ai më parë duhet të përvëlohet në ujë të vluar me kripë, dhe pastaj të përzihet me gjizë, vezë, erëza etj.
 
 **Për 4-5 persona duhen:**
 
@@ -1912,7 +1912,7 @@ Preshët e pastruar e të larë, grihen hollë, kaurdisen në tenxhere me yndyr�
 * dhjamë ose vaj 2 filxhan kafeje
 * kripë piper
 
-**Shënim:** Po në këtë mënyrë përgatitet dhe me qepë të njoma.
+> **Shënim**: Po në këtë mënyrë përgatitet dhe me qepë të njoma.
 
 ### 105. Lakror me hithra.
 Hithrat i lajmë mirë me ujë të ftohtë, i shtypim pak duke i mbështjellë me një pecetë që të mos na djegin, i grijmë hollë dhe i kaurdisim pak me vaj. Pasi i heqim nga zjarri hedhim gjizë, qumësht, vezë, kripë, nenexhik. Në një tenxhere hedhim miellin e misrit të situr dhe me ujë të vakët yndyrë, e kripë zëmë një brumë me trashësi mesatare. E shtrojmë brumin në tepsi të lyer me yndyrë dhe sipër i hedhim hithrat e përgatitura. Mbi to hedhim me dorë një shtresë mielli, të cilin e lagim me ujë, e spërkasim me yndyrë dhe e pjekim në furrë.
@@ -2065,7 +2065,7 @@ Në mes të petëve të përgatitura me pure patatesh vendoset mbushja, mblidhen
 
 Qoftet e skuqura mund të jepen siç janë të nxehta, të spërkatura me gjalpë ose duke i hedhur salcë domatesh.
 
-**Shënim**: Këto qofte mund të përgatiten dhe me mbushje tjetër me kimë, me djathë e vezë, gjizë e vezë etj.
+> **Shënim**: Këto qofte mund të përgatiten dhe me mbushje tjetër me kimë, me djathë e vezë, gjizë e vezë etj.
 
 **Për 4-5 persona duhen:**
 
@@ -2089,7 +2089,7 @@ Në tavë të lyer me yndyrë dhe mundësisht të rregulluar me galetë shtrohet
 
 Në një enë kaurdiset mielli me pak gjalpë, shuhet me qumësht të holluar me ujë, përzihet mirë derisa të marrë valë duke u kujdesur që të mos krijohen kokrra, hidhet kripë dhe lihet të ziejë derisa masa të bëhet gjysmë e trashë. Hiqet nga zjarri ftohet pak dhe përzihet me vezë. Salca e përgatitur hidhet mbi musakanë, rrafshohet mirë, spërkatet me gjalpë dhe sipas dëshirës i hidhet sipër djathë kaçkavall ose djathë i bardhë i thërmuar. Tava vihet në furrë për t'u pjekur rreth 30 minuta.
 
-**Shënim**: Musakaja me patate përgatitet shumë mirë edhe me mish të grirë (kimë). Në këtë rast mbushja përgatitet njëlloj si me qepë, por me gjysmën e sasisë së qepëve. Pas skuqjes së qepës hidhet mishi i skuqur së bashku me domatet dhe erëzat.
+> **Shënim**: Musakaja me patate përgatitet shumë mirë edhe me mish të grirë (kimë). Në këtë rast mbushja përgatitet njëlloj si me qepë, por me gjysmën e sasisë së qepëve. Pas skuqjes së qepës hidhet mishi i skuqur së bashku me domatet dhe erëzat.
 
 **Për 4-5 persona duhen:**
 
@@ -2113,7 +2113,7 @@ Në një enë kaurdiset mielli me pak gjalpë, shuhet me qumësht të holluar me
 
 Patatet me madhësi mesatare qërohen, shpëlahen, priten në formë rrethi ose thelë portokalli, spërkaten me kripë dhe shtrohen në tavë. Përsipër i hidhen qepë të grira hollë në formë gjysmërrethi e domate të prera në feta të rrumbullakëta. Në mes të patateve në disa vende futen fletë dafinë, hidhet yndyrë, piper i zi. Tava futet në furrë për 30 minuta.
 
-**Shënim**: Patatet sipas dëshirës para se të shtrohen në tavë mund të skuqen pak dhe pastaj të përgatitet salca me qepë, domate, dhe erëza.
+> **Shënim**: Patatet sipas dëshirës para se të shtrohen në tavë mund të skuqen pak dhe pastaj të përgatitet salca me qepë, domate, dhe erëza.
 
 **Për 4-5 persona duhen:**
 
@@ -2166,7 +2166,7 @@ Për të përgatitur kimë përdoret çdo lloj mishi si: viçi, derri, lope, shp
 
 Tava e pjekur ftohet pak dhe pritet në copa të cilat vendosen në pjatë dhe përsipër u hidhet salcë e kuqe domatesh e përgatitur njëlloj si për pilaf e makarona.
 
-**Shënim**: Mbushja në këtë tavë mund të bëhet dhe me gjizë e vezë, djathë e vezë, perime të kaurdisura etj.
+> **Shënim**: Mbushja në këtë tavë mund të bëhet dhe me gjizë e vezë, djathë e vezë, perime të kaurdisura etj.
 
 **Për 4-5 persona duhen:**
 
@@ -2650,7 +2650,7 @@ Spinaqi pastrohet nga gjethet e dëmtuara, lahet në ujë të bollshëm duke e n
 
 Në tigan me yndyrë skuqen qepë të njoma të grira hollë, shtohet spinaqi, hudhra të shtypura, kripë, piper. Përzihen mirë dhe lihen në zjarr 2-3 minuta të tjera. Spinaqi me qepë mund të nxirret si gjellë e veçantë ose si garniturë me gjellë me mish. Gjithashtu spinaqi me qepë shkon mirë dhe me vezë. Në këtë rast spinaqi i gatshëm vendoset nëpër pjata dhe sipër vihen vezë syza të skuqura në çast. Gjatë vendosjes në pjata spinaqi spërkatet me lëng limoni ose limontoz të tretur në ujë.
 
-**Shënim**: Po në këtë mënyrë përgatitet edhe me lopjetë.
+> **Shënim**: Po në këtë mënyrë përgatitet edhe me lopjetë.
 
 **Për 4-5 persona duhen:**
 
@@ -3024,7 +3024,7 @@ Bizelet qërohen nga bishtaja, lahen dhe zihen me ujë të vluar pa kripë, deri
 
 Në tenxhere me yndyrë kaurdiset qepa e grirë, shtohet pak miell, kaurdisen së bashku, pastaj hidhet salcë domatesh, kaurdisen edhe pak e në fund shtohet ujë ose lëng mishi. Të gjitha këto lihen të ziejnë derisa të krijohet një salcë me trashësi mesatare. Në salcën e gatshme hidhen bizelet e ziera dhe vihen në zjarr derisa të marrin një valë. Para se të hiqet nga zjarri i hidhet kopër e grirë hollë.
 
-**Shënim:** Bizelet zihen më parë, sepse nga salca ato forcohen e nxihen.
+> **Shënim**: Bizelet zihen më parë, sepse nga salca ato forcohen e nxihen.
 
 **Për 4-5 persona duhen:**
 
@@ -4090,7 +4090,7 @@ Mishi i qengjit dhe i dashit pritet në copa dhe vihet në tenxhere. Qepët e nj
 * kripë
 * nenexhik
 
-**Shënim**: Në këtë mënyrë mund të përgatitet dhe mish dashi me spinaq.
+> **Shënim**: Në këtë mënyrë mund të përgatitet dhe mish dashi me spinaq.
 
 
 ### 227. Mish me spinaq
@@ -4282,7 +4282,7 @@ Mishi bëhet njëlloj si dhe mishi me patate. Orizi i pastruar kaurdiset në tav
 
 Merret lëngu i mishit, kullohet dhe hollohet në ujë të nxehtë sa të bëhet masa 1:3 (për 1 gotë oriz, 3 gota lëng). Vendoset në zjarr të marrë valë dhe hidhet orizi. Pastaj vihen thelat e mishit, u hidhet piper i zi dhe futen në furrë. Lihen të piqen derisa orizi të ketë pirë gjithë lëngun.
 
-**Shënim:** Për gjyveç me makarona është mirë të përdoren klitharaqe të vogla, ndërsa spagetat duhet të thyhen në copa të vogla. Makaronat kaurdisen dhe lëngu merret në raportin 1:4.
+> **Shënim**: Për gjyveç me makarona është mirë të përdoren klitharaqe të vogla, ndërsa spagetat duhet të thyhen në copa të vogla. Makaronat kaurdisen dhe lëngu merret në raportin 1:4.
 
 **Për 4-5 persona duhen:**
 
@@ -4501,7 +4501,7 @@ Pastaj i hidhet kripë, piper, rigon, spec i kuq, pak miell dhe përzihen mirë.
 
 Mëlçitë e derrit kanë vlerë ushqimore njëlloj si gjithë mëlçitë e tjera dhe shijen e kanë të mirë. Në qoftë se gjatë therjes nuk ka plasur tëmthi, ato pastrohen vetëm nga dhjami, zhapat dhe damarët kryesorë. Pastaj priten në feta, u hidhet kripë e piper: kalohen në miell dhe skuqen në tigan me yndyrë të nxehtë. Së bashku me mëlçitë, sipas dëshirës gjatë skuqjes mund të hidhen edhe qepë të grira hollë në formë gjysmërrethi. Nxirren të nxehta dhe të shoqëruara me patate të skuqura ose sallata të ndryshme.
 
-**Shënim:** Mëlçitë e skuqura sipas dëshirës mund të mos kalohen në miell. Në këtë mënyrë skuqen edhe mëlçitë e bagëtive të tjera.
+> **Shënim**: Mëlçitë e skuqura sipas dëshirës mund të mos kalohen në miell. Në këtë mënyrë skuqen edhe mëlçitë e bagëtive të tjera.
 
 **Për 4-5 persona duhen:**
 
@@ -4798,7 +4798,7 @@ Kompostot mund të përgatiten nga fruta të freskëta, të thata, të grira ose
 ### 262. Komposto me mollë
 Mollët pasi lahen mirë, qërohen ose lihen të paqëruara, priten përgjysmë, u hiqen farëzat dhe çdo gjysmë pritet në feta portokalli. Gjatë pastrimit mollët që të mos nxihen hidhen në enë me ujë të ftohtë e limontoz. Lëkurat dhe farëzat bashkë me zemrën hidhen në tenxhere me ujë të vluar dhe zihen 10-12 minuta. Pastaj lëngu kullohet, i hidhet sheqer, vihet në zjarr dhe lihet derisa të marrë valë, pastaj hidhen mollët e përgatitura. Lihen të ziejnë 5-10 minuta sipas llojit të mollëve: në qoftë se janë të llojit që zbuten shpejt, atëherë ato hiqen nga zjarri menjëherë sapo të marrin valë. Për aromë, kompostos mund t'i shtohet pak kanellë ose karafil. Ndërsa për të përmirësuar shijen kur kompostoja të jetë ftohur i hidhet verë e kuqe e ëmbël.
 
-**Shënim:** Po në këtë mënyrë përgatitet dhe kompostoja e dardhës, e ftoit etj.
+> **Shënim**: Po në këtë mënyrë përgatitet dhe kompostoja e dardhës, e ftoit etj.
 
 **Për 4-5 persona duhen:**
 
@@ -5246,7 +5246,7 @@ Përgatitja me mënyrën e nxehtë: vezët bashkë me sheqerin hidhen në enë m
 
 Pastaj përzihet me miellin dhe hidhet në tavën e lyer me yndyrë dhe të pudrosur me miell. Tava nuk mbushet plot, por deri në 3/4 e lartësisë, pasi gjatë pjekjes brumi rrit vëllimin dhe derdhet. Sipërfaqja e brumit rrafshohet me thikë dhe piqet për 25-30 minuta. Pas pjekjes lihet të ftohet, pastaj përvëlohet me shurup ose, në qoftë se do të përdoret për tortë, lihet e thatë.
 
-**Shënim:** Pandispanja del më e shkrifët dhe më e thatë në qoftë se mielli përzihet me pak niseshte.
+> **Shënim**: Pandispanja del më e shkrifët dhe më e thatë në qoftë se mielli përzihet me pak niseshte.
 
 **Për tavën me korent duhen:**
 
