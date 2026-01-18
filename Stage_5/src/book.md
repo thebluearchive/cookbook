@@ -1434,35 +1434,32 @@ Mishin e viçit e kalojmë 2 herë në makinë së bashku me qepët. Në masën 
 
 ### 74. Makarona me gjalp
 
-Mishin e viçit e kalojmë 2 herë në makinë së bashku me qepët. Në masën e mishit hidhet kripë, piper i zi i bluar, majdanoz i grirë hollë, të bardhat e vezëve dhe pak oriz gjysmë i zier. Të gjitha këto përzihen dhe ndahen në kokrra të vogla të rrumbullakta me madhësi sa një kokërr ulliri.
-
-Qoftet e përgatitura hidhen në ujë të valuar për t’u zier ku kemi hedhur pak lëng limoni ose limontoz me qëllim që të mos prishen qoftet. Këto i ziejmë për 10-15 minuta. Në një tenxhere kaurdisim miellin me gjalpë, shtohet qumështi dhe lëngu i qofteve. Përzihet shpejt që të mos krijohen kokrriza. Kështu bëhet një masë e hollë si supë krem e zakonshme.
-
-Pastaj rrihen të verdhat e vezëve, hollohen pak me lëngun e supës, rregullohen me kripë, lëng limoni ose limontoz dhe hidhen në supë. Në fund hidhen qoftet e vogla dhe majdanozi i grirë hollë.
-
-**Për 4-5 veta duhen:**
-* mish: 250 g
-* qepë: 1 kokërr
-* oriz: 1 lugë gjelle
-* vezë: 1 kokërr
-* qumësht: 1 gotë
-* majdanoz: 2 lugë gjelle
-* gjalpë dhe miell: 3 lugë gjelle
-* lëng mishi: 1 litër
-* limon ose limontoz
-* kripë
-* piper
+> This recipe was missing from the book
 
 ### 75. Makarone me salcë
+Makaronat hidhen në ujë të valuar me kripë dhe lihen të ziejnë 15-20 minuta. Pasi të jenë zier, shpëlahen me ujë të ftohtë dhe shërbehen në çast me gjalpë të freskët, salcë domatesh ose kima. Përsipër u shtohet djathë kaçkavall i grirë.
 
-```
-Missing
-```
+**Për 4-5 veta duhen:**
+
+**Për salcës së makaronave:**
+* yndyrë: 2 lugë gjelle
+* qepë: 1 kokërr
+* salcë 1 lugë gjelle ose 3-4 kokrra domate
+* karrota: 1 copë
+* një rrënjë selino
+* piper sipas dëshirës
+këto për përgatitjen e salcës së makaronave.
+
+**Për makaronat duhen:**
+* makarona: gjysmë pako
+* gjalpë: 2 lugë gjelle
+* djathë kaçkavall i grirë: 2 lugë gjelle
+* kripë
+* ujë: 3 litra
+
 ### 76. Makarona me kimë
 
-```
-Missing
-```
+> This recipe was missing from the book
 
 ### 77. Makarona dore
 
@@ -1478,9 +1475,7 @@ Sitet mielli dhe hapet një gropë në mes, hidhen vezët, pak kripë dhe pak uj
 
 ### 78. Makarona dore me salcë ose kimë
 
-```
-Missing
-```
+> This recipe was missing from the book
 
 ### 79. Byrek me peta të ziera (llazanja)
 
@@ -4891,7 +4886,7 @@ Të verdhat e vezëve ose krejt vezët rrihen me sheqer dhe pak ujë, pastaj sht
 
 ### 272. Krem kakao
 
-Kakaovja përzihet mirë e mirë me sheqerin derisa të mos ketë më kokërriza, i hidhet pak ujë i nxehtë dhe përzihet përsëri. Pastaj shtohen vezët, rrihen mirë, i hidhet niseshte dhe në fund duke e përzier lehtësisht i hidhet qumësht i nxehtë. Masa vihet në zjarr dhe duke e përzier lihet derisa të trashet. Kremi i përgatitur hidhet nëpër filxhanë dhe lihet të ftohet.
+Kakaoja përzihet mirë e mirë me sheqerin derisa të mos ketë më kokërriza, i hidhet pak ujë i nxehtë dhe përzihet përsëri. Pastaj shtohen vezët, rrihen mirë, i hidhet niseshte dhe në fund duke e përzier lehtësisht i hidhet qumësht i nxehtë. Masa vihet në zjarr dhe duke e përzier lihet derisa të trashet. Kremi i përgatitur hidhet nëpër filxhanë dhe lihet të ftohet.
 
 **Për 4-5 persona duhen:**
 
