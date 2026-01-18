@@ -731,7 +731,7 @@ Mëlçitë shpëlahen, pastrohen nga cipa dhe damarët kryesorë, priten në cop
 
 # KAPITULLI III
 
-# SUPAT
+# Supat
 
 Supat zakonisht përgatiten me lëng mishi ose pule. Mund të përdoret dhe uji ku janë zier makaronat, patatet, spinaqi dhe barishtet e tjera, sepse këto lëngje janë të pasura me lëndë ekstraktive, kripra minerale dhe lëndë të tjera ushqimore të vlefshme për organizmin e njeriut.
 
@@ -1411,16 +1411,102 @@ Qepët dhe karotat e grira hollë kaurdisen me gjalpë. Spinaqi pastrohet e lahe
 
 ### 73. Supë krem me qofte të vogla
 
-Mishi i bagëtive të imta ose i viçit kalohet 2 herë në makinë së bashku me qepët. Në masën e mishit hidhet kripë, piper i zi i bluar, majdanoz i grirë hollë, të bardhat e vezëve dhe pak oriz gjysmë i zier. Të gjitha këto përzihen dhe ndahen në kokrra të vogla të rrumbullakta me madhësi sa një kokërr ulliri. Duhet patur parasysh që të mos hidhet oriz më tepër sesa duhet, pse gjatë zierjes qoftet hapen. Qoftet e përgatitura kaurdisen pak me gjalpë, shtohet ujë i vluar (aq sa nevojitet për supën) dhe lihet të ziejë 10-15 minuta. Në një tenxhere tjetër kaurdiset pak miell me gjalpë, shtohet qumësht dhe lëngu i qofteve. Përzihen shpejt, që të mos krijohen kokrriza...
+Mishin e viçit e kalojmë 2 herë në makinë së bashku me qepët. Në masën e mishit hidhet kripë, piper i zi i bluar, majdanoz i grirë hollë, të bardhat e vezëve dhe pak oriz gjysmë i zier. Të gjitha këto përzihen dhe ndahen në kokrra të vogla të rrumbullakta me madhësi sa një kokërr ulliri. Qoftet e përgatitura hidhen në ujë të valuar për t’u zier ku kemi hedhur pak lëng limoni ose limontoz me qëllim që të mos prishen qoftet. Këto i ziejmë për 10-15 minuta. Në një tenxhere kaurdisim miellin me gjalpë, shtohet qumështi dhe lëngu i qofteve. Përzihet shpejt që të mos krijohen kokrriza. Kështu bëhet një masë e hollë si supë krem e zakonshme. Pastaj rrihen të verdhat e vezëve, hollohen pak me lëngun e supës, rregullohen me kripë, lëng limoni ose limontoz dhe hidhen në supë. Në fund hidhen qoftet e vogla dhe majdanozi i grirë hollë.
+
+**Për 4-5 veta duhen:**
+
+* mish: 250 g.
+* qepë: 1 kokërr
+* oriz: 1 lugë gjelle
+* vezë: 1 kokërr
+* qumësht: 1 gotë
+* majdanoz: 2 lugë gjelle
+* gjalpë dhe miell: 3 lugë gjelle
+* lëng mishi: 1 litër
+* limon ose limontoz
+* kripë
+* piper
 
 
+# KAPITULLI IV
+
+# Brumërat
+
+### 74. Makarona me gjalp
+
+Mishin e viçit e kalojmë 2 herë në makinë së bashku me qepët. Në masën e mishit hidhet kripë, piper i zi i bluar, majdanoz i grirë hollë, të bardhat e vezëve dhe pak oriz gjysmë i zier. Të gjitha këto përzihen dhe ndahen në kokrra të vogla të rrumbullakta me madhësi sa një kokërr ulliri.
+
+Qoftet e përgatitura hidhen në ujë të valuar për t’u zier ku kemi hedhur pak lëng limoni ose limontoz me qëllim që të mos prishen qoftet. Këto i ziejmë për 10-15 minuta. Në një tenxhere kaurdisim miellin me gjalpë, shtohet qumështi dhe lëngu i qofteve. Përzihet shpejt që të mos krijohen kokrriza. Kështu bëhet një masë e hollë si supë krem e zakonshme.
+
+Pastaj rrihen të verdhat e vezëve, hollohen pak me lëngun e supës, rregullohen me kripë, lëng limoni ose limontoz dhe hidhen në supë. Në fund hidhen qoftet e vogla dhe majdanozi i grirë hollë.
+
+**Për 4-5 veta duhen:**
+* mish: 250 g
+* qepë: 1 kokërr
+* oriz: 1 lugë gjelle
+* vezë: 1 kokërr
+* qumësht: 1 gotë
+* majdanoz: 2 lugë gjelle
+* gjalpë dhe miell: 3 lugë gjelle
+* lëng mishi: 1 litër
+* limon ose limontoz
+* kripë
+* piper
+
+### 75. Makarone me salcë
+
 ```
-Unfortunately here, 6 pages were missing from the book...
+Missing
 ```
+### 76. Makarona me kimë
+
+```
+Missing
+```
+
+### 77. Makarona dore
+
+Sitet mielli dhe hapet një gropë në mes, hidhen vezët, pak kripë dhe pak ujë. Zëmë brumin duke e ngjeshur, brumi duhet të jetë i fortë. Ai provohet në se është gati, po të pritet me thikë, nuk duhet të ketë pore. Ndahet në kulaçe të vegjël, mbulohen me pecetë të lagur dhe lihen në një anë për 30 minuta. Pastaj hapen petët me trashësi 1 mm. Pasi thahen pak, spërkaten me miell dhe vendosen 3-4 petë njëra mbi tjetrën, mbidhen në formë roleje dhe priten në shirita me gjerësi më pak se 1 cm. Hapen në tavolinë dhe lihen të thahen pak. Pastaj zihen në ujë të valuar me kripë për 10 minuta. Gatuhen si makaronat me gjalpë, me salcë ose me kima.
+
+**Për 4-5 veta duhen:**
+
+* miell: 3 gota uji
+* gjalpë 3 lugë gjelle:
+* vezë 2 kokrra:
+* pak kripë.
+
+
+### 78. Makarona dore me salcë ose kimë
+
+```
+Missing
+```
+
+### 79. Byrek me peta të ziera (llazanja)
+
+Brumi për byrek me peta të ziera e zëmë njelloj si për makaronat e dorës. Hapen petët dhe pasi thahen pak, priten në shirita katër gisht të gjerë. Zihen në ujë të valuar me kripë për 10 minuta. Hiqen nga uji i ftohtë dhe hapen në një tavolinë të pastër. Përgatititet salca beshamel. Merret pak nga salca e përgatitur dhe përzihet me kimanë, ndërsa salcën tjetër e mbajmë për ta hedhur përsipër.
+
+Lyhet fundi i tepsisë me gjalpë dhe spërkatet me bukë të thatë të bluar (galetë). Shtrohen me radhë petët, spërkaten me gjalpë dhe djathë kaçkavall të grirë dhe shtrohet një shtresë kimaje e përgatitur, përsëri një shtresë petë, një shtresë kima e kështu veprohet derisa të mbarojnë petët dhe kimaja. Shtresës së sipërme nuk i hidhet kima.
+
+Salcës beshamel i shtohen të verdhat e vezëve, kripë dhe hidhet sipër. Hapet njësoj në të gjithë sipërfaqen e tepsisë, spërkatet me gjalpë e djathë kaçkavall të grirë hollë dhe piqet në furrë me nxehtësi mesatare, derisa në sipërfaqe të krijohet një kore e kuqe. Hiqet nga furra dhe lihet të ftohet pak, pastaj pritet në copa.
+
+**Për 4-5 persona duhen:**
+
+* miell: 2 gota uji
+* mish i grirë: 200 g, ose 1 filxhan
+* salcë: 1 lugë gjelle
+* gjalpë: 2 lugë gjelle (50 g)
+* vezë: 3 kokrra
+* qepë: 1 kokërr
+* yndyrë: 1 lugë
+* kripë: sipas dëshirës
+* piper: sipas dëshirës
+* erëza: sipas dëshirës
+
 
 ### 80. Pastiço me djathë
 
-Makaronat kullohen, shpëlahen, kullohen përsëri mirë dhe hidhen në tavë, shtohet djathë i bardhë i thërmuar, një pjesë e gjalpit, vezë, pak qumësht, piper i zi dhe të gjitha këto përzihen mirë, shtrohen në tepsi të lyer me yndyrë, përsipër hidhet salca e bardhë ose rrihen vezët me qumësht. Sipër pastiçoja spërkatet me gjalpë e djathë kaçkavall dhe piqet në furrë për 25-30 minuta.
+Për pastiço zakonisht përdoren makaronat e trasha me vrimë në mes ose makarona spageti. Zihen makaronat në ujë të valuar me kripë, por jo shumë që të bëhen qulle. Makaronat kullohen, shpëlahen, kullohen përsëri mirë dhe hidhen në tavë, shtohet djathë i bardhë i thërmuar, një pjesë e gjalpit, vezë, pak qumësht, piper i zi dhe të gjitha këto përzihen mirë, shtrohen në tepsi të lyer me yndyrë, përsipër hidhet salca e bardhë ose rrihen vezët me qumësht. Sipër pastiçoja spërkatet me gjalpë e djathë kaçkavall dhe piqet në furrë për 25-30 minuta.
 
 **Për 4-5 persona duhen:**
 
@@ -1832,7 +1918,7 @@ Preshët e pastruar e të larë, grihen hollë, kaurdisen në tenxhere me yndyr�
 
 **Shënim:** Po në këtë mënyrë përgatitet dhe me qepë të njoma.
 
-### 105. Lakrri me hithra.
+### 105. Lakror me hithra.
 Hithrat i lajmë mirë me ujë të ftohtë, i shtypim pak duke i mbështjellë me një pecetë që të mos na djegin, i grijmë hollë dhe i kaurdisim pak me vaj. Pasi i heqim nga zjarri hedhim gjizë, qumësht, vezë, kripë, nenexhik. Në një tenxhere hedhim miellin e misrit të situr dhe me ujë të vakët yndyrë, e kripë zëmë një brumë me trashësi mesatare. E shtrojmë brumin në tepsi të lyer me yndyrë dhe sipër i hedhim hithrat e përgatitura. Mbi to hedhim me dorë një shtresë mielli, të cilin e lagim me ujë, e spërkasim me yndyrë dhe e pjekim në furrë.
 
 **Për 4-5 persona duhen:**
@@ -1862,7 +1948,7 @@ Kungujve të njomë u pastrohet lëkura duke e gërryer me thikë, u hiqen farat
 
 # KAPITULLI V
 
-# PERIMET
+# Perimet
 
 Partia duke pasur në qendër të vëmendjes shëndetin e njeriut, midis masave të shumta që ka marrë, i ka kushtuar një rëndësi të veçantë kultivimit dhe përhapjes sa më të madhe të perimeve, rritja e të cilave favorizohet dhe nga kushtet e mira klimaterike të vendit tonë. Tek ne ekzistojnë të gjitha mundësitë për një përdorim sa më të gjerë të perimeve pasi ato mund të gjenden në çdo stinë të vitit.
 
@@ -1919,9 +2005,9 @@ Patatet e nxehta vendosen në pjatë dhe sipër u hidhet gjalpë i shkrirë, kop
 
 ### 108. Pure patate
 
-Patatet e lara qërohen dhe shpëlahen me ujë të ftohtë, priten në copa të mëdha të barabarta dhe hidhen në ujë të vluar me kripë. Tenxherja mbulohet me kapak dhe lihet të ziejë 25-30 minuta, pastaj kullohet uji dhe lihet përsëri e mbuluar me kapak për 5 minuta në zjarr të ngadaltë që ato të zbuten në brendësi. Patatet ashtu siç janë të nxehta shtypen në makinën e mishit.
+Patatet e lara qërohen dhe shpëlahen me ujë të ftohtë, priten në copa të mëdha të barabarta dhe hidhen në ujë të vluar me kripë. Tenxherja mbulohet me kapak dhe lihet të ziejë 25-30 minuta, pastaj kullohet uji dhe lihet përsëri e mbuluar me kapak për 5 minuta në zjarr të ngadaltë që ato të zbuten në brendësi. Patatet ashtu siç janë të nxehta shtypen në makinën e mishit. Pastaj hidhet gjalpë, kripë dhe pak nga pak qumësht i nxehtë. Duhet theksuar edhe një herë se patatet shtypen të nxehta, në rast të kundërt pureja del e lëngshme, dhe e humbet shijen.
 
-Pastaj hidhet gjalpë, kripë dhe pak nga pak qumësht i nxehtë. Duhet theksuar edhe një herë se patatet shtypen të nxehta, në rast të kundërt pureja del e lëngshme, dhe e humbet shijen. Pureja me patate jepet si gjellë e veçantë duke e spërkatur sipër me gjalpë të shkrirë, ose si garniturë për gjellë me mish e peshk.
+Pureja me patate jepet si gjellë e veçantë duke e spërkatur sipër me gjalpë të shkrirë, ose si garniturë për gjellë me mish e peshk.
 
 **Për 4-5 persona duhen:**
 
@@ -1933,7 +2019,9 @@ Pastaj hidhet gjalpë, kripë dhe pak nga pak qumësht i nxehtë. Duhet theksuar
 
 ### 109. Qofte patatesh të ziera.
 
-Përgatitet pureja e patateve si më sipër, por në vend të qumështit hidhet vezë, shtohet kripë, piper dhe niseshte. Masa punohet mirë dhe ndahet në peta të vogla me diametër 3-4 cm dhe me trashësi 1 cm. Në mes të petës vendoset mbushja me mish: anët e petëve mblidhen dhe rrumbullakosen me dorë duke u dhënë formë sferike. Qoftet e përgatitura hidhen në ujë të vluar me kripë dhe zihen për 10-15 minuta. Pastaj hiqen nga uji, kullohen, dhe serviren me salcë domatesh, e cila përgatitet kështu: kaurdiset qepa e grirë hollë, shtohet një lugë miell dhe pasi edhe ai kaurdiset shtohet salcë domatesh, ujë, kripë, piper, 1 fletë dafine, përzihen mirë, lihen të ziejnë për 5-10 minuta, dhe pastaj kullohen. Për mbushje: mishi i zier ose i pjekur kalohet në makinë ndërsa në tigan me yndyrë kaurdisen qepë të grira hollë. Kur qepa është gati shtohet mishi i grirë, kaurdisen 2-3 minuta së bashku dhe shtohet kripë e piper i zi.
+Përgatitet pureja e patateve si më sipër, por në vend të qumështit hidhet vezë, shtohet kripë, piper dhe niseshte. Masa punohet mirë dhe ndahet në peta të vogla me diametër 3-4 cm dhe me trashësi 1 cm. Në mes të petës vendoset mbushja me mish: anët e petëve mblidhen dhe rrumbullakosen me dorë duke u dhënë formë sferike. Qoftet e përgatitura hidhen në ujë të vluar me kripë dhe zihen për 10-15 minuta. Pastaj hiqen nga uji, kullohen, dhe serviren me salcë domatesh, e cila përgatitet kështu: kaurdiset qepa e grirë hollë, shtohet një lugë miell dhe pasi edhe ai kaurdiset shtohet salcë domatesh, ujë, kripë, piper, 1 fletë dafine, përzihen mirë, lihen të ziejnë për 5-10 minuta, dhe pastaj kullohen.
+
+**Për mbushje**: mishi i zier ose i pjekur kalohet në makinë ndërsa në tigan me yndyrë kaurdisen qepë të grira hollë. Kur qepa është gati shtohet mishi i grirë, kaurdisen 2-3 minuta së bashku dhe shtohet kripë e piper i zi.
 
 **Për 4-5 persona duhen:**
 
@@ -1975,7 +2063,11 @@ Patatet e qëruara dhe të shpëlara zihen në ujë të vluar me kripë (ujë hi
 
 ### 111. Qofte patatesh të mbushura
 
-Përgatitet pure patate si më sipër, e cila përzihet me gjalpë, vezë e kripë dhe ndahet në copa. Secilës copë i jepet formë e rrumbullakët ose e sheshtë me diametër 8-10 cm dhe me trashësi 1 cm. Në tigan me gjalpë skuqet qepa e grirë hollë derisa të marrë ngjyrën e kuqërremtë. Vezët e ziera shumë qërohen, priten në copa të vogla dhe përzihen me qepën. Shtohet kripë, piper i zi, majdanoz i grirë imët ose kopër. Në mes të petëve të përgatitura me pure patatesh vendoset mbushja, mblidhen anët duke mbuluar mirë mbushjen dhe shtypen lehtë me dorë duke u dhënë formën vezake. Çdo copë kalohet në galetë të bluar ose në miell dhe skuqet me pak yndyrë nga të dyja anët. Theksojmë se qoftet duhet të skuqen me pak yndyrë sa për të mos u ngjitur në tigan: ndryshe ato do ta pinë gjithë sasinë e vajit. Qoftet e skuqura mund të jepen siç janë të nxehta, të spërkatura me gjalpë ose duke i hedhur salcë domatesh.
+Përgatitet pure patate si më sipër, e cila përzihet me gjalpë, vezë e kripë dhe ndahet në copa. Secilës copë i jepet formë e rrumbullakët ose e sheshtë me diametër 8-10 cm dhe me trashësi 1 cm. Në tigan me gjalpë skuqet qepa e grirë hollë derisa të marrë ngjyrën e kuqërremtë. Vezët e ziera shumë qërohen, priten në copa të vogla dhe përzihen me qepën. Shtohet kripë, piper i zi, majdanoz i grirë imët ose kopër.
+
+Në mes të petëve të përgatitura me pure patatesh vendoset mbushja, mblidhen anët duke mbuluar mirë mbushjen dhe shtypen lehtë me dorë duke u dhënë formën vezake. Çdo copë kalohet në galetë të bluar ose në miell dhe skuqet me pak yndyrë nga të dyja anët. Theksojmë se qoftet duhet të skuqen me pak yndyrë sa për të mos u ngjitur në tigan: ndryshe ato do ta pinë gjithë sasinë e vajit.
+
+Qoftet e skuqura mund të jepen siç janë të nxehta, të spërkatura me gjalpë ose duke i hedhur salcë domatesh.
 
 **Shënim**: Këto qofte mund të përgatiten dhe me mbushje tjetër me kimë, me djathë e vezë, gjizë e vezë etj.
 
@@ -1993,8 +2085,13 @@ Përgatitet pure patate si më sipër, e cila përzihet me gjalpë, vezë e krip
 
 ### 112. Musaka patate me qepë
 
-Patatet me madhësi mesatare qërohen, lahen dhe priten në feta të rrumbullakta, me trashësi rreth 5-7 mm. Patatet skuqen derisa të krijohet kore e lehtë. Qepa e prerë në formë gjysmërrethi skuqet me yndyrë në zjarr të javashëm në mënyrë që të mos digjet, por të zbutet. Këtu hidhen domate të qëruara në copa kubike ose salcë, vazhdon kaurdisja edhe pak, shtohet kripë, piper, fletë dafine. Në qoftë se qepa nuk është zbutur shtohet pak ujë dhe lihet të ziejë derisa të mbetet me yndyrën e vet.
-Në tavë të lyer me yndyrë dhe mundësisht të rregulluar me galetë shtrohet një shtresë patatesh të skuqura, mbi to gjysma e qepës, përsëri një shtresë patatesh, dhe pastaj pjesa tjetër e qepës. Mbi këto shtrohet prap një shtresë me patate. Në një enë kaurdiset mielli me pak gjalpë, shuhet me qumësht të holluar me ujë, përzihet mirë derisa të marrë valë duke u kujdesur që të mos krijohen kokrra, hidhet kripë dhe lihet të ziejë derisa masa të bëhet gjysmë e trashë. Hiqet nga zjarri ftohet pak dhe përzihet me vezë. Salca e përgatitur hidhet mbi musakanë, rrafshohet mirë, spërkatet me gjalpë dhe sipas dëshirës i hidhet sipër djathë kaçkavall ose djathë i bardhë i thërmuar. Tava vihet në furrë për t'u pjekur rreth 30 minuta.
+Patatet me madhësi mesatare qërohen, lahen dhe priten në feta të rrumbullakta, me trashësi rreth 5-7 mm. Patatet skuqen derisa të krijohet kore e lehtë.
+
+Qepa e prerë në formë gjysmërrethi skuqet me yndyrë në zjarr të javashëm në mënyrë që të mos digjet, por të zbutet. Këtu hidhen domate të qëruara në copa kubike ose salcë, vazhdon kaurdisja edhe pak, shtohet kripë, piper, fletë dafine. Në qoftë se qepa nuk është zbutur shtohet pak ujë dhe lihet të ziejë derisa të mbetet me yndyrën e vet.
+
+Në tavë të lyer me yndyrë dhe mundësisht të rregulluar me galetë shtrohet një shtresë patatesh të skuqura, mbi to gjysma e qepës, përsëri një shtresë patatesh, dhe pastaj pjesa tjetër e qepës. Mbi këto shtrohet prap një shtresë me patate.
+
+Në një enë kaurdiset mielli me pak gjalpë, shuhet me qumësht të holluar me ujë, përzihet mirë derisa të marrë valë duke u kujdesur që të mos krijohen kokrra, hidhet kripë dhe lihet të ziejë derisa masa të bëhet gjysmë e trashë. Hiqet nga zjarri ftohet pak dhe përzihet me vezë. Salca e përgatitur hidhet mbi musakanë, rrafshohet mirë, spërkatet me gjalpë dhe sipas dëshirës i hidhet sipër djathë kaçkavall ose djathë i bardhë i thërmuar. Tava vihet në furrë për t'u pjekur rreth 30 minuta.
 
 **Shënim**: Musakaja me patate përgatitet shumë mirë edhe me mish të grirë (kimë). Në këtë rast mbushja përgatitet njëlloj si me qepë, por me gjysmën e sasisë së qepëve. Pas skuqjes së qepës hidhet mishi i skuqur së bashku me domatet dhe erëzat.
 
@@ -2020,7 +2117,7 @@ Në tavë të lyer me yndyrë dhe mundësisht të rregulluar me galetë shtrohet
 
 Patatet me madhësi mesatare qërohen, shpëlahen, priten në formë rrethi ose thelë portokalli, spërkaten me kripë dhe shtrohen në tavë. Përsipër i hidhen qepë të grira hollë në formë gjysmërrethi e domate të prera në feta të rrumbullakëta. Në mes të patateve në disa vende futen fletë dafinë, hidhet yndyrë, piper i zi. Tava futet në furrë për 30 minuta.
 
-Shënim: Patatet sipas dëshirës para se të shtrohen në tavë mund të skuqen pak dhe pastaj të përgatitet salca me qepë, domate, dhe erëza.
+**Shënim**: Patatet sipas dëshirës para se të shtrohen në tavë mund të skuqen pak dhe pastaj të përgatitet salca me qepë, domate, dhe erëza.
 
 **Për 4-5 persona duhen:**
 
@@ -2034,7 +2131,9 @@ Shënim: Patatet sipas dëshirës para se të shtrohen në tavë mund të skuqen
 
 ### 114. Tavë me patate të reja
 
-Patatet e reja shpeshherë janë të përziera me kokrra të mëdha e të vogla. Të mëdhatë qërohen dhe pastaj kalojnë në përpunim të nxehtë, ndërsa të voglat lahen, zihen, qërohen dhe pastaj gatuhen. Kjo është më praktike sepse kokrrat e vogla duan më tepër kohë për t'u qëruar, sigurisht që dhe firo bëjnë më tepër. Prandaj tava me patate të reja mund të bëhet në dy mënyra: me patate të mëdha (mënyra e parë) dhe me patate të vogla (mënyra e dytë).
+Patatet e reja shpeshherë janë të përziera me kokrra të mëdha e të vogla. Të mëdhatë qërohen dhe pastaj kalojnë në përpunim të nxehtë, ndërsa të voglat lahen, zihen, qërohen dhe pastaj gatuhen. Kjo është më praktike sepse kokrrat e vogla duan më tepër kohë për t'u qëruar, sigurisht që dhe firo bëjnë më tepër.
+
+Prandaj tava me patate të reja mund të bëhet në dy mënyra: me patate të mëdha (mënyra e parë) dhe me patate të vogla (mënyra e dytë).
 
 **Mënyra e parë:** Patatet e reja lahen, qërohen dhe zihen në ujë të vluar me kripë. Pasi të jenë zier, u kullohet uji, priten në feta të trasha dhe shtrohen në tavë. Në pjatë të thellë ose në tas porcelani apo plastmasi rrihen vezët me qumësht, shtohet kripë, piper dhe majdanozi grirë imët. Masa e përgatitur hidhet sipër patateve, sipas dëshirës mund t'i hidhet kaçkavall i grirë ose djathë i bardhë, pastaj spërkatet me gjalpë dhe piqet në furrë.
 
@@ -2063,10 +2162,15 @@ Patatet e reja shpeshherë janë të përziera me kokrra të mëdha e të vogla.
 
 ### 115 Tavë pure me kimë
 
-Patatet qërohen, shpëlahen, priten në copa të mëdha të barabarta dhe hidhen në tenxhere me ujë të vluar e kripë. Zihen 25-30 minuta, u derdhet uji, dhe mbahen 5 minuta në zjarr të javashëm, të mbuluara me kapak që të zbuten. Patatet e nxehta kalohen në makinë ose shtypen me lugë druri, pastaj shtohet qumësht, vezë, gjalpë dhe kripë, përzihen mirë dhe gjysma e pures shtrohet në tavë të lyer me yndyrë, mundësisht të spërkatur me galetë, mbi pure shtrohet kima e përgatitur. Pastaj hidhet pjesa tjetër e puresë, rrafshohet mirë, lyhet me vezë të përziera me qumësht dhe piqet në furrë për 20-25 minuta.
-Për të përgatitur kimë përdoret çdo lloj mishi si: viçi, derri, lope, shpendësh ose mëlçi dhe zemër. Mishi i zier ose i pjekur kalohet në makinë ose grihet në copa të vogla me thikë, shtohet qepë e skuqur, piper i zi i bluar, kripë dhe të gjitha së bashku përzihen mirë. Tava e pjekur ftohet pak dhe pritet në copa të cilat vendosen në pjatë dhe përsipër u hidhet salcë e kuqe domatesh e përgatitur njëlloj si për pilaf e makarona.
+Patatet qërohen, shpëlahen, priten në copa të mëdha të barabarta dhe hidhen në tenxhere me ujë të vluar e kripë. Zihen 25-30 minuta, u derdhet uji, dhe mbahen 5 minuta në zjarr të javashëm, të mbuluara me kapak që të zbuten.
 
-Shënim: Mbushja në këtë tavë mund të bëhet dhe me gjizë e vezë, djathë e vezë, perime të kaurdisura etj.
+Patatet e nxehta kalohen në makinë ose shtypen me lugë druri, pastaj shtohet qumësht, vezë, gjalpë dhe kripë, përzihen mirë dhe gjysma e pures shtrohet në tavë të lyer me yndyrë, mundësisht të spërkatur me galetë, mbi pure shtrohet kima e përgatitur. Pastaj hidhet pjesa tjetër e puresë, rrafshohet mirë, lyhet me vezë të përziera me qumësht dhe piqet në furrë për 20-25 minuta.
+
+Për të përgatitur kimë përdoret çdo lloj mishi si: viçi, derri, lope, shpendësh ose mëlçi dhe zemër. Mishi i zier ose i pjekur kalohet në makinë ose grihet në copa të vogla me thikë, shtohet qepë e skuqur, piper i zi i bluar, kripë dhe të gjitha së bashku përzihen mirë.
+
+Tava e pjekur ftohet pak dhe pritet në copa të cilat vendosen në pjatë dhe përsipër u hidhet salcë e kuqe domatesh e përgatitur njëlloj si për pilaf e makarona.
+
+**Shënim**: Mbushja në këtë tavë mund të bëhet dhe me gjizë e vezë, djathë e vezë, perime të kaurdisura etj.
 
 **Për 4-5 persona duhen:**
 
@@ -2083,7 +2187,11 @@ Shënim: Mbushja në këtë tavë mund të bëhet dhe me gjizë e vezë, djathë
 
 ### 116. Patate të skuqura me pak yndyrë
 
-Zakonisht për t'u skuqur me pak yndyrë, patatet përdoren të ziera, ose të paziera. Më të shijshme janë ato që skuqen të paziera, me përjashtim të patateve të vogla të cilat më parë zihen pastaj qërohen, priten në feta dhe skuqen. Për t'u skuqur patatet nuk vendosen në një shtresë, por në 3-4 shtresa dhe gjatë skuqjes herë pas here përzihen. Kripa hidhet në fillim ose gjatë skuqjes. Patatet e skuqura vendosen në pjatë, spërkaten me majdanoz ose kopër të grirë hollë. Shoqërohen me sallatë domate, sallatë jeshile, kastraveca të freskët ose turshi etj. Mund të jepen si garniturë për gjellë me mish, peshk, shpend. Po në këtë mënyrë përgatiten dhe patatet e paziera të cilat gjatë skuqjes duhet të mbulohen me kapak. Prerja e tyre bëhet sipas dëshirës.
+Zakonisht për t'u skuqur me pak yndyrë, patatet përdoren të ziera, ose të paziera. Më të shijshme janë ato që skuqen të paziera, me përjashtim të patateve të vogla të cilat më parë zihen pastaj qërohen, priten në feta dhe skuqen.
+
+Për t'u skuqur patatet nuk vendosen në një shtresë, por në 3-4 shtresa dhe gjatë skuqjes herë pas here përzihen. Kripa hidhet në fillim ose gjatë skuqjes. Patatet e skuqura vendosen në pjatë, spërkaten me majdanoz ose kopër të grirë hollë. Shoqërohen me sallatë domate, sallatë jeshile, kastraveca të freskët ose turshi etj. Mund të jepen si garniturë për gjellë me mish, peshk, shpend.
+
+Po në këtë mënyrë përgatiten dhe patatet e paziera të cilat gjatë skuqjes duhet të mbulohen me kapak. Prerja e tyre bëhet sipas dëshirës.
 
 **Për 4-5 persona duhen:**
 
@@ -2091,7 +2199,9 @@ Zakonisht për t'u skuqur me pak yndyrë, patatet përdoren të ziera, ose të p
 
 ### 117. Patate të skuqura me qepë
 
-Patatet e qëruara lahen, priten në feta, shpëlahen edhe një herë, u kullohet uji. Në tigan me yndyrë hidhet qepë e grirë trashë në formë gjysmërrethi, skuqet derisa të zbutet, por të mos krijohet kore, (të mbetet e bardhë) hidhen patatet, kripa dhe përzihen. Këto mbulohen me kapak dhe skuqen derisa të jenë gati duke i përzihen herë pas here që të mos digjen. Kështu që qepët zbuten bashkë me patatet duke i dhënë atyre aromë të mirë. Gjatë servirjes, sipër mund të hidhen jeshillëqe të grira hollë dhe jepen si gjellë më vete të shoqëruara me sallata të stinës, (me domate, kastraveca, turshi etj) ose mund të jepen si garniturë për gjellë me mish, peshk, shpend.
+Patatet e qëruara lahen, priten në feta, shpëlahen edhe një herë, u kullohet uji. Në tigan me yndyrë hidhet qepë e grirë trashë në formë gjysmërrethi, skuqet derisa të zbutet, por të mos krijohet kore, (të mbetet e bardhë) hidhen patatet, kripa dhe përzihen. Këto mbulohen me kapak dhe skuqen derisa të jenë gati duke i përzihen herë pas here që të mos digjen. Kështu që qepët zbuten bashkë me patatet duke i dhënë atyre aromë të mirë.
+
+Gjatë servirjes, sipër mund të hidhen jeshillëqe të grira hollë dhe jepen si gjellë më vete të shoqëruara me sallata të stinës, (me domate, kastraveca, turshi etj) ose mund të jepen si garniturë për gjellë me mish, peshk, shpend.
 
 **Për 4-5 persona duhen:**
 
@@ -2114,7 +2224,9 @@ Në tigan të thellë ose tenxhere të posaçme hidhet yndyrë me sasi të madhe
 
 ### 119. Patate jahni
 
-Patatet e qëruara dhe të shpëlara priten në kubikë të mëdhenj me trashësi rreth 2,5 cm ose në feta, shpëlahen edhe një herë dhe kullohen mirë. Në tigan me yndyrë të nxehtë skuqen patatet duke i hedhur pjesë-pjesë derisa të zënë kore, por jo të jenë gati.
+Patatet e qëruara dhe të shpëlara priten në kubikë të mëdhenj me trashësi rreth 2,5 cm ose në feta, shpëlahen edhe një herë dhe kullohen mirë.
+
+Në tigan me yndyrë të nxehtë skuqen patatet duke i hedhur pjesë-pjesë derisa të zënë kore, por jo të jenë gati.
 
 Në yndyrën e mbetur skuqen qepët e grira hollë, shtohen domate të freskëta të grira ose salcë domatesh e holluar me ujë, kripë, piper, fletë dafine, dhe të gjitha së bashku përzihen mirë, shtohet lëng mishi ose ujë, lihet të marrë valë dhe u hidhet patateve, mbulohen me kapak dhe vihen të ziejnë në zjarr të javashëm afro 20-25 minuta. Gjatë vendosjes në pjata gjella rregullohet me majdanoz të grirë hollë.
 
@@ -2133,7 +2245,9 @@ Në yndyrën e mbetur skuqen qepët e grira hollë, shtohen domate të freskëta
 
 Patëllxhanët qërohen, i hiqet bishti dhe maja, priten në feta të rrumbullakëta ose pjerrtas (në formë ovale) me trashësi 0,5 cm, u hidhet kripë, piper, lyhen me miell dhe skuqen (në qoftë se janë të hidhur vihen në ujë me kripë për 30 minuta).
 
-Domatet e pjekura mirë, por të forta, priten në feta të rrumbullakta, spërkaten me kripë, kalohen në miell dhe skuqen në yndyrë të nxehtë. Skuqja duhet të bëhet nga të dyja anët dhe shumë shpejt, që ato të mos shkrihen. Gjatë ndarjes, nëpër pjata vendosen patëllxhanët e skuqur e mbi ta domatet, sipër u hidhet majdanoz i grirë hollë dhe hudhra të shtypura. Patëllxhanët mund të nxirren dhe pa domate, por me kos e hudhra.
+Domatet e pjekura mirë, por të forta, priten në feta të rrumbullakta, spërkaten me kripë, kalohen në miell dhe skuqen në yndyrë të nxehtë. Skuqja duhet të bëhet nga të dyja anët dhe shumë shpejt, që ato të mos shkrihen.
+
+Gjatë ndarjes, nëpër pjata vendosen patëllxhanët e skuqur e mbi ta domatet, sipër u hidhet majdanoz i grirë hollë dhe hudhra të shtypura. Patëllxhanët mund të nxirren dhe pa domate, por me kos e hudhra.
 
 **Për 4-5 persona duhen:**
 
@@ -2148,7 +2262,11 @@ Domatet e pjekura mirë, por të forta, priten në feta të rrumbullakta, spërk
 
 ### 121. Patëllxhanë jahni
 
-Patëllxhanët, pasi qërohen, priten në kubikë të mëdhenj, vendosen në ujë me kripë për 30 minuta, shpëlahen, kullohen dhe skuqen lehtë në yndyrë. Patëllxhanët e skuqur vendosen në tenxhere, ndërsa me yndyrën e mbetur skuqet qepa, shtohen domate të grira hollë, të cilave u është hequr cipa (ose salcë), skuqen 5-10 minuta, hidhet pak ujë, kripë, piper dhe pasi të marrin valë hidhen sipër patëllxhanëve. Vihet kapaku dhe lihen të ziejnë në zjarr të javashëm 30-40 minuta, derisa të bëhen gati dhe në tenxhere të mbetet një salcë e trashë. Sipas dëshirës mund të hidhen hudhra të shtypura. Gjatë servirjes spërkaten me majdanoz të grirë hollë.
+Patëllxhanët, pasi qërohen, priten në kubikë të mëdhenj, vendosen në ujë me kripë për 30 minuta, shpëlahen, kullohen dhe skuqen lehtë në yndyrë.
+
+Patëllxhanët e skuqur vendosen në tenxhere, ndërsa me yndyrën e mbetur skuqet qepa, shtohen domate të grira hollë, të cilave u është hequr cipa (ose salcë), skuqen 5-10 minuta, hidhet pak ujë, kripë, piper dhe pasi të marrin valë hidhen sipër patëllxhanëve. Vihet kapaku dhe lihen të ziejnë në zjarr të javashëm 30-40 minuta, derisa të bëhen gati dhe në tenxhere të mbetet një salcë e trashë. Sipas dëshirës mund të hidhen hudhra të shtypura.
+
+Gjatë servirjes spërkaten me majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -2160,7 +2278,7 @@ Patëllxhanët, pasi qërohen, priten në kubikë të mëdhenj, vendosen në uj�
 * piper
 * majdanoz
 
-### 122. Patëllxhanë të mbushur (imam bajalldi)
+### 122. Patëllxhanë të mbushur (Imam bajalldi)
 
 Patëllxhanëve u qërohet bishti duke e lënë atë 2 cm të gjatë, u hiqet lëkura në tre rripa sipër dhe nga të dyja anët, ndërsa poshtë lihet me lëkurë. Priten për së gjati te pjesa e sipërme deri në mes të tulit. Patëllxhanët vendosen në ujë me kripë përgjysmë ore. Ndërkohë në tigan me yndyrë skuqet qepa e grirë në formë gjysmërrethi, shtohen domate të qëruara dhe të prera në copa të vogla, vazhdon kaurdisja në zjarr të javashëm në mënyrë që qepa të zbutet. Në fund shtohen hudhra të grira, majdanoz, kripë, piper dhe përzihen të gjitha së bashku. Në qoftë se qepa është e ëmbël mund të shtohet pak uthull.
 
@@ -2185,7 +2303,9 @@ Në vajin e mbetur skuqen qepët e grira hollë derisa të marrin ngjyrë ari; n
 
 Patëllxhanët e skuqur ndahen afërsisht në 3 pjesë. Një pjesë te tyre shtrohet në tavë dhe mbi to hidhet gjysma e kimës, pastaj një shtresë patëllxhanësh e mbi topjesa tjetër e kimës. Në fund mbulohet me pjesën e mbetur të patëllxhanëve, spërkaten me yndyrë dhe piqet në furrë për 15-20 minuta. Pasi nxirret nga furra lihet pak të ftohet dhe pritet në copa.
 
-Musakaja mund të përgatitet dhe me salcë të bardhë të grirë. Salca e bardhë përgatitet kështu: mielli kaurdiset pak me gjalpë, shuhet me qumësht, duke e përzier shpejt që të mos krijohen kokrriza, zihet pak sa të trashet, hiqet nga zjarri dhe pasi të jetë ftohur, hidhen të verdhat e vezëve.
+Musakaja mund të përgatitet dhe me salcë të bardhë e cila i hidhet sipër në shtresë të hollë, rrafshohet, spërkatet me gjalpë dhe djathë të thërmuar ose kaçkavall të grirë.
+
+Salca e bardhë përgatitet kështu: mielli kaurdiset pak me gjalpë, shuhet me qumësht, duke e përzier shpejt që të mos krijohen kokrriza, zihet pak sa të trashet, hiqet nga zjarri dhe pasi të jetë ftohur, hidhen të verdhat e vezëve.
 
 **Për 4-5 persona duhen:**
 
@@ -2208,7 +2328,7 @@ Musakaja mund të përgatitet dhe me salcë të bardhë të grirë. Salca e bard
 
 ### 124. Musaka patëllxhanësh me qepë.
 
-Përgatiten patëllxhanët njëlloj si për musaka me mish, ndërsa mbushja bëhet vetëm me qepë, pa mish. Qepa e prerë, në formë gjysmërrethi, kaurdiset me yndyrë në zjarr të javashëm derisa të zbutet dhe të marrë ngjyrë të kuqërremtë, shtohen domate të qëruara dhe të prera në copa të vogla, kaurdisen pak së bashku, pastaj shtohet kripë, piper, fletë dafine, majdanoz i grirë imët, pak uthull dhe në fund hudhra të grira hollë. Të gjitha këto përzihen së bashku dhe përdoren për mbushjen e musakasë. Musakaja shtrohet si më sipër dhe mbulohet me një shtresë me domate të freskëta. Pastaj piqet në furrë për 30 minuta, kur të jetë gati, lihet të ftohet pak dhe pastaj pritet në copa
+Përgatiten patëllxhanët njëlloj si për musaka me mish, ndërsa mbushja bëhet vetëm me qepë, pa mish. Qepa e prerë, në formë gjysmërrethi, kaurdiset me yndyrë në zjarr të javashëm derisa të zbutet dhe të marrë ngjyrë të kuqërremtë, shtohen domate të qëruara dhe të prera në copa të vogla, kaurdisen pak së bashku, pastaj shtohet kripë, piper, fletë dafine, majdanoz i grirë imët, pak uthull dhe në fund hudhra të grira hollë. Të gjitha këto përzihen së bashku dhe përdoren për mbushjen e musakasë. Musakaja shtrohet si më sipër dhe mbulohet me një shtresë me domate të freskëta. Pastaj piqet në furrë për 30 minuta, kur të jetë gati, lihet të ftohet pak dhe pastaj pritet në copa.
 
 **Për 4-5 persona duhen:**
 
@@ -2268,7 +2388,9 @@ Patëllxhanëve u hiqet bishti e maja, lahen, fshihen dhe secilit i bëhen 2-3 p
 
 ### 128. Patëllxhanë të skuqur me qepë
 
-Patëllxhanët lahen, u hiqet bishti e maja, përvëlohen dhe priten në feta të rrumbullakëta. U hidhet kripë, kalohen në miell dhe skuqen nga të dyja anët. Qepët, e prera në formë gjysmërrethi, skuqen në zjarr të javashëm, derisa të zbuten dhe të marrin ngjyrë të kuqërremtë. Në pjatë vendoset një shtresë patëllxhanësh të skuqur, pastaj një shtresë me qepë, përsëri patëllxhanë dhe sipër u hidhet salca e përgatitur. Në yndyrën që mbetet nga skuqja e qepëve hidhen domate të freskëta të qëruara zihen 2-3 minuta dhe në fund hidhet kripë, piper, majdanoz i grirë hollë.
+Patëllxhanët lahen, u hiqet bishti e maja, përvëlohen dhe priten në feta të rrumbullakëta. U hidhet kripë, kalohen në miell dhe skuqen nga të dyja anët.
+
+Qepët, e prera në formë gjysmërrethi, skuqen në zjarr të javashëm, derisa të zbuten dhe të marrin ngjyrë të kuqërremtë. Në pjatë vendoset një shtresë patëllxhanësh të skuqur, pastaj një shtresë me qepë, përsëri patëllxhanë dhe sipër u hidhet salca e përgatitur. Në yndyrën që mbetet nga skuqja e qepëve hidhen domate të freskëta të qëruara zihen 2-3 minuta dhe në fund hidhet kripë, piper, majdanoz i grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -2356,7 +2478,9 @@ Këto kungulleshka mund të bëhen dhe me salcë të kuqe. Kungulleshkat e mbush
 
 ### 132. Kungulleshka të mbushura me oriz
 
-Kungulleshkat pastrohen, lahen dhe u hiqet zemra si më sipër, pastaj mbushen. Në një enë me yndyrë kaurdisen qepët e grira, pastaj shtohet orizi, kaurdiset 5-6 minuta, hidhen domatet e qëruara të prera në copa të vogla, kripë, piper dhe pas pak ujë me sasi sa dyfishi i sasisë së orizit. Mbushja zien derisa orizi ta thithë krejt lëngun, dhe të bëhet i shkrifët. Pastaj hiqet nga zjarri, përzihet me kopër të grirë dhe ftohet pak. Me këtë masë mbushen kungulleshkat të cilave mund t'u hidhet salcë e bardhë ose e kuqe, ashtu si kungulleshkat e mbushura me kimë.
+Kungulleshkat pastrohen, lahen dhe u hiqet zemra si më sipër, pastaj mbushen.
+
+Në një enë me yndyrë kaurdisen qepët e grira, pastaj shtohet orizi, kaurdiset 5-6 minuta, hidhen domatet e qëruara të prera në copa të vogla, kripë, piper dhe pas pak ujë me sasi sa dyfishi i sasisë së orizit. Mbushja zien derisa orizi ta thithë krejt lëngun, dhe të bëhet i shkrifët. Pastaj hiqet nga zjarri, përzihet me kopër të grirë dhe ftohet pak. Me këtë masë mbushen kungulleshkat të cilave mund t'u hidhet salcë e bardhë ose e kuqe, ashtu si kungulleshkat e mbushura me kimë.
 
 **Për 4-5 persona duhen:**
 
@@ -2376,7 +2500,11 @@ Kungulleshkat të pastruara dhe të lara, priten në feta të rrumbullakëta ose
 
 Në tenxhere me yndyrë kaurdiset qepa e prerë në kubikë, shtohet mishi i grirë, kaurdisen së bashku, hidhen domate të qëruara e të grira hollë ose salcë, kaurdisen për 9 minuta, hidhet pak ujë, kripë, piper, fletë dafine, dhe lihen të ziejnë 5-6 minuta.
 
-Në tavë të lyer me yndyrë dhe mundësisht të spërkatur me galetë shtrohet 1/3 e kungulleshkave të skuqura duke e mbuluar mirë fundin e tavës: hidhet gjysma e kimës, rrafshohet mirë, shtrohet përsëri gjysma tjetër dhe mbulohet me kungulleshkat e mbetura. Musakaja me kungulleshka është mirë të mbulohet me salcë të bardhë të përgatitur me miell të kaurdisur me gjalpë, e që shuhet me qumësht. Salca vlon pak sa të trashet, i hidhet kripë pastaj hiqet nga zjarri, ftohet pak dhe përzihet me një kokërr vezë. Tava spërkatet me gjalpë e kaçkavall të grirë ose djathë të bardhë të thërmuar. Musakaja piqet rreth 30 minuta. Në qoftë se musakaja nuk mbulohet me salcë të bardhë, atëherë mbi tavë shtrohen disa feta domate, spërkaten me yndyrë e piper dhe piqet në furrë. Musakaja e gatshme si të ftohet pak, pritet në copa dhe vendoset në pjatë. Po të ketë salcë makaronash të përgatitur mund t'i hidhet nga dy lugë sipër çdo racioni.
+Në tavë të lyer me yndyrë dhe mundësisht të spërkatur me galetë shtrohet 1/3 e kungulleshkave të skuqura duke e mbuluar mirë fundin e tavës: hidhet gjysma e kimës, rrafshohet mirë, shtrohet përsëri gjysma tjetër dhe mbulohet me kungulleshkat e mbetura. Musakaja me kungulleshka është mirë të mbulohet me salcë të bardhë të përgatitur me miell të kaurdisur me gjalpë, e që shuhet me qumësht. Salca vlon pak sa të trashet, i hidhet kripë pastaj hiqet nga zjarri, ftohet pak dhe përzihet me një kokërr vezë. Tava spërkatet me gjalpë e kaçkavall të grirë ose djathë të bardhë të thërmuar. Musakaja piqet rreth 30 minuta.
+
+Në qoftë se musakaja nuk mbulohet me salcë të bardhë, atëherë mbi tavë shtrohen disa feta domate, spërkaten me yndyrë e piper dhe piqet në furrë.
+
+Musakaja e gatshme si të ftohet pak, pritet në copa dhe vendoset në pjatë. Po të ketë salcë makaronash të përgatitur mund t'i hidhet nga dy lugë sipër çdo racioni.
 
 **Për 4-5 persona duhen:**
 
@@ -2416,7 +2544,9 @@ Kungulleshkat e pastruara dhe të lara priten në copa kubike të mëdha, skuqen
 
 ### 135. Kungulleshka tavë me domate
 
-Kungulleshkat pastrohen, lahen dhe priten në feta si për musaka: spërkaten me kripë, kalohen në miell dhe skuqen nga të dyja anët. Në tavë të lyer me yndyrë vendoset një shtresë me kungulleshka, pastaj feta domatesh, rregullohet me djathë të bardhë të grirë, përsëri kungulleshka, pastaj feta domatesh e djathë, mbulohen me kungulleshka, spërkaten me gjalpë dhe piqen në furrë. Kur vihen fetat e domateve u hidhet edhe kripë e piper.
+Kungulleshkat pastrohen, lahen dhe priten në feta si për musaka: spërkaten me kripë, kalohen në miell dhe skuqen nga të dyja anët.
+
+Në tavë të lyer me yndyrë vendoset një shtresë me kungulleshka, pastaj feta domatesh, rregullohet me djathë të bardhë të grirë, përsëri kungulleshka, pastaj feta domatesh e djathë, mbulohen me kungulleshka, spërkaten me gjalpë dhe piqen në furrë. Kur vihen fetat e domateve u hidhet edhe kripë e piper.
 
 **Për 4-5 persona duhen:**
 
@@ -2431,9 +2561,11 @@ Kungulleshkat pastrohen, lahen dhe priten në feta si për musaka: spërkaten me
 
 ### 136. Speca e domate të mbushura me kimë
 
-Për këtë gjellë zgjidhen domate të mëdha të pjekura dhe të forta, ndërsa specat duhet të jenë të mëdhenj ose mesatarë, me tul dhe mundësisht të një madhësie. Domatet priten nga sipër në formë kapaku, por jo deri në fund. Me majën e thikës i pritet zemra rreth e qark në formë cilindri, i hiqet dhe rreshtohen në tavë. Specave u pritet bishti ndërsa me majën e thikës priten rreth e përqark duke hequr farat, pa e shkëputur kapakun. Specat e pastruar shpëlahen dhe vendosen në tavë pranë domateve. Veç përgatitet mbushja. Qepa e prerë në formë kubike kaurdiset me yndyrë, hidhet mishi i grirë dhe pasi skuqen shtohen zemrat e domateve të grira ose domate të tjera të qëruara dhe të grira, pas pak shtohet orizi.
+Për këtë gjellë zgjidhen domate të mëdha të pjekura dhe të forta, ndërsa specat duhet të jenë të mëdhenj ose mesatarë, me tul dhe mundësisht të një madhësie.
 
-Zihen për 10 minuta dhe kur masa trashet hidhet kripë, piper, majdanoz e kopër. Pasi përzihen të gjitha me këtë masë mbushen domatet e specat. Mbi domatet e specat hidhet yndyrë, vendosen domate të prera në feta, shtohet pak ujë dhe vihen në furrë për t'u pjekur rreth 30-40 minuta.
+Domatet priten nga sipër në formë kapaku, por jo deri në fund. Me majën e thikës i pritet zemra rreth e qark në formë cilindri, i hiqet dhe rreshtohen në tavë. Specave u pritet bishti ndërsa me majën e thikës priten rreth e përqark duke hequr farat, pa e shkëputur kapakun. Specat e pastruar shpëlahen dhe vendosen në tavë pranë domateve.
+
+Veç përgatitet mbushja. Qepa e prerë në formë kubike kaurdiset me yndyrë, hidhet mishi i grirë dhe pasi skuqen shtohen zemrat e domateve të grira ose domate të tjera të qëruara dhe të grira, pas pak shtohet orizi. Zihen për 10 minuta dhe kur masa trashet hidhet kripë, piper, majdanoz e kopër. Pasi përzihen të gjitha me këtë masë mbushen domatet e specat. Mbi domatet e specat hidhet yndyrë, vendosen domate të prera në feta, shtohet pak ujë dhe vihen në furrë për t'u pjekur rreth 30-40 minuta.
 
 Po kështu mund të përgatitet tavë vetëm me domate ose vetëm me speca.
 
@@ -2518,7 +2650,9 @@ Në tenxhere me yndyrë kaurdisen qepët derisa të zverdhen, shtohen specat e p
 
 ### 141. Spinaq me qepë të skuqura
 
-Spinaqi pastrohet nga gjethet e dëmtuara, lahet në ujë të bollshëm duke e zverdhur 2-3 herë aty dhe hidhet në ujë të vluar me kripë ku zien për 9-7 minuta. Pastaj kullohet dhe pritet. Në tenxhere me yndyrë kaurdisen qepët e grira hollë, shtohet spinaqi, hudhra të shtypura, kripë e piper. Përzihen mirë dhe lihen në zjarr 2-3 minuta të tjera. Spinaqi me qepë mund të nxirret si gjellë e veçantë ose si garniturë me gjellë me mish. Gjithashtu spinaqi me qepë shkon mirë dhe me vezë. Në këtë rast spinaqi i gatshëm vendoset nëpër pjata dhe sipër vihen vezë syza të skuqura në çast. Gjatë vendosjes në pjata spinaqi spërkatet me lëng limoni ose limontoz të tretur në ujë.
+Spinaqi pastrohet nga gjethet e dëmtuara, lahet në ujë të bollshëm duke e ndërruar 2-3 herë atë dhe hidhet në ujë të vluar me kripë ku zien për 5-7 minuta. Pastaj kullohet dhe pritet.
+
+Në tigan me yndyrë skuqen qepë të njoma të grira hollë, shtohet spinaqi, hudhra të shtypura, kripë, piper. Përzihen mirë dhe lihen në zjarr 2-3 minuta të tjera. Spinaqi me qepë mund të nxirret si gjellë e veçantë ose si garniturë me gjellë me mish. Gjithashtu spinaqi me qepë shkon mirë dhe me vezë. Në këtë rast spinaqi i gatshëm vendoset nëpër pjata dhe sipër vihen vezë syza të skuqura në çast. Gjatë vendosjes në pjata spinaqi spërkatet me lëng limoni ose limontoz të tretur në ujë.
 
 **Shënim**: Po në këtë mënyrë përgatitet edhe me lopjetë.
 
@@ -2600,9 +2734,12 @@ Në tenxhere me yndyrë kaurdiset qepa e grirë hollë; shtohet lakra e prerë n
 
 ### 147. Dollma me lakër
 
-Lakra e bardhë pastrohet nga gjethet e dëmtuara dhe koçani, vendoset në tenxhere me ujë të vluar e kripë dhe zihet për 7-10 minuta derisa të zbutet pak, por të mos jetë e gatshme. Pastaj i kullohet uji, i hapen gjethet dhe kërcinjtë e fortë rrihen. Në fillim të gjethes vendoset mbushja, e cila mund të përdoret me perime të ndryshme si qepë, karota, selino të skuqura e të përziera me oriz gjysmë të zier ose me kimë të përzier me oriz. Dollmat palosen në formë ruli duke i futur anët brenda. Në një tenxhere të cekët ato vendosen në 2 shtresa. Sipër u hidhet salca e përgatitur derisa të mbulohen dhe një pjatë, pastaj u vihet kapaku dhe lihen të ziejnë në zjarr të javashëm, rreth 30 minuta.
+Lakra e bardhë pastrohet nga gjethet e dëmtuara dhe koçani, vendoset në tenxhere me ujë të vluar e kripë dhe zihet për 7-10 minuta derisa të zbutet pak, por të mos jetë e gatshme.
+
+Pastaj i kullohet uji, i hapen gjethet dhe kërcinjtë e fortë rrihen. Në fillim të gjethes vendoset mbushja, e cila mund të përdoret me perime të ndryshme si qepë, karota, selino të skuqura e të përziera me oriz gjysmë të zier ose me kimë të përzier me oriz. Dollmat palosen në formë ruli duke i futur anët brenda. Në një tenxhere të cekët ato vendosen në 2 shtresa. Sipër u hidhet salca e përgatitur derisa të mbulohen dhe një pjatë, pastaj u vihet kapaku dhe lihen të ziejnë në zjarr të javashëm, rreth 30 minuta.
 
 Për salcën: në tigan me yndyrë kaurdiset qepa e grirë hollë derisa të zverdhet, pastaj shtohet miell, kaurdiset 2-3 minuta, hidhet salcë, hollohet me ujë, rregullohet me kripë, piper e fletë dafine, vlohet 2-3 minuta dhe hidhet mbi dollma.
+
 Mbushja përgatitet me mish të grirë të pakaurdisur, duke e përzier me qepë të grira hollë, oriz gjysmë të zier, kripë dhe piper.
 
 **Për 4-5 persona duhen:**
@@ -2626,7 +2763,9 @@ Mbushja përgatitet me mish të grirë të pakaurdisur, duke e përzier me qepë
 
 ### 148. Dollma lakre me salcë të bardhë
 
-Dollmat përgatiten njëlloj si më sipër, por pasi mbështillen rreshtohen në tenxhere me 2 shtresa, u hidhet lëng mishi ose ujë me kripë. Sipër i vihet një pjatë e përmbysur. Tenxherja mbulohet me kapak dhe lihet në zjarr të javashëm për 25-30 minuta. Veç kaurdiset mielli me gjalpë, shuhet me qumësht, hollohet me lëngun e dollmave, zihet për 3-5 minuta, hiqet nga zjarri dhe rregullohet me vezë e limontoz. Në fund i hidhet salca e bardhë dhe majdanozi i grirë hollë.
+Dollmatë përgatiten njëlloj si më sipër, por pasi mbështillen rreshtohen në tenxhere me 2 shtresa, u hidhet lëng mishi ose ujë me kripë. Sipër i vihet një pjatë e përmbysur. Tenxherja mbulohet me kapak dhe lihet në zjarr të javashëm për 25-30 minuta.
+
+Veç kaurdiset mielli me gjalpë, shuhet me qumësht, hollohet me lëngun e dollmave, zihet për 3-5 minuta, hiqet nga zjarri dhe rregullohet me vezë e limontoz. Në fund i hidhet salca e bardhë dhe majdanozi i grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -2679,7 +2818,9 @@ Japrakët e mbështjellë vendosen në tenxhere me fund të gjerë në 2-3 shtre
 
 ### 151. Lulelakër e zier
 
-Lulelakra pastrohet nga gjethet, i hiqet kërcelli, ndërsa lulet e dëmtuara pastrohen me thikë. Tufat e mëdha ndahen në disa pjesë, lahen në ujë të ftohtë dhe zihen në ujë të vluar me kripë për 15-30 minuta. Lulelakra hiqet nga zjarri, i kullohet uji, dhe siç është e nxehtë vendoset në pjatë, spërkatet me gjalpë, piper dhe përdoret si gjellë më vete ose si garniturë. Kjo bëhet edhe më e shijshme kur pritet në copa edhe më të vogla dhe skuqet pak në tigan me gjalpë duke i hedhur kripë e piper.
+Lulelakra pastrohet nga gjethet, i hiqet kërcelli, ndërsa lulet e dëmtuara pastrohen me thikë. Tufat e mëdha ndahen në disa pjesë, lahen në ujë të ftohtë dhe zihen në ujë të vluar me kripë për 15-30 minuta. Lulelakra hiqet nga zjarri, i kullohet uji, dhe siç është e nxehtë vendoset në pjatë, spërkatet me gjalpë, piper dhe përdoret si gjellë më vete ose si garniturë.
+
+Kjo bëhet edhe më e shijshme kur pritet në copa edhe më të vogla dhe skuqet pak në tigan me gjalpë duke i hedhur kripë e piper.
 
 **Për 4-5 persona duhen:**
 
@@ -2689,7 +2830,7 @@ Lulelakra pastrohet nga gjethet, i hiqet kërcelli, ndërsa lulet e dëmtuara pa
 
 ### 152. Lulelakër e skuqur me vezë
 
-Lulelakra zihet si më sipër, ndahet në degë të vogla, spërkatet me kripë, piper, djathë kaçkavall të grirë ose djathë të bardhë të thërmuar, kalohet në miell, vezë të rrahura dhe skuqet nga të dyja anët
+Lulelakra zihet si më sipër, ndahet në degë të vogla, spërkatet me kripë, piper, djathë kaçkavall të grirë ose djathë të bardhë të thërmuar, kalohet në miell, vezë të rrahura dhe skuqet nga të dyja anët.
 
 **Për 4-5 persona duhen:**
 
@@ -2705,7 +2846,7 @@ Lulelakra zihet si më sipër, ndahet në degë të vogla, spërkatet me kripë,
 
 Lulelakrës i hiqen gjethet jeshile e kërcelli, pastaj lahet dhe zihet në ujë të kripur. Lulelakra e ndarë në degë të vogla vendoset në tavë të lyer me yndyrë me bishtat poshtë; ajo rregullohet me kripë, piper, kaçkavall të grirë ose djathë të bardhë të thërrmuar, mbulohet me salcë qumështi, spërkatet me gjalpë, djathë kaçkavall dhe piqet në furrë.
 
-Për salcën e bardhë mielli kaurdiset me gjalpë, shuhet me qumësht, zihet sa të trashet, hiqet nga zjarri dhe si të ftohet pak hidhen të verdhat e vezës
+Për salcën e bardhë mielli kaurdiset me gjalpë, shuhet me qumësht, zihet sa të trashet, hiqet nga zjarri dhe si të ftohet pak hidhen të verdhat e vezës.
 
 **Për 4-5 persona duhen:**
 
@@ -2720,7 +2861,11 @@ Për salcën e bardhë mielli kaurdiset me gjalpë, shuhet me qumësht, zihet sa
 
 ### 154. Çomlek me qepë
 
-Qepët sa një kokërr arrë qërohen dhe të paprera skuqen në tigan me yndyrë dhe hidhen në tenxhere. Në tigan hidhet një kokërr qepë e grirë hollë, kaurdiset pak, shtohet salcë dhe pasi kaurdisen së bashku shuhet me verë të kuqe ose uthull; shtohet kripë, piper kokërr, fletë dafine, pak ujë, kanellë dhe disa thelpinj hudhra. Salca zihet sa të marrë valë dhe hidhet te qepët. Tenxherja mbulohet mirë duke i zënë anët me brumë dhe vihet në zjarr të javashëm për 20-30 minuta. Çomleku mund të përgatitet edhe pa i kaurdisur qepët, por të njëjtat produkte vendosen në tenxhere. Kjo mbyllet mirë dhe zihet derisa të jetë gati. Në këtë rast duhet të përdoret vaj ulliri.
+Qepët sa një kokërr arrë qërohen dhe të paprera skuqen në tigan me yndyrë dhe hidhen në tenxhere. Në tigan hidhet një kokërr qepë e grirë hollë, kaurdiset pak, shtohet salcë dhe pasi kaurdisen së bashku shuhet me verë të kuqe ose uthull; shtohet kripë, piper kokërr, fletë dafine, pak ujë, kanellë dhe disa thelpinj hudhra. Salca zihet sa të marrë valë dhe hidhet te qepët.
+
+Tenxherja mbulohet mirë duke i zënë anët me brumë dhe vihet në zjarr të javashëm për 20-30 minuta.
+
+Çomleku mund të përgatitet edhe pa i kaurdisur qepët, por të njëjtat produkte vendosen në tenxhere. Kjo mbyllet mirë dhe zihet derisa të jetë gati. Në këtë rast duhet të përdoret vaj ulliri.
 
 **Për 4-5 persona duhen:**
 
@@ -2768,7 +2913,9 @@ Preshtë e pastruar dhe të prerë si për jahni, skuqen në yndyrë shumë të 
 
 Preshtë përgatiten si më sipër, skuqen dhe ndahen në dy pjesë. Në tavën e lyer me yndyrë shtrohet gjysma e preshve të skuqur, mbi to një shtresë kimë e cila mbulohet me pjesën tjetër të preshve. I hidhet kripë, piper dhe piqet në furrë për 35-40 minuta. Sipas dëshirës sipër mund t'i hidhet salcë e bardhë.
 
-Pasi të jetë pjekur priten në copa, vendoset në pjatë dhe spërkatet me majdanoz të grirë hollë dhe me lëngun e vet. Për kimën kaurdisen qepë të prera në copa kubike, shtohet mishi i grirë, kaurdisen për 5 minuta, hidhet salcë, kripë, piper, dafinë, pak ujë dhe lihen të ziejnë për 10 minuta.
+Pasi të jetë pjekur priten në copa, vendoset në pjatë dhe spërkatet me majdanoz të grirë hollë dhe me lëngun e vet.
+
+Për kimën kaurdisen qepë të prera në copa kubike, shtohet mishi i grirë, kaurdisen për 5 minuta, hidhet salcë, kripë, piper, dafinë, pak ujë dhe lihen të ziejnë për 10 minuta.
 
 **Për 4-5 persona duhen:**
 
@@ -2816,7 +2963,9 @@ Preshtë e pastruar priten në copa pjerrëtazi, me gjatësi 2-3 cm, vendosen n�
 
 ### 160. Mashurka të ziera
 
-Mashurkat e njoma pastrohen nga bishti dhe fijet anësore, lahen, priten në copa rreth 2-3 cm të gjata, dhe hidhen në ujë të vluar me kripë për t'u zier. Pas 10-15 minutash në qoftë se mashurkat janë zbutur kullohen, vendosen në pjatë, rregullohen me gjalpë, piper të zi, majdanoz e kopër të grirë hollë. Mashurkat, sipas dëshirës mund të kaurdisen në tigan me gjalpë. Në këtë rast është më mirë të zihen të tëra dhe pastaj të priten për së gjati. U hidhet kripë, piper, majdanoz dhe kopër e grirë hollë.
+Mashurkat e njoma pastrohen nga bishti dhe fijet anësore, lahen, priten në copa rreth 2-3 cm të gjata, dhe hidhen në ujë të vluar me kripë për t'u zier. Pas 10-15 minutash në qoftë se mashurkat janë zbutur kullohen, vendosen në pjatë, rregullohen me gjalpë, piper të zi, majdanoz e kopër të grirë hollë.
+
+Mashurkat, sipas dëshirës mund të kaurdisen në tigan me gjalpë. Në këtë rast është më mirë të zihen të tëra dhe pastaj të priten për së gjati. U hidhet kripë, piper, majdanoz dhe kopër e grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -2828,7 +2977,9 @@ Mashurkat e njoma pastrohen nga bishti dhe fijet anësore, lahen, priten në cop
 
 ### 161. Mashurka me salcë
 
-Mashurkat (të cilave u është hequr maja dhe fijet anësore) shpëlahen dhe vendosen në tenxhere: hidhet uji i vluar derisa të mbulohen përgjysmë, kripë, i vihet kapaku dhe zihen për 8-10 minuta. Veçan, në një enë, kaurdisen qepët e grira, shtohet pak miell, vazhdon kaurdisja dhe për 2-3 minuta, hidhet salcë, ujë ose lëng i mashurkave të ziera, shtohen fletë dafine e piper. Lihet sa të marrë valë, dhe u hidhet mashurkave. Para se të hidhet salca te mashurkat ato duhet të kullohen. Mashurkat mbulohen me kapak dhe zihen derisa të jenë gati. Në përfundim të zierjes hidhet kopër e grirë hollë dhe menjëherë hiqet nga zjarri. Salca nuk i hidhet në fillim sepse ato forcohen dhe nxihen. Mashurkat mund të përgatiten edhe në mënyrë tjetër: pasi të jenë pastruar e larë kaurdisen me vaj derisa të zbuten pak, pastaj vendosen në tenxhere, ndërsa në enën ku u kaurdisën, përgatitet salca si më sipër dhe zihen derisa të jenë gati.
+Mashurkat (të cilave u është hequr maja dhe fijet anësore) shpëlahen dhe vendosen në tenxhere: hidhet uji i vluar derisa të mbulohen përgjysmë, kripë, i vihet kapaku dhe zihen për 8-10 minuta. Veçan, në një enë, kaurdisen qepët e grira, shtohet pak miell, vazhdon kaurdisja dhe për 2-3 minuta, hidhet salcë, ujë ose lëng i mashurkave të ziera, shtohen fletë dafine e piper. Lihet sa të marrë valë, dhe u hidhet mashurkave. Para se të hidhet salca te mashurkat ato duhet të kullohen. Mashurkat mbulohen me kapak dhe zihen derisa të jenë gati. Në përfundim të zierjes hidhet kopër e grirë hollë dhe menjëherë hiqet nga zjarri. Salca nuk i hidhet në fillim sepse ato forcohen dhe nxihen.
+
+Mashurkat mund të përgatiten edhe në mënyrë tjetër: pasi të jenë pastruar e larë kaurdisen me vaj derisa të zbuten pak, pastaj vendosen në tenxhere, ndërsa në enën ku u kaurdisën, përgatitet salca si më sipër dhe zihen derisa të jenë gati.
 
 **Për 4-5 persona duhen:**
 
@@ -2844,6 +2995,7 @@ Mashurkat (të cilave u është hequr maja dhe fijet anësore) shpëlahen dhe ve
 ### 162. Bamje jahni
 
 Bamjet qërohen duke u prerë bishtin në formë konike, në mënyrë që të mos hapen vrimat dhe të mos lëshojnë lëng gjatë zierjes. Bamjet lahen, spërkaten me uthull e kripë dhe lihen për 20 minuta në mënyrë që të zbutet pushi dhe të mos shkatërrohen gjatë përpunimit të nxehtë. Pastaj shpëlahen dhe kalohen në tigan me yndyrë të nxehtë duke i hedhur pjesë-pjesë derisa të vyshken. Pastaj rreshtohen në tenxhere të mbuluar me feta domatesh.
+
 Në yndyrën e mbetur nga kaurdisja e bamjeve përgatitet salca. Kaurdisen qepët e grira hollë, shtohet salcë domatesh ose domate të qëruara e të prera në copa të vogla dhe pasi të jenë kaurdisur të gjitha së bashku, hidhet ujë, kripë, piper e majdanoz, sa të marrë valë u hidhet sipër bamjeve, të cilat mbulohen me feta domate e mbi to një pjatë e përmbysur. Pasi vendoset kapaku, lihen të ziejnë derisa të bëhen gati (rreth 20-25 minuta).
 
 Bamjet mund të përgatiten dhe në mënyrë tjetër pa kaurdisje. Për këtë, në fundin e tenxheres të mbuluar me feta domatesh, rreshtohen bamjet e pastruara e të shpëlara, sipër u hidhet majdanoz, kripë, piper, vaj ulliri dhe ujë sa të mbulohen më pak se gjysma. Gjithashtu po sipër vendosen disa kokrra domate të pjekura mirë, por të paçara, mbulohen me pjatë, dhe në fund vihet kapaku. Lihen të ziejnë për 25-30 minuta. Pasi domatet të jenë zbutur, hiqen me kujdes, kalohen në kullesë duke i shtypur me lugë druri, dhe lëngu i tyre hidhet mbi bamje. Bamjet lihen sa të marrin valë me salcën dhe pastaj hiqen. Kur vihen në pjatë spërkaten me lëngun e vet dhe me majdanoz të grirë hollë.
@@ -2873,6 +3025,7 @@ Bizelet e njoma qërohen nga bishtaja dhe zihen për 10-15 minuta në ujë të v
 ### 164. Bizele jahni
 
 Bizelet qërohen nga bishtaja, lahen dhe zihen me ujë të vluar pa kripë, derisa të zbuten.
+
 Në tenxhere me yndyrë kaurdiset qepa e grirë, shtohet pak miell, kaurdisen së bashku, pastaj hidhet salcë domatesh, kaurdisen edhe pak e në fund shtohet ujë ose lëng mishi. Të gjitha këto lihen të ziejnë derisa të krijohet një salcë me trashësi mesatare. Në salcën e gatshme hidhen bizelet e ziera dhe vihen në zjarr derisa të marrin një valë. Para se të hiqet nga zjarri i hidhet kopër e grirë hollë.
 
 **Shënim:** Bizelet zihen më parë, sepse nga salca ato forcohen e nxihen.
@@ -2941,7 +3094,9 @@ Karotat e qëruara e të lara priten në feta të rrumbullakëta ose kubike, hid
 
 ### 169. Qofte me karota
 
-Karotat e pastruara dhe të lara, zihen me pak ujë dhe grihen hollë me thikë ose kalohen në makinën e mishit. Pastaj i hidhet qumësht, gjalpë dhe vihet në zjarr. Sa të marrë valë i hidhet miell orizi duke e përzier mirë në mënyrë që të mos krijohen kokrra. Lihet të ziejë 10-15 minuta, pastaj hiqet nga zjarri, dhe duke e përzier i hidhen vezët, kripa dhe lihet të ftohet. Nga kjo masë bëhen qoftet, të cilat kalohen nga të dyja anët në miell ose më mirë në galetë të bluar, pastaj skuqen.
+Karotat e pastruara dhe të lara, zihen me pak ujë dhe grihen hollë me thikë ose kalohen në makinën e mishit.
+
+Pastaj i hidhet qumësht, gjalpë dhe vihet në zjarr. Sa të marrë valë i hidhet miell orizi duke e përzier mirë në mënyrë që të mos krijohen kokrra. Lihet të ziejë 10-15 minuta, pastaj hiqet nga zjarri, dhe duke e përzier i hidhen vezët, kripa dhe lihet të ftohet. Nga kjo masë bëhen qoftet, të cilat kalohen nga të dyja anët në miell ose më mirë në galetë të bluar, pastaj skuqen.
 
 **Për 4-5 persona duhen:**
 
@@ -3007,7 +3162,9 @@ Angjinaret e pastruara vendosen në një tenxhere, shtohen të bardhat e qepëve
 
 Finoku pastrohet nga gjethet jeshile dhe fletët e jashtme të vjetra, zihet në ujë të vluar me kripë, kullohet dhe pritet në feta, të cilat kalohen pak në tigan me gjalpë.
 
-Në tavën e lyer me yndyrë dhe të spërkatur me galetë të bluar shtrohen finokët, sipër u hidhet piper, mbulohen me një shtresë salcë të bardhë, pastaj u hidhet djathë i grirë, pak gjalpë dhe piqet. Për salcën e bardhë kaurdiset pak miell me gjalpë, hidhet qumësht, zihet sa të trashet, hidhet kripë dhe pasi të ftohet pak përzihet me një kokërr vezë. Tava piqet derisa të krijohet një kore e rozë në sipërfaqe, ndahet në copa dhe vendoset nëpër pjata.
+Në tavën e lyer me yndyrë dhe të spërkatur me galetë të bluar shtrohen finokët, sipër u hidhet piper, mbulohen me një shtresë salcë të bardhë, pastaj u hidhet djathë i grirë, pak gjalpë dhe piqet.
+
+Për salcën e bardhë kaurdiset pak miell me gjalpë, hidhet qumësht, zihet sa të trashet, hidhet kripë dhe pasi të ftohet pak përzihet me një kokërr vezë. Tava piqet derisa të krijohet një kore e rozë në sipërfaqe, ndahet në copa dhe vendoset nëpër pjata.
 
 **Për 4-5 persona duhen:**
 
@@ -3053,15 +3210,15 @@ Turlia mund të bëhet edhe me perime, pa i skuqur. Në këtë rast përdoret va
 * majdanoz
 
 
-# KAPITULLI V
+# KAPITULLI VI
 
-# GJELLË ME PESHK
+# Gjellë Me Peshk
 
-Vlera ushqimore e peshkut kryesisht është në përmbajtjen e proteinave dhe yndyrave. Peshku përmban 13 deri 200 proteina, ndërsa sasia e yndyrës varet shumë nga lloji, mosha, koha e gjuajtjes së tij etj. Përveç këtyre peshku përmban kripëra minerale, vitamina etj.
+Vlera ushqimore e peshkut kryesisht është në përmbajtjen e proteinave dhe yndyrave. Peshku përmban 13 deri 20% proteina, ndërsa sasia e yndyrës varet shumë nga lloji, mosha, koha e gjuajtjes së tij etj. Përveç këtyre peshku përmban kripëra minerale, vitamina etj.
 
 Tuli i peshkut nuk është shumë rezistent gjatë përpunimit të nxehtë, prandaj duhet të bëhet gati shpejt. Peshku përvetësohet lehtë nga organizmi i njeriut dhe mund të gatuhet i zier, i skuqur, dhe i pjekur në furrë. Përveç gjellëve të nxehta gatuhen gjellë të ftohta dhe meze si p.sh. peshk me majonez, marinadë me xhelatine etj.
 
-**Përpunimi i ftohtë****. Peshku i freskët pastrohet nga luspat duke filluar nga ana e bishtit në drejtim të kokës. Pastaj priten fletët, çahet barku dhe hiqen të brëndshmet, kokat pastrohen nga veshët. Peshku i pastruar lahet mirë dhe pritet sipas mënyrës së gatimit. Kështu p.sh. në qoftë se gatuhet gjellë prej fileto peshku, atëherë atij i hiqen kockat e shtyllës kurrizore me gjithë hala.
+**Përpunimi i ftohtë**. Peshku i freskët pastrohet nga luspat duke filluar nga ana e bishtit në drejtim të kokës. Pastaj priten fletët, çahet barku dhe hiqen të brëndshmet, kokat pastrohen nga veshët. Peshku i pastruar lahet mirë dhe pritet sipas mënyrës së gatimit. Kështu p.sh. në qoftë se gatuhet gjellë prej fileto peshku, atëherë atij i hiqen kockat e shtyllës kurrizore me gjithë hala.
 
 Për këtë peshku vendoset në dërrasë, vihet dora e majtë sipër, ndërsa me të djathtën priten filetoja duke filluar bishti deri te koka. Thika duhet të shkojë puthitur me kockën kurrizore, që në të të mos mbetet tuli. Pasi t'i hiqet filetoja e parë, peshku kthehet në anën tjetër dhe i hiqet edhe filetoja e dytë dhe halat.
 
@@ -3069,7 +3226,9 @@ Të dyja filetot pastrohen nga halat. Sipas dëshirës mund t'i hiqet edhe lëku
 
 Në qoftë se peshku përgatitet në mënyrën e zakonshme atëherë pritet në copa pa i hequr halat dhe lëkurën.
 
-Peshku i ngrirë pasi të shkrijë pastrohet në të njëjtën mënyrë si peshku i freskët. Peshku para se të gatuhet duhet të kontrollohet nga freskia e tij. Në qoftë se nuk është i freskët ose dyshohet, më mirë të mos përdoret, sepse mund të shkaktojë helmatisje. 
+Peshku i ngrirë pasi të shkrijë pastrohet në të njëjtën mënyrë si peshku i freskët.
+
+Peshku para se të gatuhet duhet të kontrollohet nga freskia e tij. Në qoftë se nuk është i freskët ose dyshohet, më mirë të mos përdoret, sepse mund të shkaktojë helmatisje. 
 
 Peshku që nuk është i freskët zakonisht ka erë të rëndë, tuli i tij shtypet lehtë me gisht duke lënë shenjë dhe ndahet shpejt nga kocka.
 
@@ -3077,9 +3236,7 @@ Peshku që nuk është i freskët zakonisht ka erë të rëndë, tuli i tij shty
 
 Për zierje përdoren gjithë llojet e peshqve me përjashtim të ngjalës, kublës etj., që kanë erë të rëndë. Peshku mund të zihet i tërë ose në copa.
 
-Peshku i pastruar dhe i larë vendoset në tenxhere të cekët: i hidhet ujë, aq sa të mbulohet, shtohen qepë (mundësisht të pjekura mbi sobë), karota, majdanoz, kripë, piper e dafinë. Sa të marrë valë largohet nga zjarri i fortë dhe lihet në zjarr të javashëm përgjysmë ore, derisa të jetë gati.
-
-Peshku bëhet më i shijshëm dhe më i ushqyeshëm kur zihet me pak ujë në enë të mbuluar me kapak. Pasi të ketë zier hiqet nga zjarri. Mund të jepet i nxehtë me zarzavate të ziera, sidomos me patate, ose i ftohtë, i shoqëruar me sallata të ndryshme. Në mënyrë të veçantë peshku i ftohur, shkon me sallatë perimesh, salcë majoneze (sallatë ruse) ose vetëm me majonezë.
+Peshku i pastruar dhe i larë vendoset në tenxhere të cekët: i hidhet ujë, aq sa të mbulohet, shtohen qepë (mundësisht të pjekura mbi sobë), karota, majdanoz, kripë, piper e dafinë. Sa të marrë valë largohet nga zjarri i fortë dhe lihet në zjarr të javashëm përgjysmë ore, derisa të jetë gati. Peshku bëhet më i shijshëm dhe më i ushqyeshëm kur zihet me pak ujë në enë të mbuluar me kapak. Pasi të ketë zier hiqet nga zjarri. Mund të jepet i nxehtë me zarzavate të ziera, sidomos me patate, ose i ftohtë, i shoqëruar me sallata të ndryshme. Në mënyrë të veçantë peshku i ftohur, shkon me sallatë perimesh, salcë majoneze (sallatë ruse) ose vetëm me majonezë.
 
 ### 177. Peshk i zier me barishte
 
@@ -3333,8 +3490,9 @@ Midhjet e ziera e të pastruara vendosen në enë porcelani, u hidhet vaj, lëng
 * Kripë, piper
 
 
-# KAPITULLI VI
-# GJELLË ME MISH
+# KAPITULLI VII
+
+# Gjellë Me Mish
 
 Mishi ka rëndësi të madhe për organizmin e njeriut sepse përmban sasi të konsiderueshme proteinash nga 14.5-23%, dhe yndyrë nga 2-37% (në derrin e majmë). Gjithashtu mishi përmban vitamina D, B, PP dhe kripëra minerale të rëndësishme si hekur, kalçium, fosfor etj (sidomos nënproduktet e tij).
 
@@ -4609,8 +4767,9 @@ Pjesët e mbetura të heqjes së filetës ose një pulë e tërë, pritet në th
 * majdanoz
 
 
-# KAPITULLI VI
-# ËMBËLSIRAT
+# KAPITULLI VIII
+
+# Ëmbëlsirat
 
 Ëmbëlsirat zakonisht jepen në fund të ushqimit, sepse me shijen e tyre të këndshme mund të hahen edhe pasi njeriu është i ngopur dhe në këtë mënyrë organizmi fiton dhe një sasi kalorish të tjera të nevojshme. Baza e të gjitha ëmbëlsirave është sheqeri, i cili është një nga produktet kryesore për organizmin e njeriut. Gjatë përvetësimit nga organizmi i njeriut çdo gram sheqer jep 4.1 k.kalori. Si karbohidrat ai ndihmon në asimilimin e yndyrnave prandaj nuk këshillohet të hahet në sasira të mëdha.
 
