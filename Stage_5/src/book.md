@@ -1437,6 +1437,7 @@ Mishin e viçit e kalojmë 2 herë në makinë së bashku me qepët. Në masën 
 > This recipe was missing from the book
 
 ### 75. Makarone me salcë
+
 Makaronat hidhen në ujë të valuar me kripë dhe lihen të ziejnë 15-20 minuta. Pasi të jenë zier, shpëlahen me ujë të ftohtë dhe shërbehen në çast me gjalpë të freskët, salcë domatesh ose kima. Përsipër u shtohet djathë kaçkavall i grirë.
 
 **Për 4-5 veta duhen:**
@@ -1468,9 +1469,9 @@ Sitet mielli dhe hapet një gropë në mes, hidhen vezët, pak kripë dhe pak uj
 **Për 4-5 veta duhen:**
 
 * miell: 3 gota uji
-* gjalpë 3 lugë gjelle:
-* vezë 2 kokrra:
-* pak kripë.
+* gjalpë: 3 lugë gjelle
+* vezë: 2 kokrra
+* pak kripë
 
 
 ### 78. Makarona dore me salcë ose kimë
@@ -3231,13 +3232,11 @@ Peshku që nuk është i freskët zakonisht ka erë të rëndë, tuli i tij shty
 
 Për zierje përdoren gjithë llojet e peshqve me përjashtim të ngjalës, kublës etj., që kanë erë të rëndë. Peshku mund të zihet i tërë ose në copa.
 
-Peshku i pastruar dhe i larë vendoset në tenxhere të cekët: i hidhet ujë, aq sa të mbulohet, shtohen qepë (mundësisht të pjekura mbi sobë), karota, majdanoz, kripë, piper e dafinë. Sa të marrë valë largohet nga zjarri i fortë dhe lihet në zjarr të javashëm përgjysmë ore, derisa të jetë gati. Peshku bëhet më i shijshëm dhe më i ushqyeshëm kur zihet me pak ujë në enë të mbuluar me kapak. Pasi të ketë zier hiqet nga zjarri. Mund të jepet i nxehtë me zarzavate të ziera, sidomos me patate, ose i ftohtë, i shoqëruar me sallata të ndryshme. Në mënyrë të veçantë peshku i ftohur, shkon me sallatë perimesh, salcë majoneze (sallatë ruse) ose vetëm me majonezë.
+Peshku i pastruar dhe i larë vendoset në tenxhere të cekët: i hidhet ujë, aq sa të mbulohet, shtohen qepë (mundësisht të pjekura mbi sobë), karota, majdanoz, kripë, piper e dafinë. Sa të marrë valë largohet nga zjarri i fortë dhe lihet në zjarr të javashëm përgjysmë ore, derisa të jetë gati. Peshku bëhet më i shijshëm dhe më i ushqyeshëm kur zihet me pak ujë në enë të mbuluar me kapak. Pasi të ketë zier hiqet nga zjarri. Mund të jepet i nxehtë me zarzavate të ziera, sidomos me patate, ose i ftohtë, i shoqëruar me sallata të ndryshme. Në mënyrë të veçantë peshku i zier, i ftohur, shkon me sallatë perimesh, salcë majoneze (sallatë ruse) ose vetëm me majonezë.
 
 ### 177. Peshk i zier me barishte
 
-Në tenxhere vendosen rrënjët e perimeve, karota, selino e majdanoz të pastruara e të prera në formë rrethi, qepë të prera në feta të rrumbullakëta e mbi to patate të ndara në katërsh. Mbi patatet vendoset peshku i pastruar, e i prerë në copa: shtohen 1-2 fletë dafinë, disa kokrra piper, kripë dhe 1 gotë ujë. Tenxherja vihet në zjarr, hidhet pak gjalpë dhe zihet në zjarr të javashëm për 30-35 minuta.
-
-Peshku bashkë me perimet e ziera vendoset në pjatancë dhe sipër i hidhet lëngu i vet.
+Në tenxhere vendosen rrënjët e perimeve, karota, selino e majdanoz të pastruara e të prera në formë rrethi, qepë të prera në feta të rrumbullakëta e mbi to patate të ndara në katërsh. Mbi patatet vendoset peshku i pastruar, e i prerë në copa: shtohen 1-2 fletë dafinë, disa kokrra piper, kripë dhe 1 gotë ujë. Tenxherja vihet në zjarr, hidhet pak gjalpë dhe zihet në zjarr të javashëm për 30-35 minuta. Peshku bashkë me perimet e ziera vendoset në pjatancë dhe sipër i hidhet lëngu i vet.
 
 **Për 1 peshk rreth 500 gr duhen:**
 
@@ -3253,7 +3252,11 @@ Peshku bashkë me perimet e ziera vendoset në pjatancë dhe sipër i hidhet lë
 
 ### 178. Peshk i stufuar
 
-Peshku i pastruar e i prerë në copa bëhet me kripë e piper dhe vendoset në tenxhere të cekët me yndyrë të nxehtë. Sipër i hidhet qepë e grirë në rende, 2-3 lugë ujë, mbulohet me kapak dhe zihet në zjarr të javashëm për 20 minuta. Ndërkohë, në tigan me pak vaj skuqet mielli, hollohet pak me ujë ose lëng peshku, shtohet një lugë salcë domate, lëng limoni ose uthull dhe hidhet te peshku. Lihet të ziejë edhe 10 minuta të tjera, pastaj vendoset në pjata dhe shoqërohet me patate të ziera të nxehta, me sallatë perimesh të freskëta etj.
+Peshku i pastruar e i prerë në copa bëhet me kripë e piper dhe vendoset në tenxhere të cekët me yndyrë të nxehtë.
+
+Sipër i hidhet qepë e grirë në rende, 2-3 lugë ujë, mbulohet me kapak dhe zihet në zjarr të javashëm për 20 minuta.
+
+Ndërkohë, në tigan me pak vaj skuqet mielli, hollohet pak me ujë ose lëng peshku, shtohet një lugë salcë domate, lëng limoni ose uthull dhe hidhet te peshku. Lihet të ziejë edhe 10 minuta të tjera, pastaj vendoset në pjata dhe shoqërohet me patate të ziera të nxehta, me sallatë perimesh të freskëta etj.
 
 **Për 1 kg peshk duhen:**
 
@@ -3296,9 +3299,9 @@ Peshku i pastruar dhe i larë pritet në copa, i hidhet kripë, piper, lyhet me 
 
 ### 181. Peshk i fërguar
 
-Për të fërguar përdoren të gjithë llojet e peshqve. Në qoftë se peshku është i vogël, pastrohet nga luspat e të brendshmet, lahet, i çahet lëkura në dy-tri vende për të ruajtur formën gjatë skuqjes, i hidhet kripë, lyhet me miell dhe skuqet nga të dyja anët. Peshqit me madhësi mesatare (400-500 gram) pas pastrimit priten në copa dhe skuqen njëlloj si të vegjlit, ndërsa peshqit e mëdhenj (mbi 500 gram) duhet të ndahen në fileta. 
+Për të fërguar përdoren të gjithë llojet e peshqve. Në qoftë se peshku është i vogël, pastrohet nga luspat e të brendshmet, lahet, i çahet lëkura në dy-tri vende për të ruajtur formën gjatë skuqjes, i hidhet kripë, lyhet me miell dhe skuqet nga të dyja anët. Peshqit me madhësi mesatare (400-500 gram) pas pastrimit priten në copa dhe skuqen njëlloj si të vegjlit, ndërsa peshqit e mëdhenj (mbi 500 gram) duhet të ndahen në fileta.  Ndarja në fileta është e domosdoshme për arsye se gjatë skuqjes në thellësi nuk sigurohet temperatura e duhur dhe tuli te shtylla kurrizore mbetet i papjekur.
 
-Ndarja në fileta është e domosdoshme për arsye se gjatë skuqjes në thellësi nuk sigurohet temperatura e duhur dhe tuli te shtylla kurrizore mbetet i papjekur. Çdo filetë pritet në copa, i hidhet kripë, piper, lyhet me miell dhe skuqet nga të dyja anët. Peshku i fërguar shoqërohet me patate të fërguara dhe me sallata të stinës.
+Çdo filetë pritet në copa, i hidhet kripë, piper, lyhet me miell dhe skuqet nga të dyja anët. Peshku i fërguar shoqërohet me patate të fërguara dhe me sallata të stinës.
 
 **Për 1 kg peshk duhen:**
 
@@ -3310,7 +3313,11 @@ Ndarja në fileta është e domosdoshme për arsye se gjatë skuqjes në thellë
 
 ### 182. Fileto peshku me galetë (pane)
 
-Zgjidhet peshk i madh, pastrohet nga luspat e të brendshmet, lahet dhe ndahet në fileta, pa hala dhe lëkurë. Fileta e pastruar pritet në copa, rrihet lehtë, kripet, spërkatet me lëng limoni ose limontoz të tretur në ujë dhe lihet për 15-20 minuta. Pastaj çdo cope i kullohet lëngu, lyhet me miell, kalohet në vezë të rrahura me pak ujë, pastaj në galetë dhe skuqet në tigan me yndyrë duke e kthyer nga të dyja anët. Shoqërohet me patate të skuqura dhe sallata.
+Zgjidhet peshk i madh, pastrohet nga luspat e të brendshmet, lahet dhe ndahet në fileta, pa hala dhe lëkurë.
+
+Fileta e pastruar pritet në copa, rrihet lehtë, kripet, spërkatet me lëng limoni ose limontoz të tretur në ujë dhe lihet për 15-20 minuta.
+
+Pastaj çdo cope i kullohet lëngu, lyhet me miell, kalohet në vezë të rrahura me pak ujë, pastaj në galetë dhe skuqet në tigan me yndyrë duke e kthyer nga të dyja anët. Shoqërohet me patate të skuqura dhe sallata.
 
 **Për 4-5 persona duhen:**
 
@@ -3336,7 +3343,9 @@ Filetat e pastruara priten në copa, kripen, piperosen dhe spërkaten me lëng l
 
 #### 184. Peshk i skarë
 
-Mund të jetë peshk i madh (ndahet në fileta) ose i vogël. Peshku i vogël (200-250 gram) pastrohet, lahet, i çahet lëkura në disa vende dhe marinohet me lëng limoni ose limontoz, vaj, kripë e piper. Lihet kështu për 15-20 minuta dhe piqet mbi skarë ose prush. Kjo lloj gjelle mund të jepet si meze e nxehtë dhe shoqërohet me sallata të stinës, ose si gjellë e nxehtë me patate të fërguara.
+Peshku i skarës mund të jetë i madh (ndahet në fileta) dhe i vogël.
+
+Peshku i vogël (200-250 gram) pastrohet, lahet, i çahet lëkura në disa vende dhe marinohet me lëng limoni ose limontoz, vaj, kripë e piper. Lihet kështu për 15-20 minuta dhe piqet mbi skarë ose prush. Kjo lloj gjelle mund të jepet si meze e nxehtë dhe shoqërohet me sallata të stinës, ose si gjellë e nxehtë me patate të fërguara.
 
 **Për 4-5 persona duhen:**
 
@@ -3349,7 +3358,9 @@ Mund të jetë peshk i madh (ndahet në fileta) ose i vogël. Peshku i vogël (2
 
 Kallamarët ose supiet pastrohen mirë, u hiqet koka me gjithë qeskën me bojë dhe kocka transparente që kanë mbi kurriz. Pastrohen nga të brendshmet dhe u hiqet cipa që mbulon trupin. Që cipa të hiqet më lehtë, kallamarët i zhysim për disa sekonda në ujë të nxehtë, ose gjatë pastrimit gishtat i lyejmë me kripë. 
 
-Kallamarët e larë priten në copa dhe skuqen. Pastaj shtohet verë e bardhë, mbulohen me kapak dhe stufohen disa minuta. Më vonë shtohen domate të grira në rende, majdanoz, kripë dhe piper. Përsëri mbulohen me kapak dhe zihen në zjarr të javashëm derisa të jenë gati. Në fund, kur hiqen nga zjarri, rregullohen me hudhra të shtypura në havan.
+Kallamarët e larë priten në copa dhe skuqen. Pastaj shtohet verë e bardhë, mbulohen me kapak dhe stufohen disa minuta. Më vonë shtohen domate të grira në rende, majdanoz, kripë dhe piper. Përsëri mbulohen me kapak dhe zihen në zjarr të javashëm derisa të jenë gati.
+
+Në fund, kur hiqen nga zjarri, rregullohen me hudhra të shtypura në havan.
 
 **Për 1 kg kallamarë duhen:**
 
@@ -3403,7 +3414,9 @@ Karkalecat kur janë të freskët pastrohen më me vështirësi, prandaj zihen 5
 * Majdanoz: një tufë
 
 ### 189. Karkaleca të fërguar me vezë
-Karkalecat e zier dhe të pastruar kripen, u hidhet piper i zi, kalohen në miell, pastaj në vezë të rrahur dhe skuqen në yndyrë të nxehtë. Nxirren me patate të fërguara dhe të shoqëruara me sallata të stinës.
+Karkalecat e zier dhe të pastruar kripen, u hidhet piper i zi, kalohen në miell, pastaj në vezë të rrahur dhe skuqen në yndyrë të nxehtë.
+
+Nxirren me patate të fërguara dhe të shoqëruara me sallata të stinës.
 
 **Për 1 kg karkaleca duhen:**
 
@@ -3491,25 +3504,33 @@ Midhjet e ziera e të pastruara vendosen në enë porcelani, u hidhet vaj, lëng
 
 Mishi ka rëndësi të madhe për organizmin e njeriut sepse përmban sasi të konsiderueshme proteinash nga 14.5-23%, dhe yndyrë nga 2-37% (në derrin e majmë). Gjithashtu mishi përmban vitamina D, B, PP dhe kripëra minerale të rëndësishme si hekur, kalçium, fosfor etj (sidomos nënproduktet e tij).
 
-Mishi përdoret i freskët ose i ngrirë. Mishi i freskët është më i shijshëm se ai i ngriri, por duhet patur parasysh që në qoftë se mishi i ngrirë shkrin në mënyrën e duhur, ai bëhet njëlloj si i freskëti. Gjatë ngrirjes lëngu që përmbajnë qelizat e mishit ngrin, duke krijuar kristale të akullit. Në rast se mishi i ngrirë lihet të shkrijë shpejt në temperaturën e dhomës ose më të lartë, akulli shkrin dhe lëngu kullon. Mishi humbet nga pesha dhe së bashku me lëngun ikën dhe një pjesë e vlerave ushqimore të tij; si rezultat ai do të bëhet i thatë dhe jo aq i shijshëm.
+Mishi përdoret i freskët ose i ngrirë. Mishi i freskët është më i shijshëm se ai i ngriri, por duhet patur parasysh që në qoftë se mishi i ngrirë shkrin në mënyrën e duhur, ai bëhet njëlloj si i freskëti.
+
+Gjatë ngrirjes lëngu që përmbajnë qelizat e mishit ngrin, duke krijuar kristale të akullit. Në rast se mishi i ngrirë lihet të shkrijë shpejt në temperaturën e dhomës ose më të lartë, akulli shkrin dhe lëngu kullon. Mishi humbet nga pesha dhe së bashku me lëngun ikën dhe një pjesë e vlerave ushqimore të tij; si rezultat ai do të bëhet i thatë dhe jo aq i shijshëm.
 
 Në qoftë se mishi do të shkrijë në temperaturë të ulët, d.m.th. shumë të ngadaltë (10-12 orë), atëherë lëngu që kanë lëshuar qelizat gjatë ngrirjes do të thithet përsëri prej tyre dhe mishi do të rikthejë shijen dhe vlerën e tij. Prandaj, në qoftë se mishi do të ruhet në frigorifer në vendin e akullit, atëherë duhet pasur parasysh që përpara gatimit të hiqet nga ngrirja dhe të vendoset në pjesën e poshtme të tij. Mishi në asnjë mënyrë nuk këshillohet të shkrihet në ujë, pasi humbet një sasi të madhe vlerash ushqimore.
 
-Siç dihet, mishi i skuqur është më i shijshëm se ai i zieri, por nuk mund të skuqet çdo copë mishi, për arsye se kanë rezistencë të ndryshme ndaj përpunimit të nxehtë (fortësi të ndryshme). Zakonisht pjesët e mishit që ndodhen mbi shtyllën kurrizore dhe pjesët e sipërme e të brendshme të kofshës janë të buta dhe mund të përdoren për skuqje; prandaj ato priten në copa në drejtim të kundërt të fijeve, rrihen, dhe kalohen në përpunim të nxehtë (skuqje). Pjesët e tjera të mishit kalohen në zierje (gjellë) dhe përdoren për qofte, kimë, mbushje etj.
+Siç dihet, mishi i skuqur është më i shijshëm se ai i zieri, por nuk mund të skuqet çdo copë mishi, për arsye se kanë rezistencë të ndryshme ndaj përpunimit të nxehtë (fortësi të ndryshme).
 
-Bagëtitë e imta si qengji, dashi, derri, viçi i njomë kanë më tepër mish të butë nga i cili mund të bëhen gjellë të skuqura ose të pjekura. Mishi para se të gatuhet mund të kontrollohet duke e shtypur me gisht: në qoftë se mishi shtypet, atëherë mund të përdoret për skuqje; në rast se nuk shtypet, atëherë mund të përdoret për përpunim tjetër të nxehtë që kërkon kohë më të gjatë.
+Zakonisht pjesët e mishit që ndodhen mbi shtyllën kurrizore dhe pjesët e sipërme e të brendshme të kofshës janë të buta dhe mund të përdoren për skuqje; prandaj ato priten në copa në drejtim të kundërt të fijeve, rrihen, dhe kalohen në përpunim të nxehtë (skuqje).
+
+Pjesët e tjera të mishit kalohen në zierje (gjellë) dhe përdoren për qofte, kimë, mbushje etj. Bagëtitë e imta si qengji, dashi, derri, viçi i njomë kanë më tepër mish të butë nga i cili mund të bëhen gjellë të skuqura ose të pjekura.
+
+Mishi para se të gatuhet mund të kontrollohet duke e shtypur me gisht: në qoftë se mishi shtypet, atëherë mund të përdoret për skuqje; në rast se nuk shtypet, atëherë mund të përdoret për përpunim tjetër të nxehtë që kërkon kohë më të gjatë.
 
 Fortësia e mishit varet nga funksioni që kanë kryer muskujt gjatë jetës së kafshës. P.sh. tuli i qafës është shumë i fortë sepse qafa gjithnjë është në lëvizje dhe indet lidhëse e fijet e mishit janë forcuar shumë, prandaj për t'u zbutur mishi i qafës së lopës do rreth 2.5-3 orë përpunim të nxehtë. Po kështu ndodh dhe me pjesët e tjera si shpatulla e kofsha të cilat përmbajnë shumë tul, por gjatë jetës së kafshës kanë lëvizur shumë. Këto pjesë duan 1.5-2 orë për përpunim të nxehtë.
 
-Duhet të dimë të përcaktojmë mirë cilësinë e mishit dhe për çfarë gjelle mund të përdoret. P.sh. copat e buta të mishit ose mishi i bagëtive të imta nuk ka leverdi të përdoret për qofte sepse qoftet mund të përgatiten nga tuli i qafës, i këmbëve dhe gjithë copat e vogla të mbetura pas prerjes së mishit për gjellë të tjera. Zakonisht është më ekonomike kur mishi blihet për disa ditë njëherë, sepse nga një copë e madhe mishi mund të nxirren copa për biftekë, disa të tjera që janë më të forta përdoren për t'u zier dhe copat e mbetura grihen në makinën e mishit që të përdoren për qofte dhe mbushje të ndryshme; ndërsa me kockat, zhapat dhe damarët bëhen lëng mishi për supë.
+Duhet të dimë të përcaktojmë mirë cilësinë e mishit dhe për çfarë gjelle mund të përdoret. P.sh. copat e buta të mishit ose mishi i bagëtive të imta nuk ka leverdi të përdoret për qofte sepse qoftet mund të përgatiten nga tuli i qafës, i këmbëve dhe gjithë copat e vogla të mbetura pas prerjes së mishit për gjellë të tjera.
 
-Gjatë zierjes mishi zakonisht humbet në peshë rreth 40%, sepse koagulohen (mpiksen) proteinat duke nxjerrë ujë. Kështu, nga 1 kg mish tul pa kockë merret rreth 600 gr mish i zier. Bashkë me ujin mishi humbet dhe një sasi të lëndëve ekstraktike (shijes), kripëra minerale dhe xhelatinë. Të gjitha këto lëndë shkrihen në ujin ku zien mishi duke krijuar në këtë mënyrë lëng mishi. Vlera ushqimore e mishit gjatë zierjes së rregullt nuk ulet shumë, sepse pjesa më e rëndësishme e tij, proteinat, pothuajse ruhen, përveç 3-4% që kalojnë në lëng dhe krijojnë shkumën. Gjatë skuqjes mishi gjithashtu humbet një sasi uji i cili avullon, ndërsa lëndët ekstraktike mbeten në mish dhe krijojnë korre me aromë e shije të këndshme.
+Zakonisht është më ekonomike kur mishi blihet për disa ditë njëherë, sepse nga një copë e madhe mishi mund të nxirren copa për biftekë, disa të tjera që janë më të forta përdoren për t'u zier dhe copat e mbetura grihen në makinën e mishit që të përdoren për qofte dhe mbushje të ndryshme; ndërsa me kockat, zhapat dhe damarët bëhen lëng mishi për supë.
+
+Gjatë zierjes mishi zakonisht humbet në peshë rreth 40%, sepse koagulohen (mpiksen) proteinat duke nxjerrë ujë. Kështu, nga 1 kg mish tul pa kockë merret rreth 600 gr mish i zier. Bashkë me ujin mishi humbet dhe një sasi të lëndëve ekstraktike (shijes), kripëra minerale dhe xhelatinë. Të gjitha këto lëndë shkrihen në ujin ku zien mishi duke krijuar në këtë mënyrë lëng mishi. Vlera ushqimore e mishit gjatë zierjes së rregullt nuk ulet shumë, sepse pjesa më e rëndësishme e tij, proteinat, pothuajse ruhen, përveç 3-4% që kalojnë në lëng dhe krijojnë shkumën.
+
+Gjatë skuqjes mishi gjithashtu humbet një sasi uji i cili avullon, ndërsa lëndët ekstraktike mbeten në mish dhe krijojnë korre me aromë e shije të këndshme.
 
 ### 196. Mishi i zier me barishte
 
-Mishi i viçit ose i lopës pritet në copa dhe vendoset në tenxhere me ujë të vluar që të mos humbasë shumë vlera ushqimore, mbulohet me kapak dhe zihet derisa të zbutet. Gjatë zierjes herë pas here i hiqet shkuma, që lëngu të mos dalë i turbullt. Pastaj shtohen qepë, karrota, rrënjë selino të prera në kubikë, lakër e freskët e prerë në copa katrore, fletë dafine, piper, kripë, mbulohet me kapak dhe zihet në zjarr të javashëm. 10-15 minuta para përfundimit të zierjes hidhen patate të prera në kubikë.
-
-Kjo gjellë mund të rregullohet edhe me salcë të bardhë e hudhra. Për këtë, në lëngun me gjalpë kaurdiset pak miell dhe shuhet me lëngun e gjellës. Salca e bardhë hidhet në gjellë, vendoset në zjarr, rregullohet me hudhra të shtypura, i jepet një valë dhe hiqet nga zjarri. Në fund spërkatet me jeshillëqe.
+Mishi i viçit ose i lopës pritet në copa dhe vendoset në tenxhere me ujë të vluar që të mos humbasë shumë vlera ushqimore, mbulohet me kapak dhe zihet derisa të zbutet. Gjatë zierjes herë pas here i hiqet shkuma, që lëngu të mos dalë i turbullt. Pastaj shtohen qepë, karrota, rrënjë selino të prera në kubikë, lakër e freskët e prerë në copa katrore, fletë dafine, piper, kripë, mbulohet me kapak dhe zihet në zjarr të javashëm. 10-15 minuta para përfundimit të zierjes hidhen patate të prera në kubikë. Kjo gjellë mund të rregullohet edhe me salcë të bardhë e hudhra. Për këtë, në lëngun me gjalpë kaurdiset pak miell dhe shuhet me lëngun e gjellës. Salca e bardhë hidhet në gjellë, vendoset në zjarr, rregullohet me hudhra të shtypura, i jepet një valë dhe hiqet nga zjarri. Në fund spërkatet me jeshillëqe.
 
 **Për 4-5 persona duhen:**
 
@@ -3529,7 +3550,11 @@ Kjo gjellë mund të rregullohet edhe me salcë të bardhë e hudhra. Për kët�
 
 ### 197. Mish i njomë i zier me barishte të stinës
 
-Mishi i dashit ose i viçit pritet në copa, i hidhet ujë aq sa të mbulohet dhe vihet për t'u zier. Kur të marrë valë i hiqet shkuma dhe lihet të ziejë rreth 1 orë. Pastaj shtohen mashurka të njoma e bizele kokërr gjysmë të ziera, karota dhe selino të prera në kubikë mesatarë, qepujka ose qepë të prera në katërsh, kripë, piper, dafinë dhe rrënjë majdanozi. 10-15 minuta para përfundimit të zierjes shtohen patate të qëruara e të prera në kubikë mesatarë. Kur gjella hiqet nga zjarri i hidhet majdanoz e gjalpë, pastaj ndahet në pjata, vihet thela e mishit dhe shoqërohet me perime ose lëng.
+Mishi i dashit ose i viçit pritet në copa, i hidhet ujë aq sa të mbulohet dhe vihet për t'u zier.
+
+Kur të marrë valë i hiqet shkuma dhe lihet të ziejë rreth 1 orë. Pastaj shtohen mashurka të njoma e bizele kokërr gjysmë të ziera, karota dhe selino të prera në kubikë mesatarë, qepujka ose qepë të prera në katërsh, kripë, piper, dafinë dhe rrënjë majdanozi.
+
+10-15 minuta para përfundimit të zierjes shtohen patate të qëruara e të prera në kubikë mesatarë. Kur gjella hiqet nga zjarri i hidhet majdanoz e gjalpë, pastaj ndahet në pjata, vihet thela e mishit dhe shoqërohet me perime ose lëng.
 
 **Për 4-5 persona duhen:**
 
@@ -3572,7 +3597,9 @@ Gjuha e zier shpëlahet në ujë të ftohtë dhe ashtu e nxehtë pastrohet nga c
 
 Trutë para se të zihen duhet të lihen rreth gjysmë ore në ujë të ftohtë që t'u hiqet cipa. Trutë e pastruar vendosen në tenxhere, u hidhet ujë i ftohtë aq sa të mbulohen, vihen në zjarr për t'u zier dhe i shtohet kripë, piper, dafinë, qepë, karota, selino dhe uthull. Lihen të ziejnë në zjarr të javashëm rreth 15-20 minuta, pastaj hiqen dhe ftohen në lëngun e vet.
 
-Trutë e zier nxirren të nxehta duke i prerë në feta dhe shoqërohen me perime të ziera të stinës si patate, karota, bizele, mashurka të ziera të kaluara në tigan me gjalpë. Trutë e prerë vendosen bukur në mes të pjatës në formë shkalle, ndërsa rreth e përqark vihen perimet në formë tufë lulesh. Në fund u hidhet piper e majdanoz i grirë hollë.
+Trutë e zier nxirren të nxehta duke i prerë në feta dhe shoqërohen me perime të ziera të stinës si patate, karota, bizele, mashurka të ziera të kaluara në tigan me gjalpë.
+
+Trutë e prerë vendosen bukur në mes të pjatës në formë shkalle, ndërsa rreth e përqark vihen perimet në formë tufë lulesh. Në fund u hidhet piper e majdanoz i grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -3713,13 +3740,9 @@ Trutë e zier e të ftohur priten në feta të holla, u hidhen kripë, piper, ly
 
 Mishi mund të piqet në copa të mëdha në furrë me tavë të thellë. Në këtë rast mishi nuk humbet shumë vlera ushqimore, por fiton shijen e mishit të skuqur, sepse në sipërfaqe krijohet korja e kuqe (nga lëndët ekstraktive që mblidhen gjatë avullimit të ujit).
 
-Rostoja mund të përgatitet me mish viçi, dashi, derri ose lope. Në copat e mëdha të mishit tul, me majën e thikës fusim brenda kripë, piper dhe sipas dëshirës thelpinj hudhrash. Vendosen në tavë të thellë, sipër u hidhet yndyrë dhe futen në furrë për t'u pjekur.
+Rostoja mund të përgatitet me mish viçi, dashi, derri ose lope. Në copat e mëdha të mishit tul, me majën e thikës fusim brenda kripë, piper dhe sipas dëshirës thelpinj hudhrash. Vendosen në tavë të thellë, sipër u hidhet yndyrë dhe futen në furrë për t'u pjekur. Pas treçerek ore, kur sipërfaqja të ketë marrë ngjyrë të kuqe, mishi kthehet nga ana tjetër dhe rreth e përqark mishit vendosen qepë e karota të prera në copa të mëdha. Sipër spërkatet me lëngun dhe yndyrën e vet dhe vendoset përsëri në furrë. Në rast se lëngu ka avulluar atëherë duhet të shtohet pak ujë, ose sipas dëshirës mund të hidhet pak verë e kuqe dhe fletë dafine. Pas gjysmë ore, kur edhe pjesa tjetër të ketë marrë një kore të kuqe, kontrollohet nëse është gati duke e shpuar thellë me pirun: në rast se piruni hyn e del lirisht mishi është gati. Në qoftë se mishi është i madh (lope, kau ose dashi) dhe nuk zbutet brenda 1.5 ore, prandaj që të mos thahet shtohet edhe pak ujë dhe mbulohet. Mishi mbulohet me kapak dhe vazhdon pjekja derisa të bëhet gati. Hiqet mishi nga tava; në lëngun dhe yndyrën e mbetur në tavë hidhen disa lugë ujë, vlohet duke kruajtur edhe anët e tavës dhe kullohet. Ky lëng ruhet dhe përdoret gjatë servirjes së mishit.  Mishi pritet në thela të holla në drejtim të kundërt të fijeve të tij dhe vendoset në mes të pjatës, ndërsa anës i vihet garniturë sipas dëshirës: p.sh. pure patatesh e spërkatur sipër me lëngun e vet, patate të fërguara ose perime të ndryshme të ziera dhe të kaluara në tigan me pak yndyrë. Kjo quhet garniturë e kombinuar.
 
-Pas treçerek ore, kur sipërfaqja të ketë marrë ngjyrë të kuqe, mishi kthehet nga ana tjetër dhe rreth e përqark mishit vendosen qepë e karota të prera në copa të mëdha. Sipër spërkatet me lëngun dhe yndyrën e vet dhe vendoset përsëri në furrë. Në rast se lëngu ka avulluar atëherë duhet të shtohet pak ujë, ose sipas dëshirës mund të hidhet pak verë e kuqe dhe fletë dafine. Pas gjysmë ore, kur edhe pjesa tjetër të ketë marrë një kore të kuqe, kontrollohet nëse është gati duke e shpuar thellë me pirun: në rast se piruni hyn e del lirisht mishi është gati. Në qoftë se mishi është i madh (lope, kau ose dashi) dhe nuk zbutet brenda 1.5 ore, prandaj që të mos thahet shtohet edhe pak ujë dhe mbulohet.
-
-Mishi mbulohet me kapak dhe vazhdon pjekja derisa të bëhet gati. Hiqet mishi nga tava; në lëngun dhe yndyrën e mbetur në tavë hidhen disa lugë ujë, vlohet duke kruajtur edhe anët e tavës dhe kullohet. Ky lëng ruhet dhe përdoret gjatë servirjes së mishit. 
-
-Mishi pritet në thela të holla në drejtim të kundërt të fijeve të tij dhe vendoset në mes të pjatës, ndërsa anës i vihet garniturë sipas dëshirës: p.sh. pure patatesh e spërkatur sipër me lëngun e vet, patate të fërguara ose perime të ndryshme të ziera dhe të kaluara në tigan me pak yndyrë. Kjo quhet garniturë e kombinuar. Mishi gjithashtu spërkatet me yndyrën e lëngun e vet: kjo quhet salcë e të pjekurave ose zhu. 
+Mishi gjithashtu spërkatet me yndyrën e lëngun e vet: kjo quhet salcë e të pjekurave ose zhu. 
 
 **Për 1 kg mish tul duhen:**
 
@@ -3737,7 +3760,9 @@ Mishi pritet në thela të holla në drejtim të kundërt të fijeve të tij dhe
 ### 207. Role mishi
 Roleja mund të përgatitet me mish viçi, derri, dashi, zakonisht nga pjesa e shpatullës. Mishi zhvishet nga kockat, pastrohet nga cipa, hapet në tavolinë dhe rrihet pak me rrahëse mishi ose me satër që të sheshohet: njëkohësisht mishi hollohet dhe zbutet. Spërkatet me kripë, piper, hudhra të shtypura dhe në ndonjë rast mund të vendosen për së gjati njëra pas tjetrës edhe vezë të ziera. 
 
-Mishi mblidhet me kujdes në formë roleje pastaj lidhet fort me spango. Roleja e përgatitur vendoset në tavë të thellë, i hidhet kripë, piper, yndyrë dhe vihet në furrë për t'u pjekur. Roleja piqet njëlloj si rostoja. Pas pjekjes hiqet nga tava, ftohet pak, i hiqet spangoja dhe pritet në feta. 
+Mishi mblidhet me kujdes në formë roleje pastaj lidhet fort me spango. Roleja e përgatitur vendoset në tavë të thellë, i hidhet kripë, piper, yndyrë dhe vihet në furrë për t'u pjekur. Roleja piqet njëlloj si rostoja.
+
+Pas pjekjes hiqet nga tava, ftohet pak, i hiqet spangoja dhe pritet në feta. 
 
 Tava vihet mbi zjarr, i shtohet pak ujë, kripë, piper, fletë dafine, zihet edhe pak për të avulluar lëngun e tepërt, kullohet dhe përdoret gjatë servirjes së rolesë. Roleja shërbehet njëlloj si rostoja, d.m.th. me pure patatesh, patate të fërguara ose me perime të tjera të ndryshme të ziera dhe të kaluara në tigan me pak yndyrë. Të gjitha këto vendosen rreth e qark mishit. Mishi dhe garnitura e tij në fund spërkaten me lëngun (salcën e përgatitur).
 
@@ -3757,9 +3782,7 @@ Tava vihet mbi zjarr, i shtohet pak ujë, kripë, piper, fletë dafine, zihet ed
 ### 208. Rosto në tenxhere
 Rostoja në tenxhere përgatitet kur mungon furra ose kur mishi është shumë i madh dhe nuk piqet kollaj. Në këtë rast rostoja quhet breze. Kjo gjellë mund të gatuhet në tenxhere të zakonshme si dhe në tenxhere me presion. Në tenxhere me presion duhet të kihet parasysh se koha e zierjes shkurtohet pothuajse 3 herë. 
 
-Mishi (kofshë ose shpatull lope, kau ose dashi) pastrohet nga cipa e sipërme dhe shpohet në disa vende ku i futet kripë, piper dhe thelpinj hudhre. Në një tenxhere me yndyrë të nxehtë vendosen copa të mishit, të cilat skuqen nga të gjitha anët; pastaj shtohen piper, karota dhe selino. Kur këto të jenë skuqur, shuhen me verë, pastaj i hidhet piper kokërr, dafinë, ujë sa të mbulohen deri në gjysmë dhe pasi i vihet kapaku, lihen në zjarr të javashëm. 
-
-Gjatë zierjes, herë pas here mishi kthehet nga njëra anë te tjetra dhe, sipas nevojës, i shtohet nga pak ujë, duke pasur parasysh që nën yndyrë të ketë 1-2 cm shtresë uji. Kur mishi bëhet gati, hiqet nga lëngu, pritet në thela në drejtim të kundërt të fijeve, ndërsa lëngu kullohet duke shtypur me lugë druri zarzavatet. Rostoja e prerë në feta vendoset në mesin e pjatës: nga të dyja anët vihet garniturë, p.sh. pure patatesh, patate të fërguara ose garniturë tjetër perimesh të kombinuara me bizele, karota, patate etj., të ziera e të kaluara në tigan me gjalpë. Rostoja si dhe garnitura spërkatet në fund me lëngun e vet.
+Mishi (kofshë ose shpatull lope, kau ose dashi) pastrohet nga cipa e sipërme dhe shpohet në disa vende ku i futet kripë, piper dhe thelpinj hudhre. Në një tenxhere me yndyrë të nxehtë vendosen copa të mishit, të cilat skuqen nga të gjitha anët; pastaj shtohen piper, karota dhe selino. Kur këto të jenë skuqur, shuhen me verë, pastaj i hidhet piper kokërr, dafinë, ujë sa të mbulohen deri në gjysmë dhe pasi i vihet kapaku, lihen në zjarr të javashëm. Gjatë zierjes, herë pas here mishi kthehet nga njëra anë te tjetra dhe, sipas nevojës, i shtohet nga pak ujë, duke pasur parasysh që nën yndyrë të ketë 1-2 cm shtresë uji. Kur mishi bëhet gati, hiqet nga lëngu, pritet në thela në drejtim të kundërt të fijeve, ndërsa lëngu kullohet duke shtypur me lugë druri zarzavatet. Rostoja e prerë në feta vendoset në mesin e pjatës: nga të dyja anët vihet garniturë, p.sh. pure patatesh, patate të fërguara ose garniturë tjetër perimesh të kombinuara me bizele, karota, patate etj., të ziera e të kaluara në tigan me gjalpë. Rostoja si dhe garnitura spërkatet në fund me lëngun e vet.
 
 **Për 1 kg mish tul duhen:**
 
@@ -3805,9 +3828,9 @@ Në këtë rast mishi pritet njëlloj si për biftek të skarës, rrihet, i hidh
 
 
 ### 211. Biftek i furrës
-Bifteku i furrës përgatitet me tul kofshe dhe shpatulle, i cili nuk është shumë i butë. Mishi pritet në thela në drejtim të kundërt të fijeve. I hidhet kripë, piper, kalohet në miell dhe skuqet nga të dyja anët në yndyrë shumë të nxehtë, por jo të jetë gati. 
+Bifteku i furrës përgatitet me tul kofshe dhe shpatulle, i cili nuk është shumë i butë.
 
-Biftekët vihen në tavë ndërsa në yndyrën e mbetur përgatitet salca: kaurdiset qepa e grirë në kubikë të vegjël, shtohen domate të grira ose salcë, pak spec djegës, 1 fletë dafine, kripë, piper e hudhra sipas dëshirës. Hidhet pak verë (në mungesë të saj uthull), shtohet ujë dhe kur të marrë valë i hidhet sipër biftekëve. Mbi çdo biftek vihen feta domatesh dhe vendosen në furrë për t'u pjekur rreth tre çerek ore. Shoqërohet me pure patate duke e spërkatur nga sipër me lëngun e vet dhe me majdanoz të grirë hollë.
+Mishi pritet në thela në drejtim të kundërt të fijeve. I hidhet kripë, piper, kalohet në miell dhe skuqet nga të dyja anët në yndyrë shumë të nxehtë, por jo të jetë gati. Biftekët vihen në tavë ndërsa në yndyrën e mbetur përgatitet salca: kaurdiset qepa e grirë në kubikë të vegjël, shtohen domate të grira ose salcë, pak spec djegës, 1 fletë dafine, kripë, piper e hudhra sipas dëshirës. Hidhet pak verë (në mungesë të saj uthull), shtohet ujë dhe kur të marrë valë i hidhet sipër biftekëve. Mbi çdo biftek vihen feta domatesh dhe vendosen në furrë për t'u pjekur rreth tre çerek ore. Shoqërohet me pure patate duke e spërkatur nga sipër me lëngun e vet dhe me majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -3839,7 +3862,9 @@ Në qoftë se copa e mishit është me gjithë kockën e shtyllës kurrizore, at
 
 
 ### 213. Kotoleta derri, dashi dhe viçi të njomë të skuqura në tigan
-Mishi pritet si për bërxolla, me një fije brinje nga pjesa kurrizore, hiqet kocka e kurrizit, pastrohet brinja nga tuli duke e lënë tulin të lidhur në të rreth 2 cm, pastaj tuli rrihet me satër duke i dhënë formën ovale. Hidhet kripë, piper, lyhet me miell, zhytet në vezë të rrahura me pak ujë, pastaj kalohet në galetë të bluar, i jepet forma ovale dhe skuqet në tigan me yndyrë të nxehtë. Kotoletat e gatshme vendosen në pjatë, anës i vihet garnitura me patate të skuqura ose të kombinuara me perime. Sipër mund të zbukurohet me një fetë limoni ose majdanoz.
+Mishi pritet si për bërxolla, me një fije brinje nga pjesa kurrizore, hiqet kocka e kurrizit, pastrohet brinja nga tuli duke e lënë tulin të lidhur në të rreth 2 cm, pastaj tuli rrihet me satër duke i dhënë formën ovale. Hidhet kripë, piper, lyhet me miell, zhytet në vezë të rrahura me pak ujë, pastaj kalohet në galetë të bluar, i jepet forma ovale dhe skuqet në tigan me yndyrë të nxehtë.
+
+Kotoletat e gatshme vendosen në pjatë, anës i vihet garnitura me patate të skuqura ose të kombinuara me perime. Sipër mund të zbukurohet me një fetë limoni ose majdanoz.
 
 **Për 4-5 persona duhen:**
 
@@ -3865,7 +3890,9 @@ Kotoleta përgatitet njëlloj si më sipër, por pasi lyhet me miell, zhytet në
 
 
 ### 215. Eskallop derri ose viçi në tigan
-Për eskallop përdoret mish i butë derri ose viçi i njomë. Tuli i mishit pritet në drejtim të kundërt të fijeve të tij, rrihet, i hidhet kripë e piper, kalohet në miell dhe skuqet nga të dyja anët në yndyrë të nxehtë. Copat pasi të jenë skuqur, shuhen me verë, shtohet piper i shtypur, fletë dafine dhe kripë, mbulohen me kapak dhe lihen në zjarr të javashëm 2-3 minuta. Sipas dëshirës mund të shtohen domate të grira hollë të cilat lihen edhe 5 minuta të tjera derisa të avullohet lagështira e tepërt. Eskallopi shoqërohet me garniturë perimesh të ndryshme të cilat më parë janë zier dhe kaluar në yndyrë.
+Për eskallop përdoret mish i butë derri ose viçi i njomë. Tuli i mishit pritet në drejtim të kundërt të fijeve të tij, rrihet, i hidhet kripë e piper, kalohet në miell dhe skuqet nga të dyja anët në yndyrë të nxehtë. Copat pasi të jenë skuqur, shuhen me verë, shtohet piper i shtypur, fletë dafine dhe kripë, mbulohen me kapak dhe lihen në zjarr të javashëm 2-3 minuta. Sipas dëshirës mund të shtohen domate të grira hollë të cilat lihen edhe 5 minuta të tjera derisa të avullohet lagështira e tepërt.
+
+Eskallopi shoqërohet me garniturë perimesh të ndryshme të cilat më parë janë zier dhe kaluar në yndyrë.
 
 **Për 4-5 persona duhen:**
 
@@ -3881,9 +3908,7 @@ Për eskallop përdoret mish i butë derri ose viçi i njomë. Tuli i mishit pri
 
 
 ### 216. Eskallop derri ose viçi të furrës
-Eskallopi pasi të jetë skuqur rreshtohet në tavë, ndërsa në yndyrën që ka mbetur pas skuqjes hidhen qepët e grira hollë, kaurdisen, shtohet salcë domatesh, kripë, piper, spec djegës, 1 fletë dafine, pak verë dhe sipas nevojës lëng mishi ose ujë. Salca vlohet pak, pastaj shikohet nëse ka nevojë për kripë, i hidhet uthull, pak sheqer dhe hudhra të shtypura. 
-
-Salca e gatshme hidhet në tavën me eskallop. Mbi çdo copë eskallopi vendoset nga një fetë domate dhe vihen në furrë 25-30 minuta derisa të jenë gati. Pastaj vendoset në pjatë, anash i vihet garniturë me pure patatesh, e cila rregullohet bukur me lugë në formë dallgësh. Që vizatimi të bëhet më lehtë, luga duhet të laget me ujë të vluar. Përveç puresë, eskallopi mund të shoqërohet me patate të ziera, me perime të tjera etj. Sipër spërkatet me lëngun e saj.
+Eskallopi pasi të jetë skuqur rreshtohet në tavë, ndërsa në yndyrën që ka mbetur pas skuqjes hidhen qepët e grira hollë, kaurdisen, shtohet salcë domatesh, kripë, piper, spec djegës, 1 fletë dafine, pak verë dhe sipas nevojës lëng mishi ose ujë. Salca vlohet pak, pastaj shikohet nëse ka nevojë për kripë, i hidhet uthull, pak sheqer dhe hudhra të shtypura. Salca e gatshme hidhet në tavën me eskallop. Mbi çdo copë eskallopi vendoset nga një fetë domate dhe vihen në furrë 25-30 minuta derisa të jenë gati. Pastaj vendoset në pjatë, anash i vihet garniturë me pure patatesh, e cila rregullohet bukur me lugë në formë dallgësh. Që vizatimi të bëhet më lehtë, luga duhet të laget me ujë të vluar. Përveç puresë, eskallopi mund të shoqërohet me patate të ziera, me perime të tjera etj. Sipër spërkatet me lëngun e saj.
 
 **Për 4-5 persona duhen:**
 
@@ -3900,9 +3925,9 @@ Salca e gatshme hidhet në tavën me eskallop. Mbi çdo copë eskallopi vendoset
 
 
 ### 217. Shishqebap
-Shishqebapi përgatitet me mish dashi, qengji dhe derri. Mund të përgatitet dhe me mish viçi, por ky i fundit duhet të jetë shumë i njomë (deri 6 muajsh). Tuli i pastruar pritet në kubikë mesatarë (2.5-3 cm), vendoset në tas porcelani ose plastmase, i hidhet uthull, vaj ulliri, piper, majdanoz i grirë hollë, fletë dafine të copëtuara dhe qepë të prera në rrathë. Të gjitha këto përzihen dhe lihen në vend të freskët për 3-4 orë që mishi të marinohet. Zakonisht në këto raste nuk hidhet kripë, sepse mishi lëshon lëng dhe forcohet. 
+Shishqebapi përgatitet me mish dashi, qengji dhe derri. Mund të përgatitet dhe me mish viçi, por ky i fundit duhet të jetë shumë i njomë (deri 6 muajsh). Tuli i pastruar pritet në kubikë mesatarë (2.5-3 cm), vendoset në tas porcelani ose plastmase, i hidhet uthull, vaj ulliri, piper, majdanoz i grirë hollë, fletë dafine të copëtuara dhe qepë të prera në rrathë. Të gjitha këto përzihen dhe lihen në vend të freskët për 3-4 orë që mishi të marinohet. Zakonisht në këto raste nuk hidhet kripë, sepse mishi lëshon lëng dhe forcohet. Shishqebapi përgatitet në çast, disa minuta para ngrënies. Mishi kalohet në shufër metalike ose degë dafine; shkohet 1 copë mish, një rreth qepë që i është hedhur mishit gjatë marinimit, përsëri një copë mish e kështu me radhë. I hidhet kripë e rigon dhe piqet në skarë sipër sobës ose mbi prush.
 
-Shishqebapi përgatitet në çast, disa minuta para ngrënies. Mishi kalohet në shufër metalike ose degë dafine; shkohet 1 copë mish, një rreth qepë që i është hedhur mishit gjatë marinimit, përsëri një copë mish e kështu me radhë. I hidhet kripë e rigon dhe piqet në skarë sipër sobës ose mbi prush. Shishqebapi jepet i nxehtë, shoqërohet me sallata të ndryshme, me qepë të grira hollë të përziera me spec të kuq, me patate të fërguara, etj.
+Shishqebapi jepet i nxehtë, shoqërohet me sallata të ndryshme, me qepë të grira hollë të përziera me spec të kuq, me patate të fërguara, etj.
 
 **Për 4-5 persona duhen:**
 
@@ -3918,9 +3943,7 @@ Shishqebapi përgatitet në çast, disa minuta para ngrënies. Mishi kalohet në
 
 ### 218. Mish derri i skuqur me galetë
 
-Mishi i derrit (pjesa e butë) pritet në copa në drejtim të kundërt të fijeve, rrihet, i jepet forma ovale, hidhet kripë, piper, kalohet në miell, në vezë të rrahura me pak ujë dhe në galetë. Pastaj skuqet në yndyrë të nxehtë. Skuqja bëhet e çastit, disa minuta para ngrënies. 
-
-Kjo gjellë zakonisht shoqërohet me garniturë të kombinuar, d.m.th. me patate, karota, bizele, mashurka, lulelakër, etj. Të gjitha këto spërkaten me kripë, piper e majdanoz. Perimet vendosen tufa-tufa duke kombinuar ngjyrën, d.m.th. të mos vendosen dy gjëra me ngjyrë të njëjtë.
+Mishi i derrit (pjesa e butë) pritet në copa në drejtim të kundërt të fijeve, rrihet, i jepet forma ovale, hidhet kripë, piper, kalohet në miell, në vezë të rrahura me pak ujë dhe në galetë. Pastaj skuqet në yndyrë të nxehtë. Skuqja bëhet e çastit, disa minuta para ngrënies. Kjo gjellë zakonisht shoqërohet me garniturë të kombinuar, d.m.th. me patate, karota, bizele, mashurka, lulelakër, etj. Të gjitha këto spërkaten me kripë, piper e majdanoz. Perimet vendosen tufa-tufa duke kombinuar ngjyrën, d.m.th. të mos vendosen dy gjëra me ngjyrë të njëjtë.
 
 **Për 4-5 persona duhen:**
 
@@ -3936,9 +3959,7 @@ Kjo gjellë zakonisht shoqërohet me garniturë të kombinuar, d.m.th. me patate
 
 ### 219. Tasqebap
 
-Tasqebapi zakonisht përgatitet me mish viçi ose dashi. Mishi tul pritet në shirita të hollë në drejtim të kundërt të fijeve ose në copa katrore dhe skuqet në yndyrë të nxehtë së bashku me qepët e prera fije-fije, derisa të avullojë lagështira dhe të krijohet një si kore e kuqe. 
-
-Pastaj shtohet miell, skuqet edhe pak, shuhet me verë, hidhet salcë domatesh, fletë dafine, disa thelpinj hudhra, kripë dhe ujë sa të mbulohet mishi. Vihet të ziejë në zjarr të javashëm derisa gjella të jetë gati. Tasqebapi shoqërohet me salcën e vet. Sipas dëshirës mund të shoqërohet dhe me garniturë perimesh; në mënyrë të veçantë shkon me pure patatesh.
+Tasqebapi zakonisht përgatitet me mish viçi ose dashi. Mishi tul pritet në shirita të hollë në drejtim të kundërt të fijeve ose në copa katrore dhe skuqet në yndyrë të nxehtë së bashku me qepët e prera fije-fije, derisa të avullojë lagështira dhe të krijohet një si kore e kuqe. Pastaj shtohet miell, skuqet edhe pak, shuhet me verë, hidhet salcë domatesh, fletë dafine, disa thelpinj hudhra, kripë dhe ujë sa të mbulohet mishi. Vihet të ziejë në zjarr të javashëm derisa gjella të jetë gati. Tasqebapi shoqërohet me salcën e vet. Sipas dëshirës mund të shoqërohet dhe me garniturë perimesh; në mënyrë të veçantë shkon me pure patatesh.
 
 **Për 4-5 persona duhen:**
 
@@ -3971,9 +3992,7 @@ Mishi tul pritet në copa kubike (copa për një racion) dhe vendoset në tenxhe
 
 Mishi i dashit, i derrit, i lopës e i viçit mund të gatuhet me patate ose me perime të tjera. Në rast se gjella gatuhet me mish të madh merret vetëm tuli, ndërsa mishi i bagëtive të imta pritet në copa me gjithë kockë.
 
-Copat e mishit kaurdisen me qepë të grira hollë derisa të krijohet korja e kuqe, pastaj shtohen domate të qëruara ose salcë, kaurdisen edhe pak, u hidhet kripë, piper, fletë dafine, shtohet ujë sa të mbulohet mishi dhe vihen të ziejnë në zjarr të javashëm. Ndërkaq patatet shtohen e lahen, priten në forma kubike mesatare, skuqen lehtë në tenxhere me yndyrë dhe 10-15 minuta para përfundimit të zierjes së mishit, ato vendosen në një anë të tenxheres. Pastaj u hidhet pak kripë, piper dhe erëza të grira hollë. Mbulohen me kapak dhe lihen të ziejnë në zjarr të javashëm derisa të jenë gati.
-
-Patatet mund të vendosen mbi mish edhe pa kaluar në skuqje, por në këtë rast nuk ruhet mirë forma e tyre. Mishi vihet në mes të pjatës kurse anash patatet. Sipër hidhet pak nga lëngu i gjellës dhe majdanoz i grirë hollë.
+Copat e mishit kaurdisen me qepë të grira hollë derisa të krijohet korja e kuqe, pastaj shtohen domate të qëruara ose salcë, kaurdisen edhe pak, u hidhet kripë, piper, fletë dafine, shtohet ujë sa të mbulohet mishi dhe vihen të ziejnë në zjarr të javashëm. Ndërkaq patatet shtohen e lahen, priten në forma kubike mesatare, skuqen lehtë në tenxhere me yndyrë dhe 10-15 minuta para përfundimit të zierjes së mishit, ato vendosen në një anë të tenxheres. Pastaj u hidhet pak kripë, piper dhe erëza të grira hollë. Mbulohen me kapak dhe lihen të ziejnë në zjarr të javashëm derisa të jenë gati. Patatet mund të vendosen mbi mish edhe pa kaluar në skuqje, por në këtë rast nuk ruhet mirë forma e tyre. Mishi vihet në mes të pjatës kurse anash patatet. Sipër hidhet pak nga lëngu i gjellës dhe majdanoz i grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4007,11 +4026,7 @@ Mishi përgatitet njëlloj si për patate, ndërsa kungulleshkave u pastrohet ci
 
 ### 223. Mish me patëllxhanë
 
-Mishi i prerë në copa skuqet në yndyrë së bashku me qepët e grira hollë, pastaj shtohen domate të grira ose salcë domatesh, kaurdisen së bashku 3-4 minuta, hidhet ujë derisa të mbulohet mishi, kripë, piper, fletë dafine dhe vendosen në zjarr të javashëm për t'u zier. 
-
-Gjatë kësaj kohe përgatiten patëllxhanët, të cilëve u hiqet bishti, lëkura (në 2-3 vende) dhe priten për së gjati më dysh: në qoftë se patëllxhani është i trashë, çdo gjysmë pritet përsëri për së gjati. Këto rripa priten në copa kubike mesatare, vendosen në enë me ujë të ftohtë e kripë që t'u dalë hidhërimi dhe të mos nxihen. Patëllxhanët kullohen, shpëlahen, shtrydhen pak dhe skuqen lehtë në tigan me vaj. 
-
-20-30 minuta para përfundimit të zierjes së mishit, vendosen patëllxhanët të cilët spërkaten me hudhra të grira hollë, ndërsa sipër mund të vihen feta domatesh. Tenxherja mbulohet me kapak dhe lihet të ziejë derisa të jetë gati. Pastaj mishi vendoset në mes të pjatës, kurse rreth e qark patëllxhanët, të cilëve u hidhet pak nga lëngu i vet dhe majdanoz i grirë hollë.
+Mishi i prerë në copa skuqet në yndyrë së bashku me qepët e grira hollë, pastaj shtohen domate të grira ose salcë domatesh, kaurdisen së bashku 3-4 minuta, hidhet ujë derisa të mbulohet mishi, kripë, piper, fletë dafine dhe vendosen në zjarr të javashëm për t'u zier. Gjatë kësaj kohe përgatiten patëllxhanët, të cilëve u hiqet bishti, lëkura (në 2-3 vende) dhe priten për së gjati më dysh: në qoftë se patëllxhani është i trashë, çdo gjysmë pritet përsëri për së gjati. Këto rripa priten në copa kubike mesatare, vendosen në enë me ujë të ftohtë e kripë që t'u dalë hidhërimi dhe të mos nxihen. Patëllxhanët kullohen, shpëlahen, shtrydhen pak dhe skuqen lehtë në tigan me vaj. 20-30 minuta para përfundimit të zierjes së mishit, vendosen patëllxhanët të cilët spërkaten me hudhra të grira hollë, ndërsa sipër mund të vihen feta domatesh. Tenxherja mbulohet me kapak dhe lihet të ziejë derisa të jetë gati. Pastaj mishi vendoset në mes të pjatës, kurse rreth e qark patëllxhanët, të cilëve u hidhet pak nga lëngu i vet dhe majdanoz i grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4062,9 +4077,7 @@ Mishi përgatitet siç u tha edhe më lart. Në mes të zierjes së tij, shtohen
 
 ### 226. Mish dashi me qepë të njoma
 
-Mishi i qengjit dhe i dashit pritet në copa dhe vihet në tenxhere. Qepët e njoma me gjithë bishta si dhe hudhrat pastrohen, priten dhe vendosen mbi mish: shtohet kripë, spec i kuq, një tufë majdanoz dhe pak nenexhik. Sipër hidhen 3-4 lugë gjelle vaj, dhe një gotë ujë. 
-
-Lihen sa të marrin valë, pastaj hiqen nga zjarri i fortë dhe vihen në zjarr të javashëm. Kur përfundon zierja shtohet 1/2 lugë gjelle miell i kaurdisur pak me yndyrë dhe hollohet me ujë të ftohtë. Gjella zien edhe 5 minuta të tjera dhe pastaj hiqet nga zjarri. Gjatë ndarjes, sipas dëshirës shoqërohet me kos.
+Mishi i qengjit dhe i dashit pritet në copa dhe vihet në tenxhere. Qepët e njoma me gjithë bishta si dhe hudhrat pastrohen, priten dhe vendosen mbi mish: shtohet kripë, spec i kuq, një tufë majdanoz dhe pak nenexhik. Sipër hidhen 3-4 lugë gjelle vaj, dhe një gotë ujë. Lihen sa të marrin valë, pastaj hiqen nga zjarri i fortë dhe vihen në zjarr të javashëm. Kur përfundon zierja shtohet 1/2 lugë gjelle miell i kaurdisur pak me yndyrë dhe hollohet me ujë të ftohtë. Gjella zien edhe 5 minuta të tjera dhe pastaj hiqet nga zjarri. Gjatë ndarjes, sipas dëshirës shoqërohet me kos.
 
 **Për 4-5 persona duhen:**
 
@@ -4096,11 +4109,9 @@ Mishi me spinaq bëhet njëlloj si mishi me perime të tjera, por në fund të z
 
 ### 228. Mish me bamje
 
-Bamjet pastrohen duke i prerë bishtin në formë konike, spërkaten me uthull e kripë dhe lihen për disa kohë që t'u zbutet pushi. Copat e mishit skuqen bashkë me qepët e grira hollë; pastaj shtohen domatet ose salcë domatesh. Pasi të jenë kaurdisur të gjitha së bashku, u hidhet kripë, piper, fletë dafine dhe zihen në zjarr të javashëm për disa minuta. 
+Bamjet pastrohen duke i prerë bishtin në formë konike, spërkaten me uthull e kripë dhe lihen për disa kohë që t'u zbutet pushi. Copat e mishit skuqen bashkë me qepët e grira hollë; pastaj shtohen domatet ose salcë domatesh. Pasi të jenë kaurdisur të gjitha së bashku, u hidhet kripë, piper, fletë dafine dhe zihen në zjarr të javashëm për disa minuta.  Në qoftë se mishi është qengji, në të njëjtën kohë me të vihen edhe bamjet, kurse në qoftë se mishi është i madh (viçi), atëherë bamjet vihen më vonë. Bamjet shpëlahen, kullohen dhe kaurdisen pak në tigan me yndyrë.
 
-Në qoftë se mishi është qengji, në të njëjtën kohë me të vihen edhe bamjet, kurse në qoftë se mishi është i madh (viçi), atëherë bamjet vihen më vonë. Bamjet shpëlahen, kullohen dhe kaurdisen pak në tigan me yndyrë. Në një tenxhere të cekët shtrohen feta domatesh, rreth e qark bamjet të rreshtuara me bisht anash dhe majat në mes, duke spërkatur çdo rresht me majdanoz e piper të zi. Në mes të tenxheres, në vendin bosh pa bamje, vendoset mishi, hidhet lëngu, vihet brenda një pjatë porcelani e përmbysur në mënyrë që ato të ruajnë formën gjatë zierjes, dhe pastaj kapaku. 
-
-Gjella vihet në zjarr të javashëm derisa të bëhet gati. Në fund ajo vendoset në pjata ku në mes vihet mishi, ndërsa anash bamjet e rreshtuara bukur, duke u hedhur sipër lëngun e vet dhe majdanoz të grirë hollë.
+Në një tenxhere të cekët shtrohen feta domatesh, rreth e qark bamjet të rreshtuara me bisht anash dhe majat në mes, duke spërkatur çdo rresht me majdanoz e piper të zi. Në mes të tenxheres, në vendin bosh pa bamje, vendoset mishi, hidhet lëngu, vihet brenda një pjatë porcelani e përmbysur në mënyrë që ato të ruajnë formën gjatë zierjes, dhe pastaj kapaku. Gjella vihet në zjarr të javashëm derisa të bëhet gati. Në fund ajo vendoset në pjata ku në mes vihet mishi, ndërsa anash bamjet e rreshtuara bukur, duke u hedhur sipër lëngun e vet dhe majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4119,7 +4130,9 @@ Gjella vihet në zjarr të javashëm derisa të bëhet gati. Në fund ajo vendos
 
 Në një tenxhere me yndyrë hidhen qepë të grira hollë dhe thelat e mishit të kaurdisura pak, por jo të skuqura. Pastaj hidhet pak miell, përzihet, shtohet ujë sa të mbulohet mishi, dhe lihet të ziejë në zjarr të javashëm.
 
-Ndërkohë pastrohen angjinaret, u hiqen luspat e jashtme si dhe pushi që kanë brenda. Ndahen përgjysmë dhe lihen në ujë me limontoz që të mos nxihen. Angjinaret e pastruara përvëlohen në ujë të vluar me kripë, kullohen dhe vihen përbri mishit, së bashku me të bardhat e qepëve të njoma. Spërkaten me kopër e piper të zi, pastaj u vihet një pjatë sipër, kapaku i tenxheres dhe lihen në zjarr të javashëm derisa gjella të jetë gati.
+Ndërkohë pastrohen angjinaret, u hiqen luspat e jashtme si dhe pushi që kanë brenda. Ndahen përgjysmë dhe lihen në ujë me limontoz që të mos nxihen.
+
+Angjinaret e pastruara përvëlohen në ujë të vluar me kripë, kullohen dhe vihen përbri mishit, së bashku me të bardhat e qepëve të njoma. Spërkaten me kopër e piper të zi, pastaj u vihet një pjatë sipër, kapaku i tenxheres dhe lihen në zjarr të javashëm derisa gjella të jetë gati.
 
 **Për 4-5 persona duhen:**
 
@@ -4136,9 +4149,7 @@ Ndërkohë pastrohen angjinaret, u hiqen luspat e jashtme si dhe pushi që kanë
 
 ### 230. Mish me bizele kokërr
 
-Mishi i prerë në thela kaurdiset me qepë të grira hollë. Pasi të ketë zënë pak kore të kuqe, i shtohet miell, kaurdiset dhe pak, hidhen domate të qëruara e të grira ose pak salcë domatesh, shtohet ujë sa të mbulohet mishi, kripë, piper, 1 fletë dafine dhe lihet të ziejë në zjarr të javashëm. 
-
-Bizelet e pastruara (kokërr) vendosen në tenxhere me ujë të valë dhe zihen derisa të jenë gati; lihen të ftohen pak në lëngun e vet që të mos vyshken kokrrat, kullohen dhe hidhen te mishi. Shtohet kopër e grirë, pastaj vihet kapaku dhe lihen të ziejnë së bashku 5-6 minuta. Në këtë mënyrë kokrrat e bizeleve mbeten jeshile dhe të buta. Bizelet zihen veç sepse gjatë zierjes në ujë me kripë e salcë ato forcohen e nxihen. Në fund u hidhet kopër.
+Mishi i prerë në thela kaurdiset me qepë të grira hollë. Pasi të ketë zënë pak kore të kuqe, i shtohet miell, kaurdiset dhe pak, hidhen domate të qëruara e të grira ose pak salcë domatesh, shtohet ujë sa të mbulohet mishi, kripë, piper, 1 fletë dafine dhe lihet të ziejë në zjarr të javashëm. Bizelet e pastruara (kokërr) vendosen në tenxhere me ujë të valë dhe zihen derisa të jenë gati; lihen të ftohen pak në lëngun e vet që të mos vyshken kokrrat, kullohen dhe hidhen te mishi. Shtohet kopër e grirë, pastaj vihet kapaku dhe lihen të ziejnë së bashku 5-6 minuta. Në këtë mënyrë kokrrat e bizeleve mbeten jeshile dhe të buta. Bizelet zihen veç sepse gjatë zierjes në ujë me kripë e salcë ato forcohen e nxihen. Në fund u hidhet kopër.
 
 **Për 4-5 persona duhen:**
 
@@ -4159,9 +4170,11 @@ Që të gatuhet një turli e mirë duhet të sigurohen 3-4 lloj perimesh përve�
 
 Zarzavatet pastrohen dhe priten në copa kubike. Patatet, që të mos nxihen, futen në ujë të ftohtë; bamjet në uthull me kripë dhe mbahen për 10-15 minuta; ndërsa patëllxhanët e prerë në kubikë lihen në ujë me kripë që t'u dalë hidhërimi. Specave u hiqen farëzat, pastaj lahen dhe priten në katrorë të mëdhenj. 
 
-Turlia bëhet më e shijshme kur perimet skuqen veç e veç në tigan me vaj. Në tenxhere me yndyrë kaurdisen thelat e mishit me qepë të grira hollë; shtohen domate ose salcë, kripë, piper, fletë dafine, ujë derisa të mbulohet mishi dhe lihen të ziejnë në zjarr të javashëm. 
+Turlia bëhet më e shijshme kur perimet skuqen veç e veç në tigan me vaj.
 
-Në fundin e një tenxhereje të cekët vihen feta domatesh, përqark tyre specat e kaurdisur dhe në mes mishi. I hidhet majdanoz i grirë hollë e piper i zi, pastaj patëllxhanët, mbi to patatet dhe në fund bamjet. Përsipër hidhet majdanoz, piper, lëng mishi dhe feta domate. Tenxherja mbulohet me një pjatë, pastaj me kapak dhe vihet në zjarr të javashëm rreth 1/2 orë. Gjatë servirjes, në mes të pjatës vihet mishi dhe rreth e qark tij perimet, duke mos i përzier me njëra-tjetrën. Në fund hidhet përsëri majdanoz i grirë hollë dhe kopër.
+Në tenxhere me yndyrë kaurdisen thelat e mishit me qepë të grira hollë; shtohen domate ose salcë, kripë, piper, fletë dafine, ujë derisa të mbulohet mishi dhe lihen të ziejnë në zjarr të javashëm. Në fundin e një tenxhereje të cekët vihen feta domatesh, përqark tyre specat e kaurdisur dhe në mes mishi. I hidhet majdanoz i grirë hollë e piper i zi, pastaj patëllxhanët, mbi to patatet dhe në fund bamjet. Përsipër hidhet majdanoz, piper, lëng mishi dhe feta domate. Tenxherja mbulohet me një pjatë, pastaj me kapak dhe vihet në zjarr të javashëm rreth 1/2 orë.
+
+Gjatë servirjes, në mes të pjatës vihet mishi dhe rreth e qark tij perimet, duke mos i përzier me njëra-tjetrën. Në fund hidhet përsëri majdanoz i grirë hollë dhe kopër.
 
 **Për 4-5 persona duhen:**
 
@@ -4181,7 +4194,9 @@ Në fundin e një tenxhereje të cekët vihen feta domatesh, përqark tyre speca
 
 Mishi i qengjit pritet në thela dhe kaurdiset pak me gjalpë, por jo të skuqet. Pastaj shtohet ujë i nxehtë derisa të mbulohet mishi, hidhet piper kokërr, kripë, dhe vihet në zjarr të javashëm. Në gjysmën e zierjes së mishit hidhen qepë të vogla (qepujka) ose të bardhat e qepëve të njoma, karota të prera në kubikë, selino dhe pak patate të prera në kubikë. Në fund shtohet pak kopër dhe lihen të ziejnë derisa mishi dhe perimet të jenë gati. 
 
-Në një tenxhere me gjalpë kaurdiset pak miell, por jo të skuqet; hiqet nga zjarri dhe sa të ftohet pak, hidhet qumësht i vakët, përzihet, pastaj shtohet lëngu i mishit. Vihet në zjarr dhe duke e përzier ngrohet derisa të trashet. Lihet të ziejë 2-3 minuta, hiqet nga zjarri, ftohet pak dhe rregullohet me të verdhat e vezëve, lëng limoni ose limontoz. Salca hidhet në tenxhere me mish e perime, por nuk duhet të vlojë përsëri. Në fund gjella spërkatet me kopër e piper të zi.
+Në tenxhere me gjalpë kaurdiset pak miell, por jo të skuqet; hiqet nga zjarri dhe sa të ftohet pak, hidhet qumësht i vakët, përzihet, pastaj shtohet lëngu i mishit. Vihet në zjarr dhe duke e përzier ngrohet derisa të trashet. Lihet të ziejë 2-3 minuta, hiqet nga zjarri, ftohet pak dhe rregullohet me të verdhat e vezëve, lëng limoni ose limontoz.
+
+Salca hidhet në tenxhere me mish e perime, por nuk duhet të vlojë përsëri. Në fund gjella spërkatet me kopër e piper të zi.
 
 **Për 4-5 persona duhen:**
 
@@ -4206,7 +4221,9 @@ Tava e Elbasanit përgatitet me mish qengji ose dashi. Po të jetë me mish qeng
 
 Në tenxhere me gjalpë kaurdiset pak miell derisa të zverdhet, por jo të skuqet; shtohet lëngu i mishit të pjekur i holluar me ujë, përzihen dhe vlojnë derisa të krijohet një salcë e trashë. Hiqet nga zjarri, ftohet dhe pastaj i shtohen kos, vezë, kripë dhe përzihen mirë. Në tavë hidhet pak oriz gjysmë i zier, radhiten thelat e mishit, sipër hidhet masa e përgatitur, pak gjalpë dhe piqet në furrë. 
 
-Në qoftë se është mish dashi, ai më parë duhet të ziejë. 10-15 minuta para përfundimit të zierjes së mishit hidhet pak oriz. Në tenxhere rrihen vezët, shtohet miell, kos, lëng mishi, gjalpë dhe kripë. Copat e mishit vendosen në tavë së bashku me orizin, mbi to hidhet masa e përgatitur dhe gjalpë i freskët. Piqet në furrë derisa në sipërfaqe të krijohet një cipë e kuqe.
+Në qoftë se është mish dashi, ai më parë duhet të ziejë. 10-15 minuta para përfundimit të zierjes së mishit hidhet pak oriz. Në tenxhere rrihen vezët, shtohet miell, kos, lëng mishi, gjalpë dhe kripë.
+
+Copat e mishit vendosen në tavë së bashku me orizin, mbi to hidhet masa e përgatitur dhe gjalpë i freskët. Piqet në furrë derisa në sipërfaqe të krijohet një cipë e kuqe.
 
 **Për 4-5 persona duhen:**
 
@@ -4240,7 +4257,9 @@ Thelat e mishit skuqen në tigan me vaj të nxehtë sa të krijohet kore e kuqe,
 
 ### 235. Gjyveç me patate
 
-Mishi pritet në thela, skuqet me qepë, shtohet pak salcë domate ose domate të grira hollë, kripë, piper, dafinë, ujë sa të mbulohet mishi, dhe lihet të ziejë në zjarr të javashëm. Ndërkohë përgatiten patatet të cilat pastrohen, lahen, priten në feta të rrumbullakta me trashësi 1 cm dhe skuqen lehtë me yndyrë. 
+Mishi pritet në thela, skuqet me qepë, shtohet pak salcë domate ose domate të grira hollë, kripë, piper, dafinë, ujë sa të mbulohet mishi, dhe lihet të ziejë në zjarr të javashëm.
+
+Ndërkohë përgatiten patatet të cilat pastrohen, lahen, priten në feta të rrumbullakta me trashësi 1 cm dhe skuqen lehtë me yndyrë. 
 
 Në tavë vendosen thelat e mishit, mbi to patatet, kripë, piper, pak spec i kuq dhe në fund lëngu i mishit. Tava lihet në furrë për gjysmë ore. Pasi gjyveçi piqet, vihet në pjatë dhe spërkatet me lëngun e vet e majdanoz të grirë hollë.
 
@@ -4259,7 +4278,9 @@ Në tavë vendosen thelat e mishit, mbi to patatet, kripë, piper, pak spec i ku
 
 ### 236. Gjyveç me oriz ose me makarona
 
-Mishi bëhet njëlloj si dhe mishi me patate. Orizi i pastruar kaurdiset në tavën me yndyrë. Merret lëngu i mishit, kullohet dhe hollohet në ujë të nxehtë sa të bëhet masa 1:3 (për 1 gotë oriz, 3 gota lëng). Vendoset në zjarr të marrë valë dhe hidhet orizi. Pastaj vihen thelat e mishit, u hidhet piper i zi dhe futen në furrë. Lihen të piqen derisa orizi të ketë pirë gjithë lëngun.
+Mishi bëhet njëlloj si dhe mishi me patate. Orizi i pastruar kaurdiset në tavën me yndyrë.
+
+Merret lëngu i mishit, kullohet dhe hollohet në ujë të nxehtë sa të bëhet masa 1:3 (për 1 gotë oriz, 3 gota lëng). Vendoset në zjarr të marrë valë dhe hidhet orizi. Pastaj vihen thelat e mishit, u hidhet piper i zi dhe futen në furrë. Lihen të piqen derisa orizi të ketë pirë gjithë lëngun.
 
 **Shënim:** Për gjyveç me makarona është mirë të përdoren klitharaqe të vogla, ndërsa spagetat duhet të thyhen në copa të vogla. Makaronat kaurdisen dhe lëngu merret në raportin 1:4.
 
@@ -4293,14 +4314,12 @@ Lakra zakonisht bëhet me mish derri. Thelat e mishit skuqen derisa të krijohet
 * uthull
 
 
-**Shënim për mishin e grirë**: Siç dihet, çdo thelë mishi nuk mund të skuqet pasi shumica e tyre janë të forta. Në mungesë të mishit të butë, mund të përgatiten biftekë e gjellë të tjera të çastit duke e kaluar mishin në makinë grirëse. Në këto raste nuk përdorim pjesët e qafës, të barkut apo të kyçeve (të cilat janë të forta) për skuqje direkte, por përdoret tul kofshe ose shpatulle. Pjesët e tjera përdoren për qofte, kimë ose mbushje, ku mishi përzihet me bukë, oriz ose perime.
+**Gjellë me mish të grirë**: Siç dihet gjellët me mish të skuqur janë më të shijshme se ato me mish të zier, por çdo thelë mishi nuk mund të skuqet pasi shumica e tyre janë të forta. Në mungesë të mishit të butë mund të përgatiten biftekë e gjellë të tjera të çastit me mish, duke i kaluar ato në makinë. Në këto raste nuk përdorim pjesët e qafës, të barkut, të kyçeve, të cilat janë shumë të forta, por duhet të përdoret tul kofshe, shpatulle, ndërsa tuli i qafës, i barkut, kyçet dhe mbeturinat e tjera përdoren për qofte, kimë, mbushje, sepse mishi në këto raste përzihet me bukë, oriz, perime të kaurdisura etj, pra nuk duhet të ngatërrohet masa e mishit të grirë për gjellë të çastit me masën e mishit të grirë për qofte.
 
 
 ### 238. Biftek me mish të grirë e qepë
 
-Mishi i pastruar nga zhapat e damarët pritet në copa dhe kalohet në makinë grirëse...
-
-Mishi pritet në copa të vogla dhe kalohet në makinë së bashku me disa copa dhjamë derri ose lope. I hidhet kripë, piper, pak ujë dhe përzihen mirë. Nga kjo masë përgatiten copa të rrumbullakëta të sheshta me trashësi afërsisht 2 cm, të cilat skuqen në tigan me yndyrë të nxehtë nga të dyja anët. Pastaj shtohen qepët e grira hollë në formë rrethi që herë pas here përzihen. Biftekët lihen të skuqen derisa të jenë bërë gati, pastaj ashtu të nxehtë vihen nëpër pjata së bashku me qepët. Si garniturë mund të jepen patate të ziera dhe perime të tjera. Qepa mund të skuqet edhe veçan, por kur skuqet bashkë me biftekët bëhet më e shijshme.
+Mishi i pastruar nga zhapat e damarët pritet në copa të vogla dhe kalohet në makinë së bashku me disa copa dhjamë derri ose lope. I hidhet kripë, piper, pak ujë dhe përzihen mirë. Nga kjo masë përgatiten copa të rrumbullakëta të sheshta me trashësi afërsisht 2 cm, të cilat skuqen në tigan me yndyrë të nxehtë nga të dyja anët. Pastaj shtohen qepët e grira hollë në formë rrethi që herë pas here përzihen. Biftekët lihen të skuqen derisa të jenë bërë gati, pastaj ashtu të nxehtë vihen nëpër pjata së bashku me qepët. Si garniturë mund të jepen patate të ziera dhe perime të tjera. Qepa mund të skuqet edhe veçan, por kur skuqet bashkë me biftekët bëhet më e shijshme.
 
 **Për 4-5 persona duhen:**
 
@@ -4331,9 +4350,7 @@ Biftekët përgatiten njëlloj si më sipër por në këtë rast kalohen edhe n�
 
 ### 240. Role me mish të grirë
 
-Mish derri ose viçi tul grihet në makinë së bashku me qepët, pastaj shtohet kripë, piper, majdanoz, vezë, pak ujë dhe përzihen mirë. Mishi shtrohet mbi një pecetë të lagur në formë katërkëndëshe me trashësi 2 cm. Në mes të mishit vendosen njëri pas tjetrit vezë të ziera të forta. Duke ngritur pecetën nga të dyja anët, do të bashkohen edhe anët e mishit në formë roleje, të cilat ngjiten edhe më mirë me dorë. Roleja vihet në tavë e përmbysur, me palosjen nga poshtë, pastaj spërkatet nga sipër me yndyrë e galetë të bluar. Shpohet në disa vende me pirun në mënyrë që të mos çahet gjatë pjekjes dhe vihet në furrë afro 30 minuta.
-
-Kjo lloj roleje mund të mbështillet edhe me letër të lyer me vaj dhe në këtë rast mishi piqet me gjithë letër, kurse pas pjekjes ajo hiqet. Roleja shoqërohet me patate të skuqura, të ziera, me pure patate, ose mund të jepet si meze me perime të ndryshme.
+Mish derri ose viçi tul grihet në makinë së bashku me qepët, pastaj shtohet kripë, piper, majdanoz, vezë, pak ujë dhe përzihen mirë. Mishi shtrohet mbi një pecetë të lagur në formë katërkëndëshe me trashësi 2 cm. Në mes të mishit vendosen njëri pas tjetrit vezë të ziera të forta. Duke ngritur pecetën nga të dyja anët, do të bashkohen edhe anët e mishit në formë roleje, të cilat ngjiten edhe më mirë me dorë. Roleja vihet në tavë e përmbysur, me palosjen nga poshtë, pastaj spërkatet nga sipër me yndyrë e galetë të bluar. Shpohet në disa vende me pirun në mënyrë që të mos çahet gjatë pjekjes dhe vihet në furrë afro 30 minuta. Kjo lloj roleje mund të mbështillet edhe me letër të lyer me vaj dhe në këtë rast mishi piqet me gjithë letër, kurse pas pjekjes ajo hiqet. Roleja shoqërohet me patate të skuqura, të ziera, me pure patate, ose mund të jepet si meze me perime të ndryshme.
 
 **Për 4-5 persona duhen:**
 
@@ -4349,9 +4366,9 @@ Kjo lloj roleje mund të mbështillet edhe me letër të lyer me vaj dhe në kë
 
 ### 241. Qofte të fërguara
 
-Qoftet përgatiten zakonisht me mish lope, të përzier me mish derri: në këtë rast ato dalin më të buta dhe më të shijshme. Mishi pritet në copa të vogla dhe grihet në makinë së bashku me qepën dhe hudhrat. Në masën e mishit hidhet vezë, kripë, piper i zi, majdanoz dhe bukë bajate e zbutur me qumësht ose ujë (bukë merret sa 1/4 e peshës së mishit).
+Qoftet përgatiten zakonisht me mish lope, të përzier me mish derri: në këtë rast ato dalin më të buta dhe më të shijshme.
 
-Masa përzihet mirë dhe ndahet në qofte: çdo qofteje i jepet forma e rrumbullakët ose ovale, pastaj kalohen në miell dhe skuqen në tigan me yndyrë nga të dyja anët. Duhet pasur parasysh se qofteve gjatë fërgimit nuk u duhet hedhur shumë yndyrë. Shoqërohen me patate të skuqura, pure patate, perime të tjera të ziera ose të skuqura, pilaf, makarona etj.
+Mishi pritet në copa të vogla dhe grihet në makinë së bashku me qepën dhe hudhrat. Në masën e mishit hidhet vezë, kripë, piper i zi, majdanoz dhe bukë bajate e zbutur me qumësht ose ujë (bukë merret sa 1/4 e peshës së mishit). Masa përzihet mirë dhe ndahet në qofte: çdo qofteje i jepet forma e rrumbullakët ose ovale, pastaj kalohen në miell dhe skuqen në tigan me yndyrë nga të dyja anët. Duhet pasur parasysh se qofteve gjatë fërgimit nuk u duhet hedhur shumë yndyrë. Shoqërohen me patate të skuqura, pure patate, perime të tjera të ziera ose të skuqura, pilaf, makarona etj.
 
 **Për 4-5 persona duhen:**
 
@@ -4370,7 +4387,7 @@ Masa përzihet mirë dhe ndahet në qofte: çdo qofteje i jepet forma e rrumbull
 
 Shpesh përgatiten qofte më tepër nga sa duhen për një vakt, atëherë qoftet e mbetura ruhen në vend të freskët dhe të nesërmen rreshtohen në tavë, mbulohen me salcë domatesh, me qepë dhe futen në furrë për një gjysmë ore.
 
-**Përgatitja e salcës:** Në tigan me yndyrë kaurdisen qepë të grira hollë. Kur qepa merr një ngjyrë si të kuqërremtë shtohet miell, kaurdisen së bashku dhe pastaj shtohen domatet e qëruara e të grira hollë. Kaurdisen edhe pak pastaj i shtohet ujë, uthull, kripë, piper, fletë dafine dhe hudhra të shtypura, dhe lihen derisa të marrin valë. Kjo masë i hidhet qofteve sipër dhe së bashku futen në furrë.
+Përgatitja e salcës: në tigan me yndyrë kaurdisen qepë të grira hollë. Kur qepa merr një ngjyrë si të kuqërremtë shtohet miell, kaurdisen së bashku dhe pastaj shtohen domatet e qëruara e të grira hollë. Kaurdisen edhe pak pastaj i shtohet ujë, uthull, kripë, piper, fletë dafine dhe hudhra të shtypura, dhe lihen derisa të marrin valë. Kjo masë i hidhet qofteve sipër dhe së bashku futen në furrë.
 
 Pasi hiqen nga furra ato vendosen në pjata dhe mbulohen me salcë e majdanoz të grirë hollë. Kjo gjellë mund të shoqërohet edhe me patate të skuqura, të ziera, pure patate dhe perime të tjera. Qoftet mund të bëhen me salcë edhe të porsaskuqura, por në këtë rast lihen pak të qullëta.
 
@@ -4414,9 +4431,7 @@ Masa e qofteve bëhet si më sipër: ndahet në copa pak më të mëdhaja nga qo
 
 ### 244. Kërnacka të furrës
 
-Masa e tyre përgatitet si për qofte të zakonshme duke shtuar dhe hudhra. Ndahen nga dy copa për racion dhe u jepet forma cilindrike, lyhen me miell dhe skuqen në tigan me yndyrë duke i kthyer nga të gjitha anët. Rreshtohen në tepsi dhe në vajin që mbetet nga skuqja e qofteve, hidhet miell i cili kaurdiset pak, shuhet me uthull, shtohet salcë domatesh, përzihet, shtohet ujë dhe pastaj i hidhet kripë, piper, dafinë, rigon, spec i kuq dhe hudhra të shtypura.
-
-Pasi merr valë i hidhet qofteve përsipër. Tava futet në furrë dhe lihet 15-20 minuta. Pasi hiqen nga furra spërkaten me lëngun e vet dhe majdanoz të grirë hollë.
+Masa e tyre përgatitet si për qofte të zakonshme duke shtuar dhe hudhra. Ndahen nga dy copa për racion dhe u jepet forma cilindrike, lyhen me miell dhe skuqen në tigan me yndyrë duke i kthyer nga të gjitha anët. Rreshtohen në tepsi dhe në vajin që mbetet nga skuqja e qofteve, hidhet miell i cili kaurdiset pak, shuhet me uthull, shtohet salcë domatesh, përzihet, shtohet ujë dhe pastaj i hidhet kripë, piper, dafinë, rigon, spec i kuq dhe hudhra të shtypura. Pasi merr valë i hidhet qofteve përsipër. Tava futet në furrë dhe lihet 15-20 minuta. Pasi hiqen nga furra spërkaten me lëngun e vet dhe majdanoz të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4446,7 +4461,9 @@ Pasi merr valë i hidhet qofteve përsipër. Tava futet në furrë dhe lihet 15-
 
 Mishi, pasi pastrohet nga zhapat dhe damarët, pritet në copa të vogla dhe grihet 2 herë në makinë. I shtohet kripë, piper i zi, majdanoz, kopër e grirë hollë, të bardha vezësh dhe oriz gjysmë i zier. E gjithë masa përzihet mirë dhe ndahet në copa sferike (3-4 copë për çdo person). Hidhen në tenxhere me ujë të vluar e kripë dhe zihen për 10-15 minuta në zjarr të javashëm (ujë duhet të hidhet aq sa të mbulohen qoftet). Hiqen nga zjarri, vendosen në një pjatë, ndërsa me lëngun e vet bëhet salca.
 
-Në tenxhere me gjalpë kaurdiset pak miell derisa të zverdhet: shuhet me qumësht dhe pasi përzihet mirë shtohet lëngu i mishit, lihet 2-3 minuta derisa të trashet, hiqet nga zjarri dhe pasi ftohet rregullohet me vezë e limon. Në një pjatë porcelani të thellë rrihet e verdha e vezës me lëng limoni ose limontoz. Pastaj hollohet pak nga pak me salcën e nxehtë, përzihet dhe hidhet në tenxhere ku janë vendosur edhe qoftet. Rregullohen me kripë, piper, gjalpë, majdanoz dhe kopër të grirë hollë.
+Në tenxhere me gjalpë kaurdiset pak miell derisa të zverdhet: shuhet me qumësht dhe pasi përzihet mirë shtohet lëngu i mishit, lihet 2-3 minuta derisa të trashet, hiqet nga zjarri dhe pasi ftohet rregullohet me vezë e limon.
+
+Në një pjatë porcelani të thellë rrihet e verdha e vezës me lëng limoni ose limontoz. Pastaj hollohet pak nga pak me salcën e nxehtë, përzihet dhe hidhet në tenxhere ku janë vendosur edhe qoftet. Rregullohen me kripë, piper, gjalpë, majdanoz dhe kopër të grirë hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4465,7 +4482,9 @@ Në tenxhere me gjalpë kaurdiset pak miell derisa të zverdhet: shuhet me qumë
 
 ### 246. Qofte të skarës
 
-Mishi tul grihet 2 herë në makinë së bashku me qepën. Mishi duhet të jetë pak me dhjamë: në qoftë se është i dobët, atëherë së bashku me të grihen edhe disa copa dhjami. Pastaj i hidhet kripë, piper, rigon, spec i kuq, pak miell dhe përzihen mirë. I jepet forma cilindrike dhe rreshtohen në tepsi. Në çastin kur do të hahen, qoftet piqen në skarë sipër sobës ose mbi mangall me prush. Shoqërohen me patate të skuqura e sallata të ndryshme ose si meze me qepë të grira hollë.
+Mishi tul grihet 2 herë në makinë së bashku me qepën. Mishi duhet të jetë pak me dhjamë: në qoftë se është i dobët, atëherë së bashku me të grihen edhe disa copa dhjami.
+
+Pastaj i hidhet kripë, piper, rigon, spec i kuq, pak miell dhe përzihen mirë. I jepet forma cilindrike dhe rreshtohen në tepsi. Në çastin kur do të hahen, qoftet piqen në skarë sipër sobës ose mbi mangall me prush. Shoqërohen me patate të skuqura e sallata të ndryshme ose si meze me qepë të grira hollë.
 
 **Për 4-5 persona duhen:**
 
@@ -4533,7 +4552,11 @@ Plëndësi, pasi kthehet nga pjesa e mbrapme, lahet mirë me ujë të ftohtë dh
 
 Për këtë të fundit, merret plëndësi i pastruar dhe hapet në tavolinë, spërkatet me kripë, piper, hudhra të shtypura dhe mblidhet në formë roleje si sallam. Lihet të ziejë derisa të marrë valë, pastaj vihet në zjarr të javashëm, i hiqet shkuma, i shtohen qepë (mundësisht të pjekura), karota, selino, piper i zi kokërr, kripë dhe zihen derisa të zbuten. Plëndësi i qengjit lihet rreth 1 orë, ai i lopës 4-5 orë. 
 
-Pasi të ketë zier, hiqet nga lëngu, ftohet dhe pritet rripa-rripa ose në formë fijesh. Në tenxhere me yndyrë kaurdiset qepa, i shtohen karota, rrënjë selino të prera në fije dhe kaurdisen derisa të zbuten; shtohet pak miell dhe pastaj plëndësat e prerë. Vazhdojnë të kaurdisen për 2-3 minuta. I hidhen domate të freskëta dhe salcë, kripë, piper i zi, fletë dafine, uthull dhe lëng plëndsash. Mbulohen me kapak dhe lihen në zjarr të javashëm për një gjysmë ore. Në fund rregullohen sipas dëshirës me hudhra të shtypura.
+Pasi të ketë zier, hiqet nga lëngu, ftohet dhe pritet rripa-rripa ose në formë fijesh.
+
+Në tenxhere me yndyrë kaurdiset qepa, i shtohen karota, rrënjë selino të prera në fije dhe kaurdisen derisa të zbuten; shtohet pak miell dhe pastaj plëndësat e prerë. Vazhdojnë të kaurdisen për 2-3 minuta. I hidhen domate të freskëta dhe salcë, kripë, piper i zi, fletë dafine, uthull dhe lëng plëndsash.
+
+Mbulohen me kapak dhe lihen në zjarr të javashëm për një gjysmë ore. Në fund rregullohen sipas dëshirës me hudhra të shtypura.
 
 **Për 4-5 persona duhen:**
 
@@ -4569,9 +4592,7 @@ Kordhëzat vendosen në tavë, u hidhet kripë, piper, rigon, yndyrë si dhe pak
 
 ### 252. Kukureci
 
-Zorrët e qengjit pastrohen mirë dhe lahen duke i kthyer nga të dyja anët. Merren mëlçitë, gjëndrat, dhjamërat, gabzerret, mushkëritë dhe priten në copa kubike mesatare. U hidhet kripë, piper i zi, rigon të cilat përzihen, pastaj shkohen me radhë në hell: një copë mushkëri, një copë gjëndër, një copë mushkëri, një copë dhjamë, një copë mëlçi e zezë, pastaj përsëri mushkëri e kështu me radhë. 
-
-Si të jenë shkuar të gjitha të brendshmet në hell, pleksen me zorrët sipër duke i mbuluar këto. Kukureci bëhet më i shijshëm kur piqet në hell mbi prush ose në furrë me zjarr të javashëm në mënyrë që të mos përvëlohet. Si të jetë skuqur nga të gjitha anët, hiqet nga helli, vendoset në pjatë dhe i hidhet piper i zi i bluar. Gjatë pjekjes në furrë spërkatet me lëngun e vet duke i hedhur edhe pak yndyrë.
+Zorrët e qengjit pastrohen mirë dhe lahen duke i kthyer nga të dyja anët. Merren mëlçitë, gjëndrat, dhjamërat, gabzerret, mushkëritë dhe priten në copa kubike mesatare. U hidhet kripë, piper i zi, rigon të cilat përzihen, pastaj shkohen me radhë në hell: një copë mushkëri, një copë gjëndër, një copë mushkëri, një copë dhjamë, një copë mëlçi e zezë, pastaj përsëri mushkëri e kështu me radhë. Si të jenë shkuar të gjitha të brendshmet në hell, pleksen me zorrët sipër duke i mbuluar këto. Kukureci bëhet më i shijshëm kur piqet në hell mbi prush ose në furrë me zjarr të javashëm në mënyrë që të mos përvëlohet. Si të jetë skuqur nga të gjitha anët, hiqet nga helli, vendoset në pjatë dhe i hidhet piper i zi i bluar. Gjatë pjekjes në furrë spërkatet me lëngun e vet duke i hedhur edhe pak yndyrë.
 
 **Për 4-5 persona duhen:**
 
@@ -4603,6 +4624,7 @@ Shpendët e vjetër dhe të majmë humbasin më tepër gjatë pjekjes dhe nuk b�
 ### 253. Pulë e zier
 
 Shpendët pas pastrimit rregullohen duke futur këmbët në fund të barkut, ndërsa krahët pas kurrizit. Pastaj futen në ujë të nxehtë (1-1,5 litër për 1 kg shpend), shtohen rrënjë aromatike si majdanoz e selino, qepë, kripë dhe zihet në zjarr të ngadalshëm. Koha e zierjes varet nga lloji i shpendit (nga mosha e tij); zogjtë ziejnë për 30-35 min, kurse pulat e mëdha për 1-1,5 orë.
+
 Shpendët e zier priten në copa, ndërsa lëngu kullohet dhe përdoret për përgatitjen e salcës së bardhë.
 
 Për salcën: kaurdiset mielli me gjalpë, shuhet me lëngun e vet, duke e përzier dhe vlon 2-3 minuta sa të trashet, shtohet kripë e piper sipas shijes, hiqet nga zjarri dhe pasi ftohet pak rregullohet me të verdhat e vezëve e limon. Për këtë të verdhat e vezëve rrihen me lëng limoni ose limontoz të holluar me ujë, shtohet pak e nga pak salcë duke i përzier dhe gjithë masa hidhet te salca. Në fund shtohet pak gjalpë i freskët.
@@ -4745,7 +4767,7 @@ Në tenxhere me gjalpë kaurdiset qepa, hidhen mëlçitë e pulës (të grira), 
 Për 4-5 persona duhet të merren 2 pula të cilave u hiqet fileta nga gjoksi nga të dyja anët me gjithë kockën e krahut. (Për heqjen dhe pastrimin e filetës shih kapitullin e përpunimit të ftohtë të shpendëve). Nga katër fileta të mëdha dhe katër të vogla mund të bëhen 9 racione. Fileta e pastruar rrihet, spërkatet me kripë e piper, kalohet në miell, në vezë të rrahura dhe skuqet nga të dyja anët. Shoqërohet me patate të skuqura. Po kjo filetë mund të skuqet edhe natyrale, siç është, d.m.th. pa kaluar në miell e vezë, ose duke kaluar në to dhe në galetë të bluar ku i jepet forma ovale. Katër fileta dalin me kockën e krahut, ndërsa fileta e pestë mblidhet nga katër filetat e vogla të cilat rrihen më parë, vendosen njëra pas tjetrës (në formë shkalle) në mënyrë që të dalë sa madhësia e filetave të para.
 
 ### 261. Pulë me lëng
-Pjesët e mbetura të heqjes së filetës ose një pulë e tërë, pritet në thela, kaurdiset në tenxhere me yndyrë së bashku me qepët e grira hollë, shtohet miell, kaurdiset pak, shuhet me verë dhe pas pak shtohen domate ose salcë. Kaurdisen për 5 minuta, i hidhet ujë derisa të mbulohen thelat, shtohet kripë, piper e dafinë dhe zihet në zjarr të javashëm derisa të jetë gati. Gjatë ndarjes në pjata spërkatet me majdanoz të grirë hollë, dhe hudhra të shtypura sipas dëshirës. 
+Pjesët e mbetura të heqjes së filetës ose një pulë e tërë, pritet në thela, kaurdiset në tenxhere me yndyrë së bashku me qepët e grira hollë, shtohet miell, kaurdiset pak, shuhet me verë dhe pas pak shtohen domate ose salcë. Kaurdisen për 5 minuta, i hidhet ujë derisa të mbulohen thelat, shtohet kripë, piper e dafinë dhe zihet në zjarr të javashëm derisa të jetë gati. Gjatë ndarjes në pjata spërkatet me majdanoz të grirë hollë, dhe hudhra të shtypura sipas dëshirës.
 
 **Për 4-5 persona duhen:**
 
@@ -4774,7 +4796,7 @@ Pjesët e mbetura të heqjes së filetës ose një pulë e tërë, pritet në th
 Kompostot mund të përgatiten nga fruta të freskëta, të thata, të grira ose të konservuara. Ato zakonisht në fund rregullohen me verë të kuqe dhe jepen gjithnjë të ftohta.
 
 ### 262. Komposto me mollë
-Mollët pasi lahen mirë, qërohen ose lihen të paqëruara, priten përgjysmë, u hiqen farëzat dhe çdo gjysmë pritet në feta portokalli. Gjatë pastrimit mollët që të mos nxihen hidhen në enë me ujë të ftohtë e limontoz. Lëkurat dhe farëzat bashkë me zemrën hidhen në tenxhere me ujë të vluar dhe zihen 10-12 minuta. Pastaj lëngu kullohet, i hidhet sheqer, vihet në zjarr dhe lihet derisa të marrë valë, pastaj hidhen mollët e përgatitura. Lihen të ziejnë 5-10 minuta sipas llojit të mollëve: në qoftë se janë të llojit që zbuten shpejt, atëherë ato hiqen nga zjarri menjëherë sapo të marrin valë. Për aromë, kompostos mund t'i shtohet pak kanellë ose karafil. Ndërsa për të përmirësuar shijen kur kompostoja të jetë ftohur i hidhet verë e kuqe e ëmbël. 
+Mollët pasi lahen mirë, qërohen ose lihen të paqëruara, priten përgjysmë, u hiqen farëzat dhe çdo gjysmë pritet në feta portokalli. Gjatë pastrimit mollët që të mos nxihen hidhen në enë me ujë të ftohtë e limontoz. Lëkurat dhe farëzat bashkë me zemrën hidhen në tenxhere me ujë të vluar dhe zihen 10-12 minuta. Pastaj lëngu kullohet, i hidhet sheqer, vihet në zjarr dhe lihet derisa të marrë valë, pastaj hidhen mollët e përgatitura. Lihen të ziejnë 5-10 minuta sipas llojit të mollëve: në qoftë se janë të llojit që zbuten shpejt, atëherë ato hiqen nga zjarri menjëherë sapo të marrin valë. Për aromë, kompostos mund t'i shtohet pak kanellë ose karafil. Ndërsa për të përmirësuar shijen kur kompostoja të jetë ftohur i hidhet verë e kuqe e ëmbël.
 
 **Shënim:** Po në këtë mënyrë përgatitet dhe kompostoja e dardhës, e ftoit etj.
 
@@ -4809,7 +4831,7 @@ Pjeshkët lahen, përvëlohen 2-3 minuta, kullohen, qërohen, priten përgjysmë
 * pak limontoz
 
 ### 265. Komposto me qershi ose vishnje
-Vishnjet ose qershitë pastrohen nga bishtat, shpëlahen duke e zhytur kullesën me fruta në tenxhere me ujë dhe i hiqen bërthamat të cilat vendosen në një tenxhere tjetër me ujë. Vlohen 5-6 minuta dhe kullohen. Në ujin ku janë zier bërthamat tretet sheqeri dhe hidhen vishnjet ose qershitë e pastruara, ngrohet deri në vlim, hiqet nga zjarri, shtohet pak limontoz dhe në fund pak verë e ëmbël. 
+Vishnjet ose qershitë pastrohen nga bishtat, shpëlahen duke e zhytur kullesën me fruta në tenxhere me ujë dhe i hiqen bërthamat të cilat vendosen në një tenxhere tjetër me ujë. Vlohen 5-6 minuta dhe kullohen. Në ujin ku janë zier bërthamat tretet sheqeri dhe hidhen vishnjet ose qershitë e pastruara, ngrohet deri në vlim, hiqet nga zjarri, shtohet pak limontoz dhe në fund pak verë e ëmbël.
 
 **Për 4-5 persona duhen:**
 
@@ -4943,9 +4965,11 @@ Mollët lahen dhe rreth e qark bishtit i hiqet zemra pa prishur fundin e mollës
 
 ### 276. Buding në tavë me korent
 
-Budingu mund të përgatitet me karota të ziera të grira hollë, oriz të zier, pandispanjë, biskota, ose me bukë të bardhë të tharë. Në qoftë se budingu përgatitet me biskota, merren nga ato që nuk përmbajnë yndyrë. Biskotat, pandispanja ose buka e tharë priten në copa dhe regjen me qumësht të vakët për 10 minuta, duke i vendosur në tenxhere të mbuluar me kapak.
+Budingu mund të përgatitet me karota të ziera të grira hollë, oriz të zier, pandispanjë, biskota, ose me bukë të bardhë të tharë. Në qoftë se budingu përgatitet me biskota, merren nga ato që nuk përmbajnë yndyrë.
 
-Për buding përdoret rrush i thatë pa fara ose në mungesë të tij kokrra reçeli. Të verdhat e vezëve rrihen me sheqer, ndërsa të bardhat veçan, derisa të bëhet një masë e qëndrueshme. Rrushi i thatë, biskotat ose buka e regjur hidhen te të verdhat dhe përzihen përsëri me kujdes që të mos ulet shkuma dhe e gjithë kjo masë hidhet në tavën e lyer me gjalpë dhe me sheqer, ose në forma.
+Biskotat, pandispanja ose buka e tharë priten në copa dhe regjen me qumësht të vakët për 10 minuta, duke i vendosur në tenxhere të mbuluar me kapak. Për buding përdoret rrush i thatë pa fara ose në mungesë të tij kokrra reçeli. Të verdhat e vezëve rrihen me sheqer, ndërsa të bardhat veçan, derisa të bëhet një masë e qëndrueshme.
+
+Rrushi i thatë, biskotat ose buka e regjur hidhen te të verdhat dhe përzihen përsëri me kujdes që të mos ulet shkuma dhe e gjithë kjo masë hidhet në tavën e lyer me gjalpë dhe me sheqer, ose në forma.
 
 Pasi të jetë pjekur dhe ftohur hiqet nga forma dhe spërkatet me lëng reçeli. Në vend të bukës mund të përdoren karota të ziera ose oriz i zier. Si lëndë aromatike mund t'i hidhet liker ose lëkurë limoni.
 
@@ -4960,9 +4984,7 @@ Pasi të jetë pjekur dhe ftohur hiqet nga forma dhe spërkatet me lëng reçeli
 
 ### 277. Kabuni me rrush të thatë
 
-Orizi pastrohet, lahet dhe kaurdiset me gjalpë, pastaj shtohet lëng mishi (mundësisht dashi) ose ujë, rrush i thatë (shpëlahet më parë në ujë të vakët), pak kripë dhe vihet të ziejë. Kur është thithur pothuajse i gjithë lëngu dhe në sipërfaqe janë krijuar vrima, hiqet nga zjarri, përzihet me sheqer, kanellë e karafil të bluar. E mbulojmë me kapak dhe e lemë 10-15 minuta në vend të ngrohtë. Masa hidhet në forma ose në filxhanë dhe pastaj përmbyset. Për të errësuar ngjyrën e kabunisë, në qoftë se duam, hedhim pak sheqer të djegur.
-
-Për kabuni masa e orizit dhe e lëngut merret si për pilaf të zakonshëm: 1 kg oriz me 2 litra ujë.
+Orizi pastrohet, lahet dhe kaurdiset me gjalpë, pastaj shtohet lëng mishi (mundësisht dashi) ose ujë, rrush i thatë (shpëlahet më parë në ujë të vakët), pak kripë dhe vihet të ziejë. Kur është thithur pothuajse i gjithë lëngu dhe në sipërfaqe janë krijuar vrima, hiqet nga zjarri, përzihet me sheqer, kanellë e karafil të bluar. E mbulojmë me kapak dhe e lemë 10-15 minuta në vend të ngrohtë. Masa hidhet në forma ose në filxhanë dhe pastaj përmbyset. Për të errësuar ngjyrën e kabunisë, në qoftë se duam, hedhim pak sheqer të djegur. Për kabuni masa e orizit dhe e lëngut merret si për pilaf të zakonshëm: 1 kg oriz me 2 litra ujë.
 
 **Për 4-5 persona duhen:**
 
@@ -4975,9 +4997,9 @@ Për kabuni masa e orizit dhe e lëngut merret si për pilaf të zakonshëm: 1 k
 
 ### 278. Strudel me mollë
 
-Strudeli me mollë mund të bëhet me brum të shkrifët biskotash ose me petë byreku. Në miellin e situr të përzier me pak sodë hapet një gropë në mes dhe hidhet vezë, gjalpë, kos, kripë. Duke filluar nga mesi përzihet dalëngadalë dhe zihet një brum i fortë i cili lihet të qëndrojë 20-30 minuta. Pastaj hapen petë me trashësi 2-3 mm dhe vendosen mbi një picetë.
+Strudeli me mollë mund të bëhet me brum të shkrifët biskotash ose me petë byreku.
 
-Mollët qërohen, grihen hollë, përzihen me sheqer, kanellë dhe mundësisht me pak galetë të bluar për të pirë lëngun e mollëve. Peta e hapur lyhet me gjalpë dhe mbulohet me shtresën e mollëve. Me anë të pecetës mblidhet në formë roleje, përmbyset në tavë të lyer me yndyrë, lyhet sipër me të verdhë veze, shpohet dhe piqet në furrë për 25-30 minuta. Në fund i hidhet sheqer pudër.
+Në miellin e situr të përzier me pak sodë hapet një gropë në mes dhe hidhet vezë, gjalpë, kos, kripë. Duke filluar nga mesi përzihet dalëngadalë dhe zihet një brum i fortë i cili lihet të qëndrojë 20-30 minuta. Pastaj hapen petë me trashësi 2-3 mm dhe vendosen mbi një picetë. Mollët qërohen, grihen hollë, përzihen me sheqer, kanellë dhe mundësisht me pak galetë të bluar për të pirë lëngun e mollëve. Peta e hapur lyhet me gjalpë dhe mbulohet me shtresën e mollëve. Me anë të pecetës mblidhet në formë roleje, përmbyset në tavë të lyer me yndyrë, lyhet sipër me të verdhë veze, shpohet dhe piqet në furrë për 25-30 minuta. Në fund i hidhet sheqer pudër.
 
 Strudeli mund të përgatitet dhe me petë byreku. Në këtë rast shtrohen 3-4 petë njëra mbi tjetrën, spërkaten me gjalpë, vendosen mollët, mblidhet në formë roleje dhe piqet. Strudeli i cilësisë së lartë del kur përgatitet me brum peta-peta (sfoljat).
 
@@ -5036,9 +5058,7 @@ Përgatitet kremi dhe petët si më sipër. Petët spërkaten me gjalpë dhe sht
 
 ### 281. Kek
 
-Zbutet gjalpi dhe përzihet mirë me sheqer, rrihet me lugë druri dhe duke vazhduar rrahjen shtohen pak nga pak vezët, pak kripë dhe konjak. Pasi rrihet 10-15 minuta i shtohet rrush i thatë pa fara ose kokrra reçeli të grira, sipas dëshirës mund të shtohen arra ose bajame të grira. Pastaj i shtohet miell që më parë është situr dhe përzier me pak sodë. Zihet brumi, i cili nuk duhet të punohet shumë që të mos bëhet elastik.
-
-Brumi hidhet në formë ose në tavë me korent të lyer me yndyrë dhe të pudrosur me miell. Sipërfaqja e brumit sheshohet dhe piqet për 40-45 minuta. Pasi piqet, ftohet pak, hiqet nga forma dhe lihet të ftohet për disa orë, pritet në copa dhe rregullohet me sheqer pudër. Sipas dëshirës gjysma e brumit mund të përzihet me kakao dhe si aromë mund t'i hidhet lëkurë limoni ose portokalli.
+Zbutet gjalpi dhe përzihet mirë me sheqer, rrihet me lugë druri dhe duke vazhduar rrahjen shtohen pak nga pak vezët, pak kripë dhe konjak. Pasi rrihet 10-15 minuta i shtohet rrush i thatë pa fara ose kokrra reçeli të grira, sipas dëshirës mund të shtohen arra ose bajame të grira. Pastaj i shtohet miell që më parë është situr dhe përzier me pak sodë. Zihet brumi, i cili nuk duhet të punohet shumë që të mos bëhet elastik. Brumi hidhet në formë ose në tavë me korent të lyer me yndyrë dhe të pudrosur me miell. Sipërfaqja e brumit sheshohet dhe piqet për 40-45 minuta. Pasi piqet, ftohet pak, hiqet nga forma dhe lihet të ftohet për disa orë, pritet në copa dhe rregullohet me sheqer pudër. Sipas dëshirës gjysma e brumit mund të përzihet me kakao dhe si aromë mund t'i hidhet lëkurë limoni ose portokalli.
 
 **Për një kek 600 gr duhen:**
 
@@ -5070,9 +5090,7 @@ Pastaj brumi hidhet në tavë me korent duke i vënë në mes formën, e cila ly
 
 
 ### 283. Kek me kos dhe vaj
-Në një enë rrihen vezët me sheqerin, shtohet kos, vaj, lëkurë portokalli ose limoni, arra të grira hollë dhe sipas mundësisë rrush ose fiq të thatë të grirë. Masa përzihet mirë, sitet mielli, përzihet me pak sodë dhe hidhet masa e përgatitur. Brumi nuk duhet të rrihet shumë që të mos bëhet elastik.
-
-Pastaj hidhet në tavën me korent të lyer me yndyrë dhe të pudrosur me pak miell. Në mes vendoset forma që ka tava, piqet për 35-40 minuta, ftohet pak, hiqet nga tava, hiqet dhe forma e mesit dhe sipër i hidhet sheqer pudër. Gjatë përgatitjes së kekut një pjesë mund të përzihet me kakao dhe të hidhet përsipër, kurse pjesa tjetër të lihet e bardhë.
+Në një enë rrihen vezët me sheqerin, shtohet kos, vaj, lëkurë portokalli ose limoni, arra të grira hollë dhe sipas mundësisë rrush ose fiq të thatë të grirë. Masa përzihet mirë, sitet mielli, përzihet me pak sodë dhe hidhet masa e përgatitur. Brumi nuk duhet të rrihet shumë që të mos bëhet elastik. Pastaj hidhet në tavën me korent të lyer me yndyrë dhe të pudrosur me pak miell. Në mes vendoset forma që ka tava, piqet për 35-40 minuta, ftohet pak, hiqet nga tava, hiqet dhe forma e mesit dhe sipër i hidhet sheqer pudër. Gjatë përgatitjes së kekut një pjesë mund të përzihet me kakao dhe të hidhet përsipër, kurse pjesa tjetër të lihet e bardhë.
 
 **Për 1 kek duhen:**
 
@@ -5090,9 +5108,11 @@ Pastaj hidhet në tavën me korent të lyer me yndyrë dhe të pudrosur me pak m
 ### 284. Ëmbëlsirë me qershi
 Në një enë të thellë hidhen vezët dhe sheqeri, rrihen mirë, shtohet kos, vaj ose gjalpë sipas dëshirës (në rast se hidhet gjalpë ai duhet të rrihet me vezët e sheqerin). Masa përzihet mirë, pastaj i shtohet vanilje ose lëkurë limoni.
 
-Në këtë masë hidhet mielli i situr i përzier me pak sodë (kujdes në hedhjen e sodës, pasi sasia e tepërt e prish shijen). Zihet brumi gjysmë i trashë, hidhet në tavë të lyer me yndyrë, pudroset me pak miell dhe sheshohet me dorë. Mbi brumin hidhet një shtresë qershish të pastruara nga bërthamat (pa sheqer, siç janë) dhe mbulohen me një shtresë të hollë kremi të përgatitur me qumësht e niseshte.
+Në këtë masë hidhet mielli i situr i përzier me pak sodë (kujdes në hedhjen e sodës, pasi sasia e tepërt e prish shijen). Zihet brumi gjysmë i trashë, hidhet në tavë të lyer me yndyrë, pudroset me pak miell dhe sheshohet me dorë.
 
-**Përgatitja e kremit:** Në një tenxhere vlohet qumështi me sheqer. Veçmas hollohet niseshteja me pak ujë të ftohtë dhe kur qumështi të ketë marrë valë, hidhet në të duke e përzier shpejt që të mos krijohen kokrra. Hiqet nga zjarri dhe i hidhet pak vanilje.
+Mbi brumin hidhet një shtresë qershish të pastruara nga bërthamat (pa sheqer, siç janë) dhe mbulohen me një shtresë të hollë kremi të përgatitur me qumësht e niseshte.
+
+Përgatitja e kremit veprohet qështu: në një tenxhere vlohet qumështi me sheqer. Veçmas hollohet niseshteja me pak ujë të ftohtë dhe kur qumështi të ketë marrë valë, hidhet në të duke e përzier shpejt që të mos krijohen kokrra. Hiqet nga zjarri dhe i hidhet pak vanilje.
 
 **Për 1 tavë duhen:**
 
@@ -5131,8 +5151,6 @@ Gjalpi, sheqeri, vezët dhe pak kripë hidhen në një enë, përzihen me lugë 
 Nga ky brumë mund të përgatiten dhe biskota të shkrifta (hapet brumi me trashësi rreth 1 cm dhe pritet me forma).
 
 Ndërsa në rastin tonë 3/4 e brumit hapen në petë me trashësi 1,5-2 cm. Hapja mund të bëhet edhe drejtpërdrejt në tavë të lyer me yndyrë, sipër hidhet një shtresë reçeli, rrafshohet, ndërsa pjesa e mbetur e brumit përzihet me pak miell që të forcohet, hapet në petë të holla 7-8 mm dhe pritet në formë shiriti me 1,5 cm gjerësi. Këta shirita vendosen mbi reçel në formë rrjete. Pastaj ëmbëlsira piqet 20-25 minuta.
-
-Gjalpi, sheqeri, vezët dhe pak kripë hidhen në një enë, përzihen me lugë druri derisa të krijohet një masë e njëllojtë. Këtu hidhet mielli i përzier me pak sodë dhe zihet brumi duke mos e punuar shumë. Sasia e madhe e gjalpit në brumë bën që ai të jetë i shkrifët. Në qoftë se pakësohet gjalpi, kjo sasi mund të zëvendësohet me kos ose ujë dhe brumi del më i ngjeshur, por me kosto më të ulët. Në qoftë se dëshironi që pastat të jenë edhe më të shkrifta, atëherë hidhen vetëm të verdhat e vezëve.
 
 **Masat:**
 
@@ -5218,7 +5236,9 @@ Në një enë përzihen mirë vezët, sheqeri, mjalti, gjalpi dhe në fund shtoh
 ### 291. Pandispanjë
 Pandispanja mund të përgatitet në dy mënyra: në mënyrë të ftohtë dhe të ngrohtë.
 
-Me mënyrën e parë brumi del më i fryrë, ndërsa me të dytën më i shkrifët. Përgatitja e pandispanjës me mënyrën e ftohtë bëhet: Vezët ndahen veç të verdhat e veç të bardhat. Të verdhat rrihen me sheqer derisa të zbardhen e të shkrihen kokërrizat e sheqerit. Masa shton vëllimin gati 3 herë. Në të njëjtën kohë, mundësisht në vend të freskët (rrahja bëhet e shpejtë), rrihen të bardhat e vezëve në enë bakri të kallajisur, porcelani ose plastmasi. Në fund të rrahjes, kur është krijuar një shkumë e qëndrueshme dhe masa fillon sikur të pritet, shtohet një sasi e vogël sheqer pudër ose sheqer, i cili e përmirëson strukturën e masës. Rrahja ndërpritet kur të bardhat e vezëve shtojnë vëllimin e tyre 4-5 herë (d.m.th. zgjat jo më shumë se 15 minuta). Në rast se të bardhat e vezëve nuk janë rrahur mirë, atëherë në to krijohen flluska të mëdha ajri, të cilat gjatë përzierjes plasin dhe brumi bëhet i ngjeshur. Në të verdhat e vezëve të rrahura me sheqer hidhen të bardhat (1/3 e sasisë), pastaj duke e përzier lehtë hidhet mielli, pastaj pjesa tjetër e të bardhave. E gjithë kjo masë përzihet lehtë me kujdes nga poshtë-lart që të mos ulet.
+Me mënyrën e parë brumi del më i fryrë, ndërsa me të dytën më i shkrifët.
+
+Përgatitja e pandispanjës me mënyrën e ftohtë bëhet: Vezët ndahen veç të verdhat e veç të bardhat. Të verdhat rrihen me sheqer derisa të zbardhen e të shkrihen kokërrizat e sheqerit. Masa shton vëllimin gati 3 herë. Në të njëjtën kohë, mundësisht në vend të freskët (rrahja bëhet e shpejtë), rrihen të bardhat e vezëve në enë bakri të kallajisur, porcelani ose plastmasi. Në fund të rrahjes, kur është krijuar një shkumë e qëndrueshme dhe masa fillon sikur të pritet, shtohet një sasi e vogël sheqer pudër ose sheqer, i cili e përmirëson strukturën e masës. Rrahja ndërpritet kur të bardhat e vezëve shtojnë vëllimin e tyre 4-5 herë (d.m.th. zgjat jo më shumë se 15 minuta). Në rast se të bardhat e vezëve nuk janë rrahur mirë, atëherë në to krijohen flluska të mëdha ajri, të cilat gjatë përzierjes plasin dhe brumi bëhet i ngjeshur. Në të verdhat e vezëve të rrahura me sheqer hidhen të bardhat (1/3 e sasisë), pastaj duke e përzier lehtë hidhet mielli, pastaj pjesa tjetër e të bardhave. E gjithë kjo masë përzihet lehtë me kujdes nga poshtë-lart që të mos ulet.
 
 Brumi i gatshëm hidhet në tavën e lyer me yndyrë e të pudrosur me miell dhe piqet për 25-30 minuta. Gjatë pjekjes kapaku i tavës nuk duhet të hapet të paktën 15-20 minutat e para, pasi ëmbëlsira ulet.
 
@@ -5244,16 +5264,19 @@ Pastaj përzihet me miellin dhe hidhet në tavën e lyer me yndyrë dhe të pudr
 ### 292. Tortë pandispanjë
 Pandispanja e pjekur, pasi lihet të ftohet 4-5 orë, pritet në dy-tri shtresa: secila shtresë spërkatet me shurup sheqeri të aromatizuar me liker ose konjak, lyhet me ndonjë krem mbi të cilin mund të vendosen kokrra reçeli, arra, bajame dhe ngjiten me njëra-tjetrën. Sipërfaqja lyhet me të njëjtin krem ose me krem gjalpi dhe zbukurohet sipas dëshirës me reçel, arra, ose me thërrimet e pandispanjës.
 
-Përbrenda mund të përdoret kremi i pastiçerisë që kemi përgatitur për qumështor me petë, ndërsa për shtresën e sipërme është mirë të përgatitet krem gjalpi. Llojet e kremrave janë të shumtë, por këtu po shpjegojmë një nga më të thjeshtit: zbutet gjalpi, rrihet derisa të zbardhet dhe duke e rrahur pak nga pak i hidhet qumësht i kondensuar (milk) — për 2-3 lugë gjelle gjalpë, gjysmë kutie milk.
+Përbrenda mund të përdoret kremi i pastiçerisë që kemi përgatitur për qumështor me petë, ndërsa për shtresën e sipërme është mirë të përgatitet krem gjalpi. Llojet e kremrave janë të shumtë, por këtu po shpjegojmë një nga më të thjeshtit.
+
+Zbutet gjalpi, rrihet derisa të zbardhet dhe duke e rrahur pak nga pak i hidhet qumësht i kondensuar (milk) — për 2-3 lugë gjelle gjalpë, gjysmë kutie milk.
 
 
 ### 293. Kompekaj
-Kompekaji është pandispanjë e përzier me kakao dhe arra, e pjekur në tavë, e shtruar me 5-6 peta byreku poshtë dhe po ashtu edhe sipër. Nga sasia e miellit hiqet gjysma dhe zihet brumi si për byrek, ndahet në dy pjesë, secila pjesë hapet në petë me trashësi 4-5 mm. Sipërfaqja e tyre lyhet me gjalpë dhe mbështillet në formë roleje. Lihet 10-15 minuta që brumi të fitojë elasticitet.
+Kompekaji është pandispanjë e përzier me kakao dhe arra, e pjekur në tavë, e shtruar me 5-6 peta byreku poshtë dhe po ashtu edhe sipër.
 
-Çdo role ndahet në dy pjesë dhe nga çdo pjesë hapen petë pak më të mëdha se madhësia e tepsisë. Tepsia lyhet me yndyrë, shtrohen mbi të dy petët e spërkatura me gjalpë, mbi të cilat hidhet mbushja nga brumi i pandispanjës i përzier me arra të grira e kakao. Mbështillen anët e petëve mbi mbushjen dhe shtrohen 2 petët e sipërme të spërkatura me gjalpë. Anët e tepërta mbështillen nga brenda, sipërfaqja lyhet me të verdha vezësh dhe piqet.
+Nga sasia e miellit hiqet gjysma dhe zihet brumi si për byrek, ndahet në dy pjesë, secila pjesë hapet në petë me trashësi 4-5 mm. Sipërfaqja e tyre lyhet me gjalpë dhe mbështillet në formë roleje. Lihet 10-15 minuta që brumi të fitojë elasticitet. Çdo role ndahet në dy pjesë dhe nga çdo pjesë hapen petë pak më të mëdha se madhësia e tepsisë. Tepsia lyhet me yndyrë, shtrohen mbi të dy petët e spërkatura me gjalpë, mbi të cilat hidhet mbushja nga brumi i pandispanjës i përzier me arra të grira e kakao. Mbështillen anët e petëve mbi mbushjen dhe shtrohen 2 petët e sipërme të spërkatura me gjalpë. Anët e tepërta mbështillen nga brenda, sipërfaqja lyhet me të verdha vezësh dhe piqet.
 
-**Mbushja përgatitet në këtë mënyrë:**
-Vezët rrihen me sheqer derisa të krijohet një masë e fryrë e qëndrueshme. Hidhet pak nga pak mielli i përzier me arra të grira dhe kakao, përzihen me kujdes që brumi të mos bjerë dhe hidhet në tepsi me petët e shtruara. Për përgatitjen e kompekajit, peta e poshtme dhe e sipërme mund të bëhet edhe nga petët e zakonshme të byrekut. Kompekaji i pjekur pritet në copa, ftohet dhe mbi të hidhet shurup i nxehtë.
+Mbushja përgatitet në këtë mënyrë: vezët rrihen me sheqer derisa të krijohet një masë e fryrë e qëndrueshme. Hidhet pak nga pak mielli i përzier me arra të grira dhe kakao, përzihen me kujdes që brumi të mos bjerë dhe hidhet në tepsi me petët e shtruara.
+
+Për përgatitjen e kompekajit, peta e poshtme dhe e sipërme mund të bëhet edhe nga petët e zakonshme të byrekut. Kompekaji i pjekur pritet në copa, ftohet dhe mbi të hidhet shurup i nxehtë.
 
 **Për 25 copë duhen:**
 
@@ -5267,11 +5290,11 @@ Vezët rrihen me sheqer derisa të krijohet një masë e fryrë e qëndrueshme. 
 
 
 ### 294. Pasta shu
-Brumi shu ndryshe mund të quhet edhe brum i zier: përgatitet duke zier në ujë miellin së bashku me gjalpë ose yndyrë tjetër dhe pas zierjes ky brum përzihet me sasi të madhe vezësh. Gjatë pjekjes nga nxehtësia e madhe e furrës avullohet shumë ujë duke krijuar një hapësirë (boshllëk) e cila mbushet me krem pastiçerie, mareng ose me reçel.
+Brumi shu ndryshe mund të quhet edhe brum i zier: përgatitet duke zier në ujë miellin së bashku me gjalpë ose yndyrë tjetër dhe pas zierjes ky brum përzihet me sasi të madhe vezësh.
 
-Në një tenxhere hidhet qumësht ose ujë, kripë, gjalpë dhe pak sheqer. Përzihen dhe ngrohen deri në vlim, pastaj hidhet miell i situr, përzihet shpejt me lugë druri dhe mbahet në zjarr të dobët duke e përzier derisa mielli të shkëputet lehtë nga ena dhe nga luga e drurit. Atëherë masa hiqet nga zjarri, hidhet në tas porcelani, ftohet pak deri në 70-80°C dhe duke e përzier i hidhen dalëngadalë vezët. Përzierja vazhdon derisa të krijohet një masë e trashë në formë kremi dhe pak elastike.
+Gjatë pjekjes nga nxehtësia e madhe e furrës avullohet shumë ujë duke krijuar një hapësirë (boshllëk) e cila mbushet me krem pastiçerie, mareng ose me reçel.
 
-Brumi i përgatitur hidhet në qeskë me tub metalik me diametër 10-15 mm ose në kaush prej letre dhe nxirret në tepsi në formë tubi ose në formë të rrumbullakët duke lënë 2-3 cm largësi nga njëra-tjetra. Ky brum mund të ndahet edhe me lugë gjelle dhe piqet në furrë për 20-25 minuta. Pas pjekjes lihet të ftohet, hiqet nga tepsia dhe pritet me thikë. Nga njëra anë mbushen me krem të përgatitur dhe pudrosen me sheqer pudër.
+Në një tenxhere hidhet qumësht ose ujë, kripë, gjalpë dhe pak sheqer. Përzihen dhe ngrohen deri në vlim, pastaj hidhet miell i situr, përzihet shpejt me lugë druri dhe mbahet në zjarr të dobët duke e përzier derisa mielli të shkëputet lehtë nga ena dhe nga luga e drurit. Atëherë masa hiqet nga zjarri, hidhet në tas porcelani, ftohet pak deri në 70-80°C dhe duke e përzier i hidhen dalëngadalë vezët. Përzierja vazhdon derisa të krijohet një masë e trashë në formë kremi dhe pak elastike. Brumi i përgatitur hidhet në qeskë me tub metalik me diametër 10-15 mm ose në kaush prej letre dhe nxirret në tepsi në formë tubi ose në formë të rrumbullakët duke lënë 2-3 cm largësi nga njëra-tjetra. Ky brum mund të ndahet edhe me lugë gjelle dhe piqet në furrë për 20-25 minuta. Pas pjekjes lihet të ftohet, hiqet nga tepsia dhe pritet me thikë. Nga njëra anë mbushen me krem të përgatitur dhe pudrosen me sheqer pudër.
 
 **Për 500 gr prodhim të pjekur pa mbushje duhen:**
 
